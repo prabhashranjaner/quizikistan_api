@@ -1,4 +1,6 @@
 const express = require("express");
+const cors = require("cors");
+
 const scienceQuestions = require("./data/science.json");
 const cricketQuestions = require("./data/cricket.json");
 const geographyQuestions = require("./data/geography.json");
@@ -10,6 +12,9 @@ const politiesQuestions = require("./data/politics.json");
 const kidsQuestions = require("./data/kids.json");
 
 const app = express();
+
+// Allow all origins (for development or public APIs)
+app.use(cors());
 
 const PORT = process.env.POST || 8080;
 
