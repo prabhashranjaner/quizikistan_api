@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "question": "Who is known as the 'Father of Indian Cinema'?",
+    "options": ["Satyajit Ray", "Dadasaheb Phalke", "Raj Kapoor", "Bimal Roy"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 2,
+    "question": "What was the first Indian feature film ever made?",
+    "options": ["Raja Harishchandra", "Alam Ara", "Mother India", "Shree 420"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 3,
+    "question": "Which was India’s first sound film?",
+    "options": ["Raja Harishchandra", "Alam Ara", "Kismet", "Mughal-e-Azam"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 4,
+    "question": "Who directed the epic movie 'Sholay'?",
+    "options": [
+      "Ramesh Sippy",
+      "Yash Chopra",
+      "Manmohan Desai",
+      "Hrishikesh Mukherjee"
+    ],
+    "correctAnswer": 0,
+    "points": 5
+  },
+  {
+    "id": 5,
+    "question": "Which actor is popularly known as the 'Tragedy King' of Bollywood?",
+    "options": ["Raj Kapoor", "Dilip Kumar", "Dev Anand", "Guru Dutt"],
+    "correctAnswer": 1,
+    "points": 5
+  },
+  {
+    "id": 6,
+    "question": "Which Bollywood movie was India's first official entry to the Oscars?",
+    "options": ["Mother India", "Salaam Bombay", "Lagaan", "Guide"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 7,
+    "question": "Which Indian film won the first National Film Award for Best Feature Film?",
+    "options": [
+      "Do Bigha Zamin",
+      "Pather Panchali",
+      "Kabuliwala",
+      "Neecha Nagar"
+    ],
+    "correctAnswer": 3,
+    "points": 15
+  },
+  {
+    "id": 8,
+    "question": "Who played the role of Mogambo in 'Mr. India'?",
+    "options": ["Prem Chopra", "Amrish Puri", "Ajit", "Amjad Khan"],
+    "correctAnswer": 1,
+    "points": 5
+  },
+  {
+    "id": 9,
+    "question": "Which Bollywood actress was the first Indian woman to win the Miss World title?",
+    "options": [
+      "Aishwarya Rai",
+      "Reita Faria",
+      "Sushmita Sen",
+      "Priyanka Chopra"
+    ],
+    "correctAnswer": 1,
+    "points": 15
+  },
+  {
+    "id": 10,
+    "question": "Who composed the iconic song 'Vande Mataram' in the film 'Anand Math'?",
+    "options": ["Hemant Kumar", "Naushad", "R.D. Burman", "C. Ramchandra"],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 11,
+    "question": "Which movie marked the debut of Amitabh Bachchan as a lead actor?",
+    "options": ["Saat Hindustani", "Anand", "Zanjeer", "Guddi"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 12,
+    "question": "Who directed the film 'Pather Panchali'?",
+    "options": ["Satyajit Ray", "Mrinal Sen", "Ritwik Ghatak", "Bimal Roy"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 13,
+    "question": "Which regional film industry is based in Hyderabad?",
+    "options": ["Kollywood", "Mollywood", "Tollywood", "Sandalwood"],
+    "correctAnswer": 2,
+    "points": 5
+  },
+  {
+    "id": 14,
+    "question": "Which film was India’s first to be shot in Technicolor?",
+    "options": ["Mother India", "Jhansi Ki Rani", "Madhumati", "Aan"],
+    "correctAnswer": 3,
+    "points": 15
+  },
+  {
+    "id": 15,
+    "question": "Who played Bhallaladeva in the 'Baahubali' series?",
+    "options": ["Prabhas", "Rana Daggubati", "Sudeep", "Vijay Sethupathi"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 16,
+    "question": "Which Malayalam film won the National Award for Best Feature Film in 2019?",
+    "options": ["Jallikattu", "Kumbalangi Nights", "Virus", "Eeda"],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 17,
+    "question": "Who composed the music for 'Lagaan'?",
+    "options": [
+      "A.R. Rahman",
+      "Shankar-Ehsaan-Loy",
+      "Jatin-Lalit",
+      "Anu Malik"
+    ],
+    "correctAnswer": 0,
+    "points": 5
+  },
+  {
+    "id": 18,
+    "question": "Which Tamil movie was India’s first submission for Best Foreign Language Film at the Oscars?",
+    "options": ["Nayakan", "Deiva Magan", "Jeans", "Anbe Sivam"],
+    "correctAnswer": 1,
+    "points": 15
+  },
+  {
+    "id": 19,
+    "question": "Who is the only Indian actress to have won two Oscars?",
+    "options": ["No one", "Aishwarya Rai", "Bhanu Athaiya", "Deepika Padukone"],
+    "correctAnswer": 2,
+    "points": 15
+  },
+  {
+    "id": 20,
+    "question": "Which Bollywood film features the song 'Chaiyya Chaiyya'?",
+    "options": ["Dil Se", "Kabhi Khushi Kabhie Gham", "Bombay", "Yuva"],
+    "correctAnswer": 0,
+    "points": 5
+  },
+  {
+    "id": 21,
+    "question": "Which Bengali director won an Oscar for Lifetime Achievement?",
+    "options": [
+      "Satyajit Ray",
+      "Ritwik Ghatak",
+      "Mrinal Sen",
+      "Buddhadeb Dasgupta"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 22,
+    "question": "Who played the role of Alauddin Khilji in 'Padmaavat'?",
+    "options": [
+      "Ranbir Kapoor",
+      "Ranveer Singh",
+      "Shahid Kapoor",
+      "Ajay Devgn"
+    ],
+    "correctAnswer": 1,
+    "points": 5
+  },
+  {
+    "id": 23,
+    "question": "Which Bollywood film is inspired by the life of Milkha Singh?",
+    "options": ["Mary Kom", "Bhaag Milkha Bhaag", "Dangal", "Sultan"],
+    "correctAnswer": 1,
+    "points": 5
+  },
+  {
+    "id": 24,
+    "question": "Which movie holds the record for the longest running Indian film in theatres?",
+    "options": [
+      "Dilwale Dulhania Le Jayenge",
+      "Sholay",
+      "Mughal-e-Azam",
+      "Hum Aapke Hain Koun..!"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 25,
+    "question": "Who directed 'Gangs of Wasseypur'?",
+    "options": [
+      "Anurag Kashyap",
+      "Vishal Bhardwaj",
+      "Tigmanshu Dhulia",
+      "Neeraj Pandey"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 26,
+    "question": "Who was the first Indian actor to star in a Hollywood film?",
+    "options": ["Sabu Dastagir", "Amitabh Bachchan", "Om Puri", "Irrfan Khan"],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 27,
+    "question": "Which Hindi film featured the first playback singing in Indian cinema?",
+    "options": ["Alam Ara", "Dhoop Chhaon", "Achhut Kanya", "Devdas"],
+    "correctAnswer": 1,
+    "points": 15
+  },
+  {
+    "id": 28,
+    "question": "Which South Indian actor starred in the movie 'Robot' alongside Aishwarya Rai?",
+    "options": ["Vijay", "Rajinikanth", "Kamal Haasan", "Chiranjeevi"],
+    "correctAnswer": 1,
+    "points": 5
+  },
+  {
+    "id": 29,
+    "question": "Which was the first Indian film to cross ₹100 crore at the box office?",
+    "options": ["Ghajini", "Dhoom 2", "Krrish", "Kabhi Alvida Naa Kehna"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 30,
+    "question": "Who played the role of Mahavir Singh Phogat in 'Dangal'?",
+    "options": ["Salman Khan", "Aamir Khan", "Akshay Kumar", "Ajay Devgn"],
+    "correctAnswer": 1,
+    "points": 5
+  },
+  {
+    "id": 31,
+    "question": "Which film won the Palme d’Or at Cannes 1946?",
+    "options": ["Neecha Nagar", "Pather Panchali", "Do Bigha Zamin", "Guide"],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 32,
+    "question": "Who directed the Marathi film 'Sairat'?",
+    "options": [
+      "Nagraj Manjule",
+      "Mahesh Manjrekar",
+      "Umesh Kulkarni",
+      "Paresh Mokashi"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 33,
+    "question": "Which Bollywood composer is known as the 'Mozart of Madras'?",
+    "options": [
+      "Ilaiyaraaja",
+      "A.R. Rahman",
+      "M.S. Viswanathan",
+      "R.D. Burman"
+    ],
+    "correctAnswer": 1,
+    "points": 5
+  },
+  {
+    "id": 34,
+    "question": "Which Telugu film became India’s highest-grossing movie in 2017?",
+    "options": ["Baahubali 2", "Pushpa", "RRR", "Magadheera"],
+    "correctAnswer": 0,
+    "points": 5
+  },
+  {
+    "id": 35,
+    "question": "Who was the first female director in Indian cinema?",
+    "options": ["Fatma Begum", "Sai Paranjpye", "Aparna Sen", "Kalpana Lajmi"],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 36,
+    "question": "Which Bollywood actor is known as the 'Greek God of Bollywood'?",
+    "options": [
+      "Salman Khan",
+      "Hrithik Roshan",
+      "Shahid Kapoor",
+      "John Abraham"
+    ],
+    "correctAnswer": 1,
+    "points": 5
+  },
+  {
+    "id": 37,
+    "question": "Which Indian movie featured the character 'Gabbar Singh'?",
+    "options": ["Zanjeer", "Deewar", "Sholay", "Don"],
+    "correctAnswer": 2,
+    "points": 5
+  },
+  {
+    "id": 38,
+    "question": "Which Malayalam actor is nicknamed 'The Complete Actor'?",
+    "options": ["Mohanlal", "Mammootty", "Dulquer Salmaan", "Fahadh Faasil"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 39,
+    "question": "Which Bollywood film had the tagline ‘Don’t underestimate the power of a common man’?",
+    "options": ["Chennai Express", "Raees", "Main Hoon Na", "Happy New Year"],
+    "correctAnswer": 0,
+    "points": 5
+  },
+  {
+    "id": 40,
+    "question": "Who directed the film 'Lagaan'?",
+    "options": [
+      "Ashutosh Gowariker",
+      "Rakesh Roshan",
+      "Rajkumar Hirani",
+      "Farhan Akhtar"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 41,
+    "question": "Which Kannada film became a pan-India hit in 2022?",
+    "options": ["Kantara", "KGF: Chapter 2", "Charlie 777", "Lucia"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 42,
+    "question": "Which Bollywood actress was known as 'Dream Girl'?",
+    "options": ["Hema Malini", "Madhubala", "Sridevi", "Rekha"],
+    "correctAnswer": 0,
+    "points": 5
+  },
+  {
+    "id": 43,
+    "question": "Who wrote the dialogues for 'Sholay'?",
+    "options": ["Salim-Javed", "Ramesh Sippy", "Kader Khan", "Gulzar"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 44,
+    "question": "Which Bollywood movie features the character 'Munna Bhai'?",
+    "options": ["Munna Bhai M.B.B.S.", "Lage Raho Munna Bhai", "Both", "None"],
+    "correctAnswer": 2,
+    "points": 5
+  },
+  {
+    "id": 45,
+    "question": "Who won the National Award for Best Actor for 'Black'?",
+    "options": [
+      "Amitabh Bachchan",
+      "Shah Rukh Khan",
+      "Naseeruddin Shah",
+      "Anupam Kher"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 46,
+    "question": "Which Bollywood film is based on the real-life story of Neerja Bhanot?",
+    "options": ["Talvar", "Neerja", "Airlift", "Raazi"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 47,
+    "question": "Which Indian regional film won the Best Foreign Film award at the Moscow Film Festival?",
+    "options": ["Pather Panchali", "Sant Tukaram", "Court", "Peepli Live"],
+    "correctAnswer": 1,
+    "points": 15
+  },
+  {
+    "id": 48,
+    "question": "Who played the role of Alauddin Khilji in the Tamil movie 'Padayappa'?",
+    "options": ["Rajinikanth", "Kamal Haasan", "Ajith Kumar", "Vikram"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 49,
+    "question": "Which Bollywood composer is known for ‘Disco Dancer’ music?",
+    "options": ["R.D. Burman", "Bappi Lahiri", "Laxmikant-Pyarelal", "Naushad"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 50,
+    "question": "Which Bollywood movie’s song 'Naatu Naatu' won the Oscar in 2023?",
+    "options": ["RRR", "Baahubali 2", "Pushpa", "Kantara"],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 51,
+    "question": "Which Bollywood film is based on the life of mathematician Anand Kumar?",
+    "options": ["Chhichhore", "Super 30", "Taare Zameen Par", "3 Idiots"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 52,
+    "question": "Who directed the epic movie 'Mughal-e-Azam'?",
+    "options": ["K. Asif", "Bimal Roy", "Raj Kapoor", "Mehboob Khan"],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 53,
+    "question": "Which Tamil actor is known as 'Thalapathy'?",
+    "options": ["Rajinikanth", "Vijay", "Ajith Kumar", "Suriya"],
+    "correctAnswer": 1,
+    "points": 5
+  },
+  {
+    "id": 54,
+    "question": "Who composed the soundtrack for the film 'Roja'?",
+    "options": [
+      "Ilaiyaraaja",
+      "A.R. Rahman",
+      "Harris Jayaraj",
+      "Anirudh Ravichander"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 55,
+    "question": "Which film was the debut of Deepika Padukone?",
+    "options": [
+      "Om Shanti Om",
+      "Bachna Ae Haseeno",
+      "Love Aaj Kal",
+      "Cocktail"
+    ],
+    "correctAnswer": 0,
+    "points": 5
+  },
+  {
+    "id": 56,
+    "question": "Who played the role of Alauddin Khilji in 'Padmaavat'?",
+    "options": [
+      "Ranveer Singh",
+      "Shahid Kapoor",
+      "Hrithik Roshan",
+      "Tiger Shroff"
+    ],
+    "correctAnswer": 0,
+    "points": 5
+  },
+  {
+    "id": 57,
+    "question": "Which movie features the famous dialogue 'Kitne Aadmi The?'",
+    "options": ["Sholay", "Don", "Deewar", "Zanjeer"],
+    "correctAnswer": 0,
+    "points": 5
+  },
+  {
+    "id": 58,
+    "question": "Which Bengali movie is based on Bibhutibhushan Bandyopadhyay's novel?",
+    "options": [
+      "Charulata",
+      "Pather Panchali",
+      "Meghe Dhaka Tara",
+      "Aparajito"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 59,
+    "question": "Which actress starred in both Bollywood and Hollywood films like 'Baywatch'?",
+    "options": [
+      "Aishwarya Rai",
+      "Priyanka Chopra",
+      "Deepika Padukone",
+      "Kareena Kapoor"
+    ],
+    "correctAnswer": 1,
+    "points": 5
+  },
+  {
+    "id": 60,
+    "question": "Who wrote the story of 'Guide'?",
+    "options": [
+      "R. K. Narayan",
+      "Vikram Seth",
+      "Khushwant Singh",
+      "Ruskin Bond"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 61,
+    "question": "Which Bollywood actor played both Don and Vijay in the same movie?",
+    "options": [
+      "Amitabh Bachchan",
+      "Shah Rukh Khan",
+      "Salman Khan",
+      "Ajay Devgn"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 62,
+    "question": "Which regional film won the Best Feature Film at the 68th National Film Awards?",
+    "options": [
+      "Soorarai Pottru",
+      "Asuran",
+      "The Great Indian Kitchen",
+      "Joji"
+    ],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 63,
+    "question": "Who directed the blockbuster film '3 Idiots'?",
+    "options": [
+      "Rajkumar Hirani",
+      "Rakesh Roshan",
+      "Farhan Akhtar",
+      "Karan Johar"
+    ],
+    "correctAnswer": 0,
+    "points": 5
+  },
+  {
+    "id": 64,
+    "question": "Which Indian actor starred in Christopher Nolan’s 'Tenet'?",
+    "options": [
+      "Irrfan Khan",
+      "Dimple Kapadia",
+      "Anil Kapoor",
+      "Nawazuddin Siddiqui"
+    ],
+    "correctAnswer": 1,
+    "points": 15
+  },
+  {
+    "id": 65,
+    "question": "Which Bollywood movie popularized the term 'Jadoo Ki Jhappi'?",
+    "options": ["Munnabhai M.B.B.S.", "Lage Raho Munnabhai", "PK", "3 Idiots"],
+    "correctAnswer": 0,
+    "points": 5
+  },
+  {
+    "id": 66,
+    "question": "Who was the first recipient of the Dadasaheb Phalke Award?",
+    "options": [
+      "Prithviraj Kapoor",
+      "Devika Rani",
+      "Satyajit Ray",
+      "Mehboob Khan"
+    ],
+    "correctAnswer": 1,
+    "points": 15
+  },
+  {
+    "id": 67,
+    "question": "Which Bollywood director is known for the 'Don' series and 'Lakshya'?",
+    "options": [
+      "Farhan Akhtar",
+      "Rohit Shetty",
+      "Sanjay Leela Bhansali",
+      "Rajkumar Hirani"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 68,
+    "question": "Which Indian film featured the character 'Rancho'?",
+    "options": ["3 Idiots", "PK", "Taare Zameen Par", "Dil Chahta Hai"],
+    "correctAnswer": 0,
+    "points": 5
+  },
+  {
+    "id": 69,
+    "question": "Who played the lead role in the Marathi film 'Natsamrat'?",
+    "options": [
+      "Nana Patekar",
+      "Sachin Khedekar",
+      "Ashok Saraf",
+      "Subodh Bhave"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 70,
+    "question": "Which Indian film won the Golden Lion at the Venice Film Festival?",
+    "options": ["Court", "Pather Panchali", "Monsoon Wedding", "The Disciple"],
+    "correctAnswer": 3,
+    "points": 15
+  },
+  {
+    "id": 71,
+    "question": "Who played the character 'Circuit' in Munnabhai M.B.B.S.?",
+    "options": ["Arshad Warsi", "Boman Irani", "Sunil Dutt", "Sanjay Dutt"],
+    "correctAnswer": 0,
+    "points": 5
+  },
+  {
+    "id": 72,
+    "question": "Which Bollywood actress made her debut with 'Rab Ne Bana Di Jodi'?",
+    "options": [
+      "Anushka Sharma",
+      "Deepika Padukone",
+      "Katrina Kaif",
+      "Parineeti Chopra"
+    ],
+    "correctAnswer": 0,
+    "points": 5
+  },
+  {
+    "id": 73,
+    "question": "Which Tamil movie inspired the Bollywood remake 'Ghajini'?",
+    "options": ["Aalavandhan", "Ghajini (Tamil)", "Kaakha Kaakha", "Saamy"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 74,
+    "question": "Who directed 'Tumbbad'?",
+    "options": [
+      "Anand Gandhi",
+      "Rahi Anil Barve",
+      "Vikramaditya Motwane",
+      "Neeraj Ghaywan"
+    ],
+    "correctAnswer": 1,
+    "points": 15
+  },
+  {
+    "id": 75,
+    "question": "Which Bollywood film features the song 'Ae Watan'?",
+    "options": ["Raazi", "Uri: The Surgical Strike", "Kesari", "Bhuj"],
+    "correctAnswer": 0,
+    "points": 5
+  },
+  {
+    "id": 76,
+    "question": "Which regional film industry produces the highest number of films annually in India?",
+    "options": ["Bollywood", "Tollywood", "Kollywood", "Mollywood"],
+    "correctAnswer": 2,
+    "points": 15
+  },
+  {
+    "id": 77,
+    "question": "Who played the lead role in 'Swades'?",
+    "options": ["Aamir Khan", "Shah Rukh Khan", "Salman Khan", "Akshay Kumar"],
+    "correctAnswer": 1,
+    "points": 5
+  },
+  {
+    "id": 78,
+    "question": "Which Bollywood film’s title means 'Victory' in English?",
+    "options": ["Jeet", "Fateh", "Vijaypath", "Jaya"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 79,
+    "question": "Who was the first female playback singer in Indian cinema?",
+    "options": [
+      "Lata Mangeshkar",
+      "Noor Jehan",
+      "Asha Bhosle",
+      "Shamshad Begum"
+    ],
+    "correctAnswer": 1,
+    "points": 15
+  },
+  {
+    "id": 80,
+    "question": "Which Bollywood film is based on the 1999 Kargil War?",
+    "options": ["Border", "LOC Kargil", "Lakshya", "Uri"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 81,
+    "question": "Who directed 'Black Friday'?",
+    "options": [
+      "Anurag Kashyap",
+      "Hansal Mehta",
+      "Vishal Bhardwaj",
+      "Shoojit Sircar"
+    ],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 82,
+    "question": "Which Bollywood film won the Oscar for Best Original Song in 2023?",
+    "options": ["RRR", "Baahubali 2", "Lagaan", "Slumdog Millionaire"],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 83,
+    "question": "Who wrote and directed the Marathi film 'Fandry'?",
+    "options": [
+      "Nagraj Manjule",
+      "Paresh Mokashi",
+      "Mahesh Manjrekar",
+      "Umesh Kulkarni"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 84,
+    "question": "Which Bollywood actor played the character 'Bajirao'?",
+    "options": [
+      "Ranveer Singh",
+      "Hrithik Roshan",
+      "Shahid Kapoor",
+      "Vicky Kaushal"
+    ],
+    "correctAnswer": 0,
+    "points": 5
+  },
+  {
+    "id": 85,
+    "question": "Which film introduced the character 'Simran' and 'Raj'?",
+    "options": [
+      "Kuch Kuch Hota Hai",
+      "Dilwale Dulhania Le Jayenge",
+      "Mohabbatein",
+      "Kabhi Alvida Naa Kehna"
+    ],
+    "correctAnswer": 1,
+    "points": 5
+  },
+  {
+    "id": 86,
+    "question": "Who played the lead role in 'Article 15'?",
+    "options": [
+      "Ayushmann Khurrana",
+      "Rajkummar Rao",
+      "Vicky Kaushal",
+      "Irrfan Khan"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 87,
+    "question": "Which Bollywood film is based on the life of MS Dhoni?",
+    "options": ["83", "MS Dhoni: The Untold Story", "Jersey", "Chak De India"],
+    "correctAnswer": 1,
+    "points": 5
+  },
+  {
+    "id": 88,
+    "question": "Which Hindi film features the song 'Kal Ho Naa Ho'?",
+    "options": [
+      "Kabhi Alvida Naa Kehna",
+      "Kal Ho Naa Ho",
+      "Kabhi Khushi Kabhie Gham",
+      "Veer-Zaara"
+    ],
+    "correctAnswer": 1,
+    "points": 5
+  },
+  {
+    "id": 89,
+    "question": "Who composed music for the movie 'Veer-Zaara'?",
+    "options": ["Madan Mohan", "A.R. Rahman", "Jatin-Lalit", "Naushad"],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 90,
+    "question": "Which Indian actor starred in 'Slumdog Millionaire'?",
+    "options": [
+      "Anil Kapoor",
+      "Irrfan Khan",
+      "Dev Patel",
+      "Nawazuddin Siddiqui"
+    ],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 91,
+    "question": "Which Indian actress starred in 'Ponniyin Selvan'?",
+    "options": ["Trisha Krishnan", "Nayanthara", "Anushka Shetty", "Samantha"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 92,
+    "question": "Who directed 'Barfi!'?",
+    "options": ["Anurag Basu", "Ayan Mukerji", "Imtiaz Ali", "Zoya Akhtar"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 93,
+    "question": "Which Bollywood actor played the role of Sanjay Dutt in his biopic?",
+    "options": [
+      "Ranbir Kapoor",
+      "Varun Dhawan",
+      "Sidharth Malhotra",
+      "Tiger Shroff"
+    ],
+    "correctAnswer": 0,
+    "points": 5
+  },
+  {
+    "id": 94,
+    "question": "Which was the first Indian film nominated for Best International Feature Film at the Oscars?",
+    "options": ["Mother India", "Lagaan", "Salaam Bombay", "Pather Panchali"],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 95,
+    "question": "Which actor is known as 'Megastar of Malayalam Cinema'?",
+    "options": [
+      "Mohanlal",
+      "Mammootty",
+      "Dulquer Salmaan",
+      "Prithviraj Sukumaran"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 96,
+    "question": "Which Indian film is based on chess player Viswanathan Anand?",
+    "options": [
+      "Tigers",
+      "The Queen",
+      "Shatranj Ke Khilari",
+      "Vishy: The Genius"
+    ],
+    "correctAnswer": 3,
+    "points": 15
+  },
+  {
+    "id": 97,
+    "question": "Who directed the 2022 film 'Gangubai Kathiawadi'?",
+    "options": [
+      "Sanjay Leela Bhansali",
+      "Zoya Akhtar",
+      "Karan Johar",
+      "Imtiaz Ali"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 98,
+    "question": "Which regional language is used in the film 'Kantara'?",
+    "options": ["Kannada", "Tamil", "Telugu", "Malayalam"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 99,
+    "question": "Who composed the music for the film 'Rockstar'?",
+    "options": ["Pritam", "A.R. Rahman", "Shankar-Ehsaan-Loy", "Ankit Tiwari"],
+    "correctAnswer": 1,
+    "points": 5
+  },
+  {
+    "id": 100,
+    "question": "Which Bollywood film’s title translates to 'The Brave'?",
+    "options": ["Shershaah", "Raazi", "Uri", "Kesari"],
+    "correctAnswer": 0,
+    "points": 10
+  }
+]

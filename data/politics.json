@@ -1,0 +1,887 @@
+[
+  {
+    "id": 1,
+    "question": "Who is known as the 'Father of the Indian Constitution'?",
+    "options": [
+      "B.R. Ambedkar",
+      "Jawaharlal Nehru",
+      "Rajendra Prasad",
+      "Sardar Patel"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 2,
+    "question": "In which year did the Constitution of India come into effect?",
+    "options": ["1947", "1949", "1950", "1952"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 3,
+    "question": "Which part of the Indian Constitution deals with Fundamental Rights?",
+    "options": ["Part III", "Part IV", "Part V", "Part VI"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 4,
+    "question": "How many schedules are there in the Indian Constitution (as of now)?",
+    "options": ["10", "12", "14", "8"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 5,
+    "question": "The Preamble of the Indian Constitution declares India as a ____.",
+    "options": [
+      "Sovereign Socialist Secular Democratic Republic",
+      "Federal Republic",
+      "Democratic Kingdom",
+      "Socialist Republic"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 6,
+    "question": "Which Article of the Constitution abolishes untouchability?",
+    "options": ["Article 17", "Article 15", "Article 19", "Article 21"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 7,
+    "question": "The Directive Principles of State Policy are borrowed from which country’s Constitution?",
+    "options": ["Ireland", "UK", "USA", "France"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 8,
+    "question": "Which Article of the Indian Constitution deals with the Right to Constitutional Remedies?",
+    "options": ["Article 32", "Article 21", "Article 14", "Article 19"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 9,
+    "question": "Who was the first President of India?",
+    "options": [
+      "Dr. Rajendra Prasad",
+      "Sarvepalli Radhakrishnan",
+      "Zakir Hussain",
+      "V.V. Giri"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 10,
+    "question": "Which body is responsible for conducting elections in India?",
+    "options": [
+      "Election Commission",
+      "NITI Aayog",
+      "Supreme Court",
+      "Parliament"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 11,
+    "question": "Which Article provides for the suspension of Fundamental Rights during an emergency?",
+    "options": ["Article 359", "Article 352", "Article 356", "Article 360"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 12,
+    "question": "Who was the first woman Prime Minister of India?",
+    "options": [
+      "Indira Gandhi",
+      "Sarojini Naidu",
+      "Sushma Swaraj",
+      "Pratibha Patil"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 13,
+    "question": "How many members are nominated to the Rajya Sabha by the President?",
+    "options": ["12", "10", "14", "15"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 14,
+    "question": "What is the minimum age required to become the Prime Minister of India?",
+    "options": ["25 years", "30 years", "35 years", "No specific age"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 15,
+    "question": "The President of India is elected by?",
+    "options": [
+      "An Electoral College",
+      "Direct vote of the people",
+      "Lok Sabha only",
+      "Rajya Sabha only"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 16,
+    "question": "Which Article of the Indian Constitution deals with the impeachment of the President?",
+    "options": ["Article 61", "Article 63", "Article 64", "Article 56"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 17,
+    "question": "Who appoints the Chief Justice of India?",
+    "options": [
+      "President of India",
+      "Prime Minister",
+      "Parliament",
+      "Collegium"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 18,
+    "question": "The Indian Parliament consists of how many Houses?",
+    "options": ["Two", "Three", "One", "Four"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 19,
+    "question": "The Lok Sabha is also known as the ____.",
+    "options": [
+      "House of the People",
+      "Upper House",
+      "Federal House",
+      "Council of States"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 20,
+    "question": "Who presides over the joint sitting of Parliament?",
+    "options": [
+      "Speaker of Lok Sabha",
+      "President",
+      "Vice-President",
+      "Prime Minister"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 21,
+    "question": "Which Article of the Indian Constitution deals with the Proclamation of Emergency?",
+    "options": ["Article 352", "Article 356", "Article 360", "Article 370"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 22,
+    "question": "The Vice-President of India is the ex-officio Chairman of which body?",
+    "options": ["Rajya Sabha", "Lok Sabha", "Cabinet", "Finance Commission"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 23,
+    "question": "Which Article of the Indian Constitution deals with the special status of Jammu and Kashmir (before abrogation)?",
+    "options": ["Article 370", "Article 371", "Article 368", "Article 356"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 24,
+    "question": "The Fundamental Duties were added to the Constitution by which amendment?",
+    "options": [
+      "42nd Amendment",
+      "44th Amendment",
+      "52nd Amendment",
+      "73rd Amendment"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 25,
+    "question": "The Right to Education became a Fundamental Right through which amendment?",
+    "options": [
+      "86th Amendment",
+      "91st Amendment",
+      "93rd Amendment",
+      "97th Amendment"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 26,
+    "question": "Who was the first Deputy Prime Minister of India?",
+    "options": [
+      "Sardar Vallabhbhai Patel",
+      "Morarji Desai",
+      "Lal Bahadur Shastri",
+      "Jagjivan Ram"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 27,
+    "question": "What is the tenure of the Lok Sabha?",
+    "options": ["5 years", "6 years", "4 years", "7 years"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 28,
+    "question": "How many Fundamental Rights are there in the Indian Constitution?",
+    "options": ["6", "7", "8", "9"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 29,
+    "question": "Which amendment is known as the 'Mini Constitution'?",
+    "options": [
+      "42nd Amendment",
+      "44th Amendment",
+      "52nd Amendment",
+      "61st Amendment"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 30,
+    "question": "Who among the following can dissolve the Lok Sabha?",
+    "options": ["President", "Prime Minister", "Speaker", "Chief Justice"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 31,
+    "question": "Which Article of the Constitution deals with the Finance Commission?",
+    "options": ["Article 280", "Article 324", "Article 110", "Article 312"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 32,
+    "question": "Who is the head of the NITI Aayog?",
+    "options": [
+      "Prime Minister",
+      "President",
+      "Finance Minister",
+      "Home Minister"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 33,
+    "question": "The Rajya Sabha is also known as the ____.",
+    "options": [
+      "Council of States",
+      "Upper House",
+      "House of the People",
+      "Central House"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 34,
+    "question": "Which Article provides for the establishment of the Supreme Court?",
+    "options": ["Article 124", "Article 136", "Article 226", "Article 300A"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 35,
+    "question": "The power of Judicial Review is derived from which Article?",
+    "options": ["Article 13", "Article 32", "Article 226", "Article 136"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 36,
+    "question": "Which state was the first to be formed on a linguistic basis?",
+    "options": ["Andhra Pradesh", "Gujarat", "Maharashtra", "Kerala"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 37,
+    "question": "Who appoints the Governors of States?",
+    "options": ["President", "Prime Minister", "Chief Minister", "Parliament"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 38,
+    "question": "Which Article of the Constitution provides for the impeachment of judges?",
+    "options": ["Article 124(4)", "Article 121", "Article 142", "Article 312"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 39,
+    "question": "The Election Commission of India was established in which year?",
+    "options": ["1950", "1947", "1952", "1949"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 40,
+    "question": "Who is the current ex-officio Chairman of the Planning Commission of India?",
+    "options": [
+      "The Planning Commission has been replaced by NITI Aayog",
+      "Prime Minister",
+      "Finance Minister",
+      "Cabinet Secretary"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 41,
+    "question": "The Anti-Defection Law is included in which schedule of the Constitution?",
+    "options": [
+      "Tenth Schedule",
+      "Eighth Schedule",
+      "Twelfth Schedule",
+      "Ninth Schedule"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 42,
+    "question": "Which Article deals with the protection of life and personal liberty?",
+    "options": ["Article 21", "Article 19", "Article 32", "Article 20"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 43,
+    "question": "The Panchayati Raj system was given constitutional status by which amendment?",
+    "options": [
+      "73rd Amendment",
+      "74th Amendment",
+      "42nd Amendment",
+      "44th Amendment"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 44,
+    "question": "Who was the first Speaker of the Lok Sabha?",
+    "options": [
+      "G.V. Mavalankar",
+      "Bali Ram Bhagat",
+      "Balram Jakhar",
+      "Somnath Chatterjee"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 45,
+    "question": "Which Article deals with the amendment procedure of the Constitution?",
+    "options": ["Article 368", "Article 370", "Article 356", "Article 360"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 46,
+    "question": "What is the minimum age to become a member of Rajya Sabha?",
+    "options": ["30 years", "25 years", "35 years", "21 years"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 47,
+    "question": "Which Article allows the President to proclaim a Financial Emergency?",
+    "options": ["Article 360", "Article 356", "Article 352", "Article 365"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 48,
+    "question": "Which Article provides for the suspension of Fundamental Rights during emergency?",
+    "options": ["Article 359", "Article 19", "Article 370", "Article 32"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 49,
+    "question": "Which Article provides the procedure for the impeachment of the President?",
+    "options": ["Article 61", "Article 63", "Article 74", "Article 75"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 50,
+    "question": "Who can remove the judges of the Supreme Court?",
+    "options": [
+      "Parliament",
+      "President",
+      "Chief Justice of India",
+      "Prime Minister"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 51,
+    "question": "Which Article of the Constitution deals with the duties of the Prime Minister?",
+    "options": ["Article 78", "Article 75", "Article 79", "Article 80"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 52,
+    "question": "The President can nominate how many members to the Lok Sabha?",
+    "options": ["2", "12", "10", "6"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 53,
+    "question": "Which Article of the Constitution gives special powers to the Supreme Court to issue writs?",
+    "options": ["Article 32", "Article 226", "Article 141", "Article 136"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 54,
+    "question": "Which Article of the Constitution deals with the Union Public Service Commission (UPSC)?",
+    "options": ["Article 315", "Article 320", "Article 324", "Article 312"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 55,
+    "question": "Which Article of the Indian Constitution provides for the appointment of a Governor?",
+    "options": ["Article 153", "Article 155", "Article 156", "Article 158"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 56,
+    "question": "Which Article deals with the distribution of legislative powers between the Centre and States?",
+    "options": ["Article 246", "Article 249", "Article 250", "Article 251"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 57,
+    "question": "The Supreme Court of India came into existence in which year?",
+    "options": ["1950", "1947", "1949", "1952"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 58,
+    "question": "The term 'Secular' was added to the Preamble by which amendment?",
+    "options": [
+      "42nd Amendment",
+      "44th Amendment",
+      "52nd Amendment",
+      "73rd Amendment"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 59,
+    "question": "The word 'Socialist' in the Preamble implies?",
+    "options": [
+      "Reduction of inequality",
+      "Elimination of caste system",
+      "Abolition of religion",
+      "Democracy"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 60,
+    "question": "Who has the power to decide on the disqualification of Members of Parliament?",
+    "options": ["President", "Election Commission", "Speaker", "Supreme Court"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 61,
+    "question": "What is the maximum time gap allowed between two sessions of Parliament?",
+    "options": ["6 months", "3 months", "9 months", "12 months"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 62,
+    "question": "Which Article of the Indian Constitution provides for the establishment of High Courts?",
+    "options": ["Article 214", "Article 217", "Article 226", "Article 235"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 63,
+    "question": "Who can initiate impeachment proceedings against the President?",
+    "options": [
+      "Either House of Parliament",
+      "Lok Sabha only",
+      "Rajya Sabha only",
+      "Supreme Court"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 64,
+    "question": "Which Article empowers the Parliament to make laws for implementing International Treaties?",
+    "options": ["Article 253", "Article 252", "Article 254", "Article 246"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 65,
+    "question": "Who can promulgate ordinances when Parliament is not in session?",
+    "options": ["President", "Prime Minister", "Cabinet", "Speaker"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 66,
+    "question": "Which of the following Articles cannot be amended by a simple majority in Parliament?",
+    "options": ["Article 368", "Article 2", "Article 4", "Article 11"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 67,
+    "question": "The 44th Amendment of 1978 removed which Right from Fundamental Rights?",
+    "options": [
+      "Right to Property",
+      "Right to Equality",
+      "Right to Freedom",
+      "Right to Education"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 68,
+    "question": "Who was the first Law Minister of independent India?",
+    "options": [
+      "B.R. Ambedkar",
+      "Jawaharlal Nehru",
+      "Rajendra Prasad",
+      "Vallabhbhai Patel"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 69,
+    "question": "The term of the Rajya Sabha members is?",
+    "options": ["6 years", "5 years", "4 years", "7 years"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 70,
+    "question": "Which Article provides for the uniform civil code?",
+    "options": ["Article 44", "Article 32", "Article 19", "Article 46"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 71,
+    "question": "Which Article deals with the Election Commission?",
+    "options": ["Article 324", "Article 326", "Article 327", "Article 328"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 72,
+    "question": "Which Article provides for the protection of interests of minorities?",
+    "options": ["Article 29 and 30", "Article 25", "Article 26", "Article 31"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 73,
+    "question": "Which Schedule contains the list of official languages?",
+    "options": [
+      "Eighth Schedule",
+      "Tenth Schedule",
+      "Twelfth Schedule",
+      "Seventh Schedule"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 74,
+    "question": "Which Article allows the President to dissolve the Lok Sabha?",
+    "options": ["Article 85(2)(b)", "Article 83", "Article 75", "Article 79"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 75,
+    "question": "The 73rd Amendment of the Constitution is related to?",
+    "options": [
+      "Panchayati Raj",
+      "Municipalities",
+      "Fundamental Duties",
+      "Judicial Review"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 76,
+    "question": "Which Article empowers the Supreme Court to review its own judgment?",
+    "options": ["Article 137", "Article 132", "Article 136", "Article 141"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 77,
+    "question": "What is the maximum strength of the Lok Sabha as per the Constitution?",
+    "options": ["552", "545", "550", "560"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 78,
+    "question": "Who decides whether a bill is a Money Bill or not?",
+    "options": [
+      "Speaker of Lok Sabha",
+      "President",
+      "Prime Minister",
+      "Finance Minister"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 79,
+    "question": "The right to vote in India is a ____.",
+    "options": [
+      "Legal Right",
+      "Fundamental Right",
+      "Constitutional Right",
+      "Natural Right"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 80,
+    "question": "The residuary powers of legislation belong to ____.",
+    "options": [
+      "Parliament",
+      "State Legislatures",
+      "President",
+      "Supreme Court"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 81,
+    "question": "The Rajya Sabha can delay a Money Bill by a maximum of ____.",
+    "options": ["14 days", "30 days", "90 days", "6 months"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 82,
+    "question": "Which Article deals with the Council of Ministers to aid and advise the President?",
+    "options": ["Article 74", "Article 75", "Article 78", "Article 79"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 83,
+    "question": "Who among the following can preside over the Lok Sabha in absence of the Speaker?",
+    "options": [
+      "Deputy Speaker",
+      "President",
+      "Prime Minister",
+      "Leader of Opposition"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 84,
+    "question": "The Constitution of India was adopted on which date?",
+    "options": [
+      "26th November 1949",
+      "15th August 1947",
+      "26th January 1950",
+      "2nd October 1949"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 85,
+    "question": "Which Fundamental Right is available only to Indian citizens?",
+    "options": [
+      "Right to Equality",
+      "Right to Freedom",
+      "Right to Property",
+      "Right to Constitutional Remedies"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 86,
+    "question": "The Supreme Court of India consists of how many judges including the Chief Justice (as of now)?",
+    "options": ["34", "31", "33", "25"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 87,
+    "question": "Which Article of the Constitution provides for the protection of the interests of Scheduled Tribes?",
+    "options": ["Article 46", "Article 15", "Article 19", "Article 29"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 88,
+    "question": "Who was the chairman of the Drafting Committee of the Indian Constitution?",
+    "options": [
+      "Dr. B.R. Ambedkar",
+      "K.M. Munshi",
+      "Alladi Krishnaswami Ayyar",
+      "Jawaharlal Nehru"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 89,
+    "question": "What is the term of office of the Vice-President of India?",
+    "options": ["5 years", "6 years", "4 years", "7 years"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 90,
+    "question": "The 74th Amendment of the Indian Constitution relates to which system?",
+    "options": [
+      "Urban Local Bodies",
+      "Rural Panchayats",
+      "Judiciary",
+      "Education"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 91,
+    "question": "Which Article of the Constitution deals with the establishment of Inter-State Councils?",
+    "options": ["Article 263", "Article 280", "Article 312", "Article 356"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 92,
+    "question": "The Indian Constitution was influenced by which of the following countries for its Parliamentary system?",
+    "options": ["Britain", "USA", "France", "Ireland"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 93,
+    "question": "The concept of Fundamental Duties was inspired by the Constitution of ____.",
+    "options": ["USSR", "USA", "France", "Ireland"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 94,
+    "question": "The Union List in the Constitution contains how many subjects (originally)?",
+    "options": ["97", "66", "47", "52"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 95,
+    "question": "Who can recommend the dissolution of the Lok Sabha to the President?",
+    "options": ["Prime Minister", "Cabinet", "Speaker", "Chief Justice"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 96,
+    "question": "Which Amendment reduced the voting age from 21 to 18 years?",
+    "options": [
+      "61st Amendment",
+      "42nd Amendment",
+      "44th Amendment",
+      "73rd Amendment"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 97,
+    "question": "Which Article deals with the duties of the Comptroller and Auditor General of India?",
+    "options": ["Article 149", "Article 148", "Article 150", "Article 151"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 98,
+    "question": "The Prime Minister is appointed by the ____.",
+    "options": ["President", "Parliament", "Lok Sabha", "Vice-President"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 99,
+    "question": "The First Constitutional Amendment was made in which year?",
+    "options": ["1951", "1950", "1952", "1954"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 100,
+    "question": "Who administers the oath of office to the President of India?",
+    "options": [
+      "Chief Justice of India",
+      "Prime Minister",
+      "Vice-President",
+      "Attorney General"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  }
+]

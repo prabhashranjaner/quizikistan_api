@@ -1,0 +1,723 @@
+[
+  {
+    "id": 1,
+    "question": "Who was Lord Rama’s father in the Ramayana?",
+    "options": ["Dasharatha", "Janaka", "Bharata", "Vishwamitra"],
+    "correctAnswer": 0,
+    "points": 5
+  },
+  {
+    "id": 2,
+    "question": "In the Mahabharata, who was the eldest of the Pandavas?",
+    "options": ["Bhima", "Arjuna", "Yudhishthira", "Nakula"],
+    "correctAnswer": 2,
+    "points": 5
+  },
+  {
+    "id": 3,
+    "question": "Who wrote the epic Mahabharata?",
+    "options": ["Valmiki", "Veda Vyasa", "Kalidasa", "Tulsidas"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 4,
+    "question": "Who killed Ravana in the Ramayana?",
+    "options": ["Lakshmana", "Hanuman", "Rama", "Sugriva"],
+    "correctAnswer": 2,
+    "points": 5
+  },
+  {
+    "id": 5,
+    "question": "Who was the mother of Karna?",
+    "options": ["Kunti", "Madri", "Gandhari", "Satyavati"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 6,
+    "question": "Who was the guru of both the Pandavas and Kauravas?",
+    "options": ["Dronacharya", "Kripacharya", "Bhisma", "Parashurama"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 7,
+    "question": "In which Yuga did Lord Krishna deliver the Bhagavad Gita?",
+    "options": ["Satya Yuga", "Treta Yuga", "Dvapara Yuga", "Kali Yuga"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 8,
+    "question": "Who was Sita’s father?",
+    "options": ["Dasharatha", "Janaka", "Ravana", "Kushadhvaja"],
+    "correctAnswer": 1,
+    "points": 5
+  },
+  {
+    "id": 9,
+    "question": "What was the name of Arjuna’s bow?",
+    "options": ["Pinaka", "Gandiva", "Sharanga", "Kodanda"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 10,
+    "question": "Who was the charioteer of Arjuna during the Kurukshetra War?",
+    "options": ["Krishna", "Bhisma", "Drona", "Ashwatthama"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 11,
+    "question": "Who was the wife of Bhima?",
+    "options": ["Draupadi", "Hidimbi", "Subhadra", "Urmila"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 12,
+    "question": "What was the name of Rama’s kingdom?",
+    "options": ["Mithila", "Ayodhya", "Dwaraka", "Kishkindha"],
+    "correctAnswer": 1,
+    "points": 5
+  },
+  {
+    "id": 13,
+    "question": "Who gave the Sudarshana Chakra to Lord Vishnu?",
+    "options": ["Lord Brahma", "Lord Shiva", "Sage Vishwakarma", "Indra"],
+    "correctAnswer": 1,
+    "points": 15
+  },
+  {
+    "id": 14,
+    "question": "What was the name of Ravana’s flying chariot?",
+    "options": [
+      "Pushpaka Vimana",
+      "Vajra Vimana",
+      "Indra Vimana",
+      "Garuda Vimana"
+    ],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 15,
+    "question": "Who cursed Kauravas to be destroyed by Pandavas?",
+    "options": ["Gandhari", "Draupadi", "Kunti", "Krishna"],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 16,
+    "question": "Who was the son of Ganga and Shantanu?",
+    "options": ["Bhisma", "Drona", "Karna", "Ashwatthama"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 17,
+    "question": "Who was Lakshmana’s wife?",
+    "options": ["Urmila", "Mandavi", "Shrutakirti", "Sita"],
+    "correctAnswer": 0,
+    "points": 5
+  },
+  {
+    "id": 18,
+    "question": "Who was the eldest son of King Dasaratha?",
+    "options": ["Rama", "Lakshmana", "Bharata", "Shatrughna"],
+    "correctAnswer": 0,
+    "points": 5
+  },
+  {
+    "id": 19,
+    "question": "What was the name of the forest where Rama was exiled for 14 years?",
+    "options": [
+      "Dandaka Forest",
+      "Naimisha Forest",
+      "Kamyaka Forest",
+      "Chitrakoot"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 20,
+    "question": "Who composed the Ramayana?",
+    "options": ["Veda Vyasa", "Valmiki", "Kalidasa", "Tulsidas"],
+    "correctAnswer": 1,
+    "points": 5
+  },
+  {
+    "id": 21,
+    "question": "Who was the son of Arjuna and Subhadra?",
+    "options": ["Abhimanyu", "Nakula", "Bhisma", "Yuyutsu"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 22,
+    "question": "Who killed Abhimanyu in the Mahabharata war?",
+    "options": ["Drona", "Karna", "Jayadratha", "Duryodhana"],
+    "correctAnswer": 2,
+    "points": 15
+  },
+  {
+    "id": 23,
+    "question": "Who was Hanuman’s mother?",
+    "options": ["Anjana", "Sita", "Tara", "Mandodari"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 24,
+    "question": "Who was the father of Lord Krishna?",
+    "options": ["Vasudeva", "Nanda", "Kamsa", "Ugrasena"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 25,
+    "question": "Which demoness tried to kill Krishna with poisoned milk?",
+    "options": ["Putana", "Trijata", "Surpanakha", "Tataka"],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 26,
+    "question": "Who was the mother of Ganesha?",
+    "options": ["Lakshmi", "Saraswati", "Parvati", "Durga"],
+    "correctAnswer": 2,
+    "points": 5
+  },
+  {
+    "id": 27,
+    "question": "Who was the wife of Lord Shiva?",
+    "options": ["Parvati", "Radha", "Sita", "Saraswati"],
+    "correctAnswer": 0,
+    "points": 5
+  },
+  {
+    "id": 28,
+    "question": "What was Bhishma’s original name?",
+    "options": ["Devavrata", "Gangadatta", "Santanuputra", "Brahmadatta"],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 29,
+    "question": "Who was Draupadi born from?",
+    "options": ["Fire", "Water", "Earth", "Air"],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 30,
+    "question": "Who was the foster father of Karna?",
+    "options": ["Adhiratha", "Vasudeva", "Vidura", "Dhritarashtra"],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 31,
+    "question": "Who broke the bow to win Sita’s hand in marriage?",
+    "options": ["Rama", "Lakshmana", "Bharata", "Ravana"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 32,
+    "question": "Which Yuga followed Treta Yuga?",
+    "options": ["Satya Yuga", "Dvapara Yuga", "Kali Yuga", "None"],
+    "correctAnswer": 1,
+    "points": 5
+  },
+  {
+    "id": 33,
+    "question": "Who was the king of Lanka before Ravana?",
+    "options": ["Kubera", "Vishrava", "Bali", "Indrajit"],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 34,
+    "question": "Who was the author of the Vishnu Purana?",
+    "options": ["Veda Vyasa", "Valmiki", "Kalidasa", "Tulsidas"],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 35,
+    "question": "Who killed Kumbhakarna?",
+    "options": ["Lakshmana", "Rama", "Hanuman", "Sugriva"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 36,
+    "question": "Who killed Bhishma in the Mahabharata war?",
+    "options": ["Arjuna", "Shikhandi", "Karna", "Drona"],
+    "correctAnswer": 1,
+    "points": 15
+  },
+  {
+    "id": 37,
+    "question": "Who was Krishna’s elder brother?",
+    "options": ["Balarama", "Samba", "Sudama", "Pradyumna"],
+    "correctAnswer": 0,
+    "points": 5
+  },
+  {
+    "id": 38,
+    "question": "Who was the last commander of the Kaurava army?",
+    "options": ["Bhisma", "Drona", "Karna", "Ashwatthama"],
+    "correctAnswer": 3,
+    "points": 10
+  },
+  {
+    "id": 39,
+    "question": "Who was the wife of Yudhishthira?",
+    "options": ["Draupadi", "Subhadra", "Hidimbi", "Urmila"],
+    "correctAnswer": 0,
+    "points": 5
+  },
+  {
+    "id": 40,
+    "question": "Which Yuga is considered the current age according to Hindu mythology?",
+    "options": ["Satya Yuga", "Treta Yuga", "Dvapara Yuga", "Kali Yuga"],
+    "correctAnswer": 3,
+    "points": 10
+  },
+  {
+    "id": 41,
+    "question": "Who was Ravana’s mother?",
+    "options": ["Kaikesi", "Mandodari", "Trijata", "Tataka"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 42,
+    "question": "Who created the universe according to Hindu mythology?",
+    "options": ["Vishnu", "Shiva", "Brahma", "Indra"],
+    "correctAnswer": 2,
+    "points": 5
+  },
+  {
+    "id": 43,
+    "question": "Which river is said to flow from Lord Shiva’s matted hair?",
+    "options": ["Ganga", "Yamuna", "Saraswati", "Godavari"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 44,
+    "question": "Who was the father of Bhishma?",
+    "options": ["Shantanu", "Parashurama", "Devavrata", "Chitrangada"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 45,
+    "question": "Which sage cursed Lord Indra to lose his kingdom?",
+    "options": ["Durvasa", "Vashistha", "Vishwamitra", "Agastya"],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 46,
+    "question": "Who was the teacher of Ekalavya?",
+    "options": ["Dronacharya", "Kripacharya", "Parashurama", "None"],
+    "correctAnswer": 3,
+    "points": 15
+  },
+  {
+    "id": 47,
+    "question": "Who was the son of Ravana killed by Lakshmana?",
+    "options": ["Indrajit", "Atikaya", "Akshayakumara", "Prahasta"],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 48,
+    "question": "Which sage was the father of Shukracharya?",
+    "options": ["Bhrigu", "Angiras", "Vashistha", "Kashyapa"],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 49,
+    "question": "Who among the Pandavas was skilled in horse riding?",
+    "options": ["Sahadeva", "Nakula", "Bhima", "Arjuna"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 50,
+    "question": "Who narrated the Ramayana to Rama’s sons Lava and Kusha?",
+    "options": ["Valmiki", "Vashistha", "Vishwamitra", "Agastya"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+
+  {
+    "id": 51,
+    "question": "Who killed Kansa, the tyrant king of Mathura?",
+    "options": ["Balarama", "Krishna", "Vasudeva", "Nanda"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 52,
+    "question": "Who was the sage that cursed King Dasharatha leading to Rama’s exile?",
+    "options": ["Vishwamitra", "Vashistha", "Shringi", "Agastya"],
+    "correctAnswer": 2,
+    "points": 15
+  },
+  {
+    "id": 53,
+    "question": "Who was Ravana’s brother who ruled after his death?",
+    "options": ["Vibhishana", "Kumbhakarna", "Indrajit", "Akampana"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 54,
+    "question": "What was the weapon of Lord Shiva known as?",
+    "options": ["Sudarshana Chakra", "Trishula", "Pinaka", "Vajra"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 55,
+    "question": "Who was the daughter of Himavan and consort of Shiva?",
+    "options": ["Parvati", "Sati", "Ganga", "Uma"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 56,
+    "question": "Who created the celestial weapon Brahmastra?",
+    "options": ["Brahma", "Shiva", "Vishnu", "Indra"],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 57,
+    "question": "Who was Krishna’s foster mother?",
+    "options": ["Yashoda", "Devaki", "Rohini", "Radha"],
+    "correctAnswer": 0,
+    "points": 5
+  },
+  {
+    "id": 58,
+    "question": "Who cursed Ahalya to turn into stone?",
+    "options": ["Indra", "Brahma", "Gautama", "Agastya"],
+    "correctAnswer": 2,
+    "points": 15
+  },
+  {
+    "id": 59,
+    "question": "Who was the father of Prahlada?",
+    "options": ["Hiranyaksha", "Hiranyakashipu", "Bali", "Virochana"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 60,
+    "question": "Which avatar of Vishnu killed Hiranyakashipu?",
+    "options": ["Varaha", "Narasimha", "Vamana", "Parashurama"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 61,
+    "question": "Who was the mother of Lord Hanuman?",
+    "options": ["Anjana", "Sita", "Tara", "Mandodari"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 62,
+    "question": "Who was the son of Vayu and known for his strength?",
+    "options": ["Bhima", "Hanuman", "Both", "None"],
+    "correctAnswer": 2,
+    "points": 15
+  },
+  {
+    "id": 63,
+    "question": "Which river was formed from Bhagiratha’s penance?",
+    "options": ["Yamuna", "Ganga", "Godavari", "Narmada"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 64,
+    "question": "Which sage tested Sita’s purity after her return from Lanka?",
+    "options": ["Vashistha", "Valmiki", "Agni", "None of these"],
+    "correctAnswer": 2,
+    "points": 15
+  },
+  {
+    "id": 65,
+    "question": "Who was the first man created by Brahma?",
+    "options": ["Manu", "Daksha", "Marichi", "Swayambhuva"],
+    "correctAnswer": 3,
+    "points": 15
+  },
+  {
+    "id": 66,
+    "question": "Who cursed Arjuna that he would be killed by his own son?",
+    "options": ["Urvashi", "Gandhari", "Ganga", "None"],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 67,
+    "question": "What was the name of the conch used by Krishna during Kurukshetra war?",
+    "options": ["Panchajanya", "Devadatta", "Ananta", "Sankha"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 68,
+    "question": "Who was the daughter of Daksha and the first consort of Shiva?",
+    "options": ["Sati", "Parvati", "Uma", "Durga"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 69,
+    "question": "Who was the king who donated three steps of land to Vamana?",
+    "options": ["Bali", "Hiranyakashipu", "Ravana", "Kumbhakarna"],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 70,
+    "question": "Who was the wife of Krishna?",
+    "options": [
+      "Radha",
+      "Rukmini",
+      "Satyabhama",
+      "Both Rukmini and Satyabhama"
+    ],
+    "correctAnswer": 3,
+    "points": 10
+  },
+  {
+    "id": 71,
+    "question": "Who was the sage who could control time and space?",
+    "options": ["Narada", "Agastya", "Markandeya", "Vashistha"],
+    "correctAnswer": 2,
+    "points": 15
+  },
+  {
+    "id": 72,
+    "question": "Who killed Shishupala during the Rajasuya Yagna?",
+    "options": ["Bhima", "Krishna", "Arjuna", "Yudhishthira"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 73,
+    "question": "What was the name of Ravana’s son who was invisible in battle?",
+    "options": ["Indrajit", "Atikaya", "Akshayakumara", "Prahasta"],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 74,
+    "question": "Who built the bridge to Lanka with stones that floated on water?",
+    "options": ["Sugriva", "Nala", "Hanuman", "Jambavan"],
+    "correctAnswer": 1,
+    "points": 15
+  },
+  {
+    "id": 75,
+    "question": "Who was the king of Kishkindha before Sugriva?",
+    "options": ["Vali", "Jambavan", "Hanuman", "Angada"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 76,
+    "question": "What was the weapon used by Parashurama?",
+    "options": ["Trishula", "Axe", "Bow", "Spear"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 77,
+    "question": "Who was the father of the twins Lava and Kusha?",
+    "options": ["Rama", "Lakshmana", "Bharata", "Valmiki"],
+    "correctAnswer": 0,
+    "points": 5
+  },
+  {
+    "id": 78,
+    "question": "Who cursed Krishna’s Yadava clan leading to their destruction?",
+    "options": ["Gandhari", "Narada", "Vishwamitra", "Durvasa"],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 79,
+    "question": "Who carried the mountain with the Sanjeevani herb?",
+    "options": ["Hanuman", "Sugriva", "Jambavan", "Angada"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 80,
+    "question": "Which form of Vishnu killed the demon Madhu and Kaitabha?",
+    "options": ["Varaha", "Matsya", "Hayagriva", "Narasimha"],
+    "correctAnswer": 2,
+    "points": 15
+  },
+  {
+    "id": 81,
+    "question": "Who was the king of Hastinapura during the Mahabharata war?",
+    "options": ["Dhritarashtra", "Duryodhana", "Yudhishthira", "Pandu"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 82,
+    "question": "Who was the author of the Bhagavata Purana?",
+    "options": ["Veda Vyasa", "Valmiki", "Narada", "Kalidasa"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 83,
+    "question": "Which goddess killed the demon Mahishasura?",
+    "options": ["Durga", "Kali", "Parvati", "Chamunda"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 84,
+    "question": "Who granted Kunti the boon to bear children by gods?",
+    "options": ["Durvasa", "Vishwamitra", "Agastya", "Vashistha"],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 85,
+    "question": "Which weapon did Karna possess that could kill Arjuna?",
+    "options": ["Vajra", "Brahmastra", "Shakti", "Trishula"],
+    "correctAnswer": 2,
+    "points": 15
+  },
+  {
+    "id": 86,
+    "question": "Who was the charioteer of Karna during the war?",
+    "options": ["Shalya", "Krishna", "Ashwatthama", "Bhishma"],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 87,
+    "question": "Who is known as the destroyer among the Trimurti?",
+    "options": ["Brahma", "Vishnu", "Shiva", "Indra"],
+    "correctAnswer": 2,
+    "points": 5
+  },
+  {
+    "id": 88,
+    "question": "Who advised Yudhishthira on Dharma after the war?",
+    "options": ["Krishna", "Vyasa", "Bhishma", "Narada"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 89,
+    "question": "Who was the wife of the sage Atri and mother of Dattatreya?",
+    "options": ["Anasuya", "Arundhati", "Savitri", "Lopamudra"],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 90,
+    "question": "Who was the creator of the universe according to the Puranas?",
+    "options": ["Brahma", "Shiva", "Vishnu", "Indra"],
+    "correctAnswer": 0,
+    "points": 5
+  },
+  {
+    "id": 91,
+    "question": "Which avatar of Vishnu destroyed the demon Hiranyaksha?",
+    "options": ["Matsya", "Varaha", "Narasimha", "Vamana"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 92,
+    "question": "Who was the celestial architect of gods?",
+    "options": ["Vishwakarma", "Brahma", "Narada", "Agni"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 93,
+    "question": "Which mountain was used as a churning rod in the Samudra Manthan?",
+    "options": [
+      "Mount Kailash",
+      "Mount Meru",
+      "Mandara Mountain",
+      "Mount Gandhamadana"
+    ],
+    "correctAnswer": 2,
+    "points": 15
+  },
+  {
+    "id": 94,
+    "question": "Who was the first man to be tested by Lord Vishnu in disguise?",
+    "options": ["Bali", "Prahlada", "Harishchandra", "Yayati"],
+    "correctAnswer": 2,
+    "points": 15
+  },
+  {
+    "id": 95,
+    "question": "Who was the demon king of Pragjyotisha defeated by Krishna?",
+    "options": ["Narakasura", "Bali", "Kamsa", "Banasura"],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 96,
+    "question": "Who was the mother of Pandu?",
+    "options": ["Satyavati", "Kunti", "Ambika", "Ambalika"],
+    "correctAnswer": 3,
+    "points": 15
+  },
+  {
+    "id": 97,
+    "question": "Who is known as the goddess of learning and wisdom?",
+    "options": ["Lakshmi", "Saraswati", "Durga", "Parvati"],
+    "correctAnswer": 1,
+    "points": 5
+  },
+  {
+    "id": 98,
+    "question": "Who was the consort of Lord Vishnu during his Vamana avatar?",
+    "options": ["Lakshmi", "Bhudevi", "Sita", "Padmavati"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 99,
+    "question": "Which sage cursed Vishnu to be born several times on earth?",
+    "options": ["Bhrigu", "Vashistha", "Agastya", "Narada"],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 100,
+    "question": "Who composed the Shiva Tandava Stotra?",
+    "options": ["Ravana", "Valmiki", "Kalidasa", "Agastya"],
+    "correctAnswer": 0,
+    "points": 15
+  }
+]

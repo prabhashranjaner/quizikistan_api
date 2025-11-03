@@ -1,0 +1,972 @@
+[
+  {
+    "id": 1,
+    "question": "Who won the first ever Cricket World Cup in 1975?",
+    "options": ["Australia", "India", "West Indies", "England"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 2,
+    "question": "Which Indian cricketer was known as ‘The Wall’?",
+    "options": [
+      "Sachin Tendulkar",
+      "Rahul Dravid",
+      "Sourav Ganguly",
+      "VVS Laxman"
+    ],
+    "correctAnswer": 1,
+    "points": 5
+  },
+  {
+    "id": 3,
+    "question": "Which bowler has taken the most wickets in Test cricket?",
+    "options": [
+      "Shane Warne",
+      "James Anderson",
+      "Muttiah Muralitharan",
+      "Anil Kumble"
+    ],
+    "correctAnswer": 2,
+    "points": 15
+  },
+  {
+    "id": 4,
+    "question": "Who was the captain of India during the 2011 ICC World Cup victory?",
+    "options": ["Sourav Ganguly", "MS Dhoni", "Virat Kohli", "Kapil Dev"],
+    "correctAnswer": 1,
+    "points": 5
+  },
+  {
+    "id": 5,
+    "question": "Which player scored 400* in a Test match, the highest individual score?",
+    "options": [
+      "Brian Lara",
+      "Matthew Hayden",
+      "Chris Gayle",
+      "Virender Sehwag"
+    ],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 6,
+    "question": "Who holds the record for fastest century in ODI cricket?",
+    "options": [
+      "Corey Anderson",
+      "AB de Villiers",
+      "Shahid Afridi",
+      "Glenn Maxwell"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 7,
+    "question": "Which country won the 2019 ICC Cricket World Cup?",
+    "options": ["England", "New Zealand", "Australia", "India"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 8,
+    "question": "Which player was the first to reach 10,000 runs in Test cricket?",
+    "options": [
+      "Sunil Gavaskar",
+      "Sachin Tendulkar",
+      "Allan Border",
+      "Brian Lara"
+    ],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 9,
+    "question": "Who is the first cricketer to score a double century in ODIs?",
+    "options": [
+      "Sachin Tendulkar",
+      "Rohit Sharma",
+      "Virender Sehwag",
+      "Chris Gayle"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 10,
+    "question": "In which year was the IPL inaugurated?",
+    "options": ["2007", "2008", "2009", "2010"],
+    "correctAnswer": 1,
+    "points": 5
+  },
+  {
+    "id": 11,
+    "question": "Who was the first player to take 10 wickets in a single Test innings?",
+    "options": [
+      "Anil Kumble",
+      "Jim Laker",
+      "Muttiah Muralitharan",
+      "Richard Hadlee"
+    ],
+    "correctAnswer": 1,
+    "points": 15
+  },
+  {
+    "id": 12,
+    "question": "Which batsman hit six sixes in an over in a T20 World Cup match?",
+    "options": [
+      "Chris Gayle",
+      "Yuvraj Singh",
+      "Kieron Pollard",
+      "AB de Villiers"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 13,
+    "question": "Who is the only Indian to win ICC Cricketer of the Year award twice?",
+    "options": ["Sachin Tendulkar", "Virat Kohli", "MS Dhoni", "Rohit Sharma"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 14,
+    "question": "Which country hosted the first T20 World Cup in 2007?",
+    "options": ["England", "India", "South Africa", "Australia"],
+    "correctAnswer": 2,
+    "points": 5
+  },
+  {
+    "id": 15,
+    "question": "Who holds the record for most runs in a single IPL season?",
+    "options": ["Chris Gayle", "David Warner", "Virat Kohli", "Jos Buttler"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 16,
+    "question": "Which bowler has taken the most wickets in IPL history?",
+    "options": [
+      "Lasith Malinga",
+      "Dwayne Bravo",
+      "Yuzvendra Chahal",
+      "Rashid Khan"
+    ],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 17,
+    "question": "Who was the first batsman to be given out by the third umpire in international cricket?",
+    "options": [
+      "Sachin Tendulkar",
+      "Jonty Rhodes",
+      "Carl Hooper",
+      "Graham Gooch"
+    ],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 18,
+    "question": "Which team won the inaugural IPL trophy?",
+    "options": [
+      "Rajasthan Royals",
+      "Chennai Super Kings",
+      "Kolkata Knight Riders",
+      "Mumbai Indians"
+    ],
+    "correctAnswer": 0,
+    "points": 5
+  },
+  {
+    "id": 19,
+    "question": "Which Indian bowler took a hat-trick in a World Cup match?",
+    "options": ["Kapil Dev", "Chetan Sharma", "Zaheer Khan", "Mohammed Shami"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 20,
+    "question": "Who was the first player to score 10,000 runs in ODIs?",
+    "options": [
+      "Sachin Tendulkar",
+      "Ricky Ponting",
+      "Brian Lara",
+      "Sunil Gavaskar"
+    ],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 21,
+    "question": "Which country did India beat in the final of the 1983 World Cup?",
+    "options": ["Australia", "England", "West Indies", "Pakistan"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 22,
+    "question": "Who was the first cricketer to score 100 international centuries?",
+    "options": [
+      "Ricky Ponting",
+      "Virat Kohli",
+      "Sachin Tendulkar",
+      "Brian Lara"
+    ],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 23,
+    "question": "What is the maximum number of overs allowed in a Test innings?",
+    "options": ["90", "Unlimited", "100", "75"],
+    "correctAnswer": 1,
+    "points": 5
+  },
+  {
+    "id": 24,
+    "question": "Which stadium is known as ‘The Mecca of Cricket’?",
+    "options": [
+      "Eden Gardens",
+      "Lords",
+      "Melbourne Cricket Ground",
+      "The Oval"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 25,
+    "question": "Who holds the record for most centuries in ODI cricket?",
+    "options": [
+      "Virat Kohli",
+      "Sachin Tendulkar",
+      "Rohit Sharma",
+      "AB de Villiers"
+    ],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 26,
+    "question": "Which player captained India in their first-ever Test match?",
+    "options": [
+      "CK Nayudu",
+      "Vijay Merchant",
+      "Lala Amarnath",
+      "Nawab Pataudi Sr."
+    ],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 27,
+    "question": "Which Australian cricketer was known as ‘Punter’?",
+    "options": [
+      "Shane Warne",
+      "Ricky Ponting",
+      "Michael Clarke",
+      "Steve Waugh"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 28,
+    "question": "What does DRS stand for in cricket?",
+    "options": [
+      "Decision Review System",
+      "Data Replay System",
+      "Decision Referral Setup",
+      "Dynamic Replay System"
+    ],
+    "correctAnswer": 0,
+    "points": 5
+  },
+  {
+    "id": 29,
+    "question": "Who was the first Indian woman cricketer to score a double hundred in Tests?",
+    "options": [
+      "Mithali Raj",
+      "Smriti Mandhana",
+      "Jhulan Goswami",
+      "Harmanpreet Kaur"
+    ],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 30,
+    "question": "Which cricketer has hit the most sixes in international cricket?",
+    "options": ["Chris Gayle", "Rohit Sharma", "MS Dhoni", "AB de Villiers"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 31,
+    "question": "Which team has won the most ICC Cricket World Cups?",
+    "options": ["India", "Australia", "West Indies", "England"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 32,
+    "question": "Who was the first player to score a century in T20 Internationals?",
+    "options": [
+      "Chris Gayle",
+      "Brendon McCullum",
+      "Suresh Raina",
+      "Aaron Finch"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 33,
+    "question": "Who bowled the first ball in IPL history?",
+    "options": ["Sreesanth", "Praveen Kumar", "Sohail Tanvir", "Zaheer Khan"],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 34,
+    "question": "Who hit the winning runs for India in the 2011 World Cup final?",
+    "options": ["Gautam Gambhir", "MS Dhoni", "Yuvraj Singh", "Virat Kohli"],
+    "correctAnswer": 1,
+    "points": 5
+  },
+  {
+    "id": 35,
+    "question": "Which batsman was nicknamed 'Mr. 360'?",
+    "options": [
+      "AB de Villiers",
+      "Glenn Maxwell",
+      "Jos Buttler",
+      "Suryakumar Yadav"
+    ],
+    "correctAnswer": 0,
+    "points": 5
+  },
+  {
+    "id": 36,
+    "question": "Who has scored the highest individual score in IPL history?",
+    "options": [
+      "Chris Gayle",
+      "Brendon McCullum",
+      "AB de Villiers",
+      "Rohit Sharma"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 37,
+    "question": "Who was the first bowler to take a hat-trick in IPL?",
+    "options": [
+      "Lakshmipathy Balaji",
+      "Amit Mishra",
+      "Sunil Narine",
+      "Rashid Khan"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 38,
+    "question": "Who is the only cricketer to play 200 Test matches?",
+    "options": [
+      "Ricky Ponting",
+      "Jacques Kallis",
+      "Sachin Tendulkar",
+      "Alastair Cook"
+    ],
+    "correctAnswer": 2,
+    "points": 15
+  },
+  {
+    "id": 39,
+    "question": "What is the maximum number of overs a bowler can bowl in a One Day International?",
+    "options": ["10", "12", "15", "8"],
+    "correctAnswer": 0,
+    "points": 5
+  },
+  {
+    "id": 40,
+    "question": "Which country does Babar Azam represent?",
+    "options": ["India", "Pakistan", "Bangladesh", "Sri Lanka"],
+    "correctAnswer": 1,
+    "points": 5
+  },
+  {
+    "id": 41,
+    "question": "Who was the first Indian bowler to take a five-wicket haul in T20 Internationals?",
+    "options": [
+      "Bhuvneshwar Kumar",
+      "Yuzvendra Chahal",
+      "Harbhajan Singh",
+      "Axar Patel"
+    ],
+    "correctAnswer": 1,
+    "points": 15
+  },
+  {
+    "id": 42,
+    "question": "Who holds the record for most runs in a single Test series?",
+    "options": ["Don Bradman", "Virat Kohli", "Steve Smith", "Brian Lara"],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 43,
+    "question": "Which country won the first-ever ICC T20 World Cup?",
+    "options": ["India", "Pakistan", "Australia", "West Indies"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 44,
+    "question": "Which cricketer has the nickname ‘The Rawalpindi Express’?",
+    "options": [
+      "Waqar Younis",
+      "Shoaib Akhtar",
+      "Wasim Akram",
+      "Mohammad Amir"
+    ],
+    "correctAnswer": 1,
+    "points": 5
+  },
+  {
+    "id": 45,
+    "question": "Who holds the record for most dismissals by a wicketkeeper in Tests?",
+    "options": ["Mark Boucher", "Adam Gilchrist", "MS Dhoni", "Ian Healy"],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 46,
+    "question": "Which cricketer has captained the most international matches?",
+    "options": ["Ricky Ponting", "MS Dhoni", "Graeme Smith", "Steve Waugh"],
+    "correctAnswer": 2,
+    "points": 15
+  },
+  {
+    "id": 47,
+    "question": "Which bowler delivered the first-ever ball in World Cup history?",
+    "options": [
+      "Dennis Lillee",
+      "Madan Lal",
+      "Sir Richard Hadlee",
+      "Andy Roberts"
+    ],
+    "correctAnswer": 3,
+    "points": 15
+  },
+  {
+    "id": 48,
+    "question": "Which Indian cricketer was known as 'The Turbanator'?",
+    "options": [
+      "Yuvraj Singh",
+      "Harbhajan Singh",
+      "Ravindra Jadeja",
+      "Kapil Dev"
+    ],
+    "correctAnswer": 1,
+    "points": 5
+  },
+  {
+    "id": 49,
+    "question": "Which bowler took the first-ever wicket in IPL history?",
+    "options": ["Sohail Tanvir", "Sreesanth", "Zaheer Khan", "Praveen Kumar"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 50,
+    "question": "Who was named Player of the Tournament in the 2023 ICC Cricket World Cup?",
+    "options": ["Rohit Sharma", "Travis Head", "Virat Kohli", "Glenn Maxwell"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 51,
+    "question": "Which player has scored the most runs in Test cricket?",
+    "options": [
+      "Sachin Tendulkar",
+      "Ricky Ponting",
+      "Brian Lara",
+      "Jacques Kallis"
+    ],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 52,
+    "question": "Which Indian city hosted India’s first-ever Test match?",
+    "options": ["Mumbai", "Chennai", "Kolkata", "Delhi"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 53,
+    "question": "Who was the first batsman to be run out by a third-umpire decision?",
+    "options": [
+      "Sachin Tendulkar",
+      "Jonty Rhodes",
+      "Carl Hooper",
+      "Allan Border"
+    ],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 54,
+    "question": "Which bowler has the best bowling figures in an ODI match?",
+    "options": [
+      "Chaminda Vaas",
+      "Shahid Afridi",
+      "Glenn McGrath",
+      "Trent Boult"
+    ],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 55,
+    "question": "Who was the youngest player to debut for India in international cricket?",
+    "options": [
+      "Parthiv Patel",
+      "Sachin Tendulkar",
+      "Rohit Sharma",
+      "Prithvi Shaw"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 56,
+    "question": "Who won the ICC World Test Championship 2021?",
+    "options": ["India", "New Zealand", "Australia", "England"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 57,
+    "question": "Who was the first batsman to score 300 in Test cricket?",
+    "options": ["Don Bradman", "Wally Hammond", "Andy Sandham", "Brian Lara"],
+    "correctAnswer": 2,
+    "points": 15
+  },
+  {
+    "id": 58,
+    "question": "Which batsman faced the most balls in a Test innings?",
+    "options": [
+      "Alastair Cook",
+      "Hanif Mohammad",
+      "Cheteshwar Pujara",
+      "Brian Lara"
+    ],
+    "correctAnswer": 1,
+    "points": 15
+  },
+  {
+    "id": 59,
+    "question": "Who is the only cricketer to score centuries in all three formats on captaincy debut?",
+    "options": [
+      "Babar Azam",
+      "Tillakaratne Dilshan",
+      "Faf du Plessis",
+      "KL Rahul"
+    ],
+    "correctAnswer": 3,
+    "points": 15
+  },
+  {
+    "id": 60,
+    "question": "Who was the first captain to lift the T20 World Cup?",
+    "options": ["MS Dhoni", "Ricky Ponting", "Graeme Smith", "Chris Gayle"],
+    "correctAnswer": 0,
+    "points": 5
+  },
+  {
+    "id": 61,
+    "question": "Which bowler has taken the most wickets in a single World Cup tournament?",
+    "options": [
+      "Mitchell Starc",
+      "Glenn McGrath",
+      "Zaheer Khan",
+      "Trent Boult"
+    ],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 62,
+    "question": "Which team did Afghanistan defeat in their first-ever World Cup match win?",
+    "options": ["Scotland", "Pakistan", "Sri Lanka", "Bangladesh"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 63,
+    "question": "Who is the first Indian player to take a T20I hat-trick?",
+    "options": [
+      "Harbhajan Singh",
+      "Deepak Chahar",
+      "Amit Mishra",
+      "Bhuvneshwar Kumar"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 64,
+    "question": "Which Indian cricketer is nicknamed ‘Hitman’?",
+    "options": ["Virat Kohli", "Rohit Sharma", "Shikhar Dhawan", "KL Rahul"],
+    "correctAnswer": 1,
+    "points": 5
+  },
+  {
+    "id": 65,
+    "question": "Who was the first player to score back-to-back centuries in the IPL?",
+    "options": [
+      "Virat Kohli",
+      "AB de Villiers",
+      "Shikhar Dhawan",
+      "Chris Gayle"
+    ],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 66,
+    "question": "Who bowled the final over in the 2016 T20 World Cup final?",
+    "options": ["Ben Stokes", "Adil Rashid", "Chris Jordan", "Liam Plunkett"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 67,
+    "question": "Which Indian player took 10 wickets in a single Test innings in 2021?",
+    "options": [
+      "Ravichandran Ashwin",
+      "Anil Kumble",
+      "Axar Patel",
+      "Ajaz Patel"
+    ],
+    "correctAnswer": 3,
+    "points": 15
+  },
+  {
+    "id": 68,
+    "question": "Which cricketer holds the record for most runs in a T20I career?",
+    "options": ["Virat Kohli", "Rohit Sharma", "Martin Guptill", "Babar Azam"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 69,
+    "question": "Who was the first bowler to take 500 wickets in Test cricket?",
+    "options": [
+      "Courtney Walsh",
+      "Muttiah Muralitharan",
+      "Shane Warne",
+      "Glenn McGrath"
+    ],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 70,
+    "question": "Which cricketer hit the longest recorded six in international cricket?",
+    "options": ["Shahid Afridi", "MS Dhoni", "Brett Lee", "Chris Gayle"],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 71,
+    "question": "Who was the first Indian batsman to score a triple century in Tests?",
+    "options": [
+      "Virender Sehwag",
+      "Rahul Dravid",
+      "VVS Laxman",
+      "Sunil Gavaskar"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 72,
+    "question": "Which stadium hosted the 2019 World Cup final?",
+    "options": ["The Oval", "Lord’s", "Edgbaston", "Old Trafford"],
+    "correctAnswer": 1,
+    "points": 5
+  },
+  {
+    "id": 73,
+    "question": "Who was the first batsman to be dismissed 'obstructing the field' in ODI cricket?",
+    "options": [
+      "Inzamam-ul-Haq",
+      "Graham Gooch",
+      "Ben Stokes",
+      "Mohammad Hafeez"
+    ],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 74,
+    "question": "Which Indian spinner took a hat-trick in the 1987 World Cup?",
+    "options": ["Maninder Singh", "Chetan Sharma", "Kapil Dev", "Ravi Shastri"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 75,
+    "question": "Which cricketer captained South Africa in their first World Cup after readmission in 1992?",
+    "options": [
+      "Hansie Cronje",
+      "Kepler Wessels",
+      "Allan Donald",
+      "Shaun Pollock"
+    ],
+    "correctAnswer": 1,
+    "points": 15
+  },
+  {
+    "id": 76,
+    "question": "Which Indian cricketer hit six sixes in an over in a domestic match before Yuvraj Singh?",
+    "options": ["Ravi Shastri", "Kapil Dev", "Virender Sehwag", "Suresh Raina"],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 77,
+    "question": "Who won the Purple Cap in IPL 2020?",
+    "options": [
+      "Kagiso Rabada",
+      "Jasprit Bumrah",
+      "Trent Boult",
+      "Yuzvendra Chahal"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 78,
+    "question": "Which female cricketer has the most runs in Women’s ODIs?",
+    "options": [
+      "Mithali Raj",
+      "Meg Lanning",
+      "Charlotte Edwards",
+      "Ellyse Perry"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 79,
+    "question": "Who was the first bowler to take a five-wicket haul in IPL?",
+    "options": [
+      "Anil Kumble",
+      "Sohail Tanvir",
+      "James Faulkner",
+      "Sunil Narine"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 80,
+    "question": "Which team won the first-ever Women's T20 World Cup?",
+    "options": ["Australia", "England", "New Zealand", "India"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 81,
+    "question": "Which Indian player was the first to score 200 in an ODI World Cup match?",
+    "options": [
+      "Sachin Tendulkar",
+      "Virender Sehwag",
+      "Rohit Sharma",
+      "Kapil Dev"
+    ],
+    "correctAnswer": 2,
+    "points": 15
+  },
+  {
+    "id": 82,
+    "question": "Which team has never won an ICC Cricket World Cup?",
+    "options": ["South Africa", "Sri Lanka", "England", "Pakistan"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 83,
+    "question": "Who holds the record for the fastest 50 in IPL history?",
+    "options": ["KL Rahul", "Chris Gayle", "Pat Cummins", "Yuvraj Singh"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 84,
+    "question": "Who was the first cricketer to score 500 runs in a single World Cup?",
+    "options": [
+      "Sachin Tendulkar",
+      "Matthew Hayden",
+      "Kane Williamson",
+      "Rohit Sharma"
+    ],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 85,
+    "question": "Which country hosted the 2003 Cricket World Cup?",
+    "options": ["South Africa", "Australia", "England", "West Indies"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 86,
+    "question": "Who is the only Indian to take a hat-trick in World Cup history?",
+    "options": [
+      "Chetan Sharma",
+      "Kapil Dev",
+      "Mohammed Shami",
+      "Jasprit Bumrah"
+    ],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 87,
+    "question": "Which cricketer has scored the most centuries in IPL?",
+    "options": ["Virat Kohli", "Chris Gayle", "David Warner", "Shane Watson"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 88,
+    "question": "Which team did India beat in the 2007 T20 World Cup final?",
+    "options": ["Australia", "Pakistan", "South Africa", "Sri Lanka"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 89,
+    "question": "Which cricketer has taken the most catches in international cricket?",
+    "options": [
+      "Mahela Jayawardene",
+      "Ricky Ponting",
+      "Rahul Dravid",
+      "Jacques Kallis"
+    ],
+    "correctAnswer": 2,
+    "points": 15
+  },
+  {
+    "id": 90,
+    "question": "Who was the first Indian cricketer to win the Rajiv Gandhi Khel Ratna Award?",
+    "options": ["Sachin Tendulkar", "MS Dhoni", "Virat Kohli", "Rohit Sharma"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 91,
+    "question": "Which bowler bowled the Super Over in the 2019 World Cup final?",
+    "options": ["Jofra Archer", "Chris Woakes", "Mark Wood", "Ben Stokes"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 92,
+    "question": "Who was the first player to reach 10,000 T20 runs?",
+    "options": ["Chris Gayle", "Virat Kohli", "AB de Villiers", "David Warner"],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 93,
+    "question": "Who was the first cricketer to be knighted by the British Crown?",
+    "options": ["Ian Botham", "Don Bradman", "Viv Richards", "Len Hutton"],
+    "correctAnswer": 1,
+    "points": 15
+  },
+  {
+    "id": 94,
+    "question": "Who holds the record for the highest partnership in Test cricket?",
+    "options": [
+      "Sangakkara & Jayawardene",
+      "Dravid & Laxman",
+      "Hayden & Langer",
+      "Smith & Amla"
+    ],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 95,
+    "question": "Which Indian cricketer has the nickname ‘Captain Cool’?",
+    "options": ["Sourav Ganguly", "MS Dhoni", "Virat Kohli", "Rohit Sharma"],
+    "correctAnswer": 1,
+    "points": 5
+  },
+  {
+    "id": 96,
+    "question": "Who won the ICC Men’s Cricketer of the Decade award (2011–2020)?",
+    "options": [
+      "Steve Smith",
+      "Virat Kohli",
+      "AB de Villiers",
+      "Kane Williamson"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 97,
+    "question": "Which Indian spinner has the most wickets in Test cricket?",
+    "options": [
+      "Anil Kumble",
+      "Ravichandran Ashwin",
+      "Harbhajan Singh",
+      "Ravindra Jadeja"
+    ],
+    "correctAnswer": 1,
+    "points": 15
+  },
+  {
+    "id": 98,
+    "question": "Which player won the Orange Cap in IPL 2023?",
+    "options": [
+      "Shubman Gill",
+      "Faf du Plessis",
+      "Virat Kohli",
+      "Ruturaj Gaikwad"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 99,
+    "question": "Which country won the ICC World Cup in 1996?",
+    "options": ["India", "Australia", "Sri Lanka", "Pakistan"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 100,
+    "question": "Who is the only player to win the ICC Cricketer of the Year award three times?",
+    "options": [
+      "Virat Kohli",
+      "Ricky Ponting",
+      "Jacques Kallis",
+      "Steve Smith"
+    ],
+    "correctAnswer": 0,
+    "points": 15
+  }
+]

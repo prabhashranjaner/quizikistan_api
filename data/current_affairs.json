@@ -1,0 +1,852 @@
+[
+  {
+    "id": 1,
+    "question": "Who is the current President of India as of 2025?",
+    "options": [
+      "Ram Nath Kovind",
+      "Droupadi Murmu",
+      "Pratibha Patil",
+      "Venkaiah Naidu"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 2,
+    "question": "Which country hosted the 2024 Summer Olympics?",
+    "options": ["Japan", "France", "USA", "Germany"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 3,
+    "question": "Who won the 2024 ICC T20 World Cup in men's cricket?",
+    "options": ["India", "Australia", "England", "West Indies"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 4,
+    "question": "Which Indian city hosted the G20 Summit in 2023?",
+    "options": ["Mumbai", "New Delhi", "Bengaluru", "Hyderabad"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 5,
+    "question": "Which Indian was awarded the 2024 Nobel Prize in Economics?",
+    "options": [
+      "Raghuram Rajan",
+      "Abhijit Banerjee",
+      "Kaushik Basu",
+      "None of the above"
+    ],
+    "correctAnswer": 3,
+    "points": 10
+  },
+  {
+    "id": 6,
+    "question": "Which spacecraft mission by ISRO successfully studied the Sun in 2024?",
+    "options": ["Chandrayaan-3", "Aditya-L1", "Mangalyaan", "Astrosat"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 7,
+    "question": "Who is the current Prime Minister of the United Kingdom as of 2025?",
+    "options": ["Rishi Sunak", "Keir Starmer", "Boris Johnson", "Liz Truss"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 8,
+    "question": "India surpassed which country to become the world’s third-largest economy in 2025?",
+    "options": ["Germany", "Japan", "UK", "France"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 9,
+    "question": "Which Indian state recently launched the 'Mission 2047 Clean Energy Vision'?",
+    "options": ["Gujarat", "Tamil Nadu", "Maharashtra", "Karnataka"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 10,
+    "question": "Who won the 2025 Australian Open Men's Singles title?",
+    "options": [
+      "Novak Djokovic",
+      "Carlos Alcaraz",
+      "Rafael Nadal",
+      "Daniil Medvedev"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 11,
+    "question": "Which Indian film was nominated for Best International Feature at the 2025 Oscars?",
+    "options": ["RRR", "The Kerala Story", "12th Fail", "Article 370"],
+    "correctAnswer": 3,
+    "points": 10
+  },
+  {
+    "id": 12,
+    "question": "What is the name of India's latest digital payment framework introduced in 2025?",
+    "options": [
+      "UPI Next",
+      "Digital Rupee 2.0",
+      "BharatPay+",
+      "FinTech India Hub"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 13,
+    "question": "Which country recently joined BRICS in its 2024 expansion?",
+    "options": ["Saudi Arabia", "Mexico", "Turkey", "Indonesia"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 14,
+    "question": "Who was appointed as the new Chief of Defence Staff (CDS) of India in 2024?",
+    "options": [
+      "Lt Gen Anil Chauhan",
+      "Gen Bipin Rawat",
+      "Admiral R. Hari Kumar",
+      "Air Chief Marshal V.R. Chaudhari"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 15,
+    "question": "Which Indian company became the first to achieve a $1 trillion market capitalization in 2025?",
+    "options": [
+      "Reliance Industries",
+      "Tata Group",
+      "Adani Enterprises",
+      "Infosys"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 16,
+    "question": "Which Indian state topped the NITI Aayog SDG India Index 2024?",
+    "options": ["Kerala", "Himachal Pradesh", "Tamil Nadu", "Karnataka"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 17,
+    "question": "Who is the current CEO of OpenAI as of 2025?",
+    "options": ["Elon Musk", "Sam Altman", "Greg Brockman", "Sundar Pichai"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 18,
+    "question": "Which Indian state declared 'Kaveri Delta' as a protected agricultural zone?",
+    "options": ["Tamil Nadu", "Karnataka", "Kerala", "Andhra Pradesh"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 19,
+    "question": "Which space agency launched the Artemis II mission to the Moon?",
+    "options": ["NASA", "ISRO", "ESA", "Roscosmos"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 20,
+    "question": "Who won the 2025 ICC Women's World Cup?",
+    "options": ["Australia", "India", "England", "South Africa"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 21,
+    "question": "Which Indian city became the first to achieve 100% renewable energy usage in 2025?",
+    "options": ["Surat", "Jaipur", "Pune", "Kochi"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 22,
+    "question": "Which Indian institution was ranked as the top university in India in the QS World University Rankings 2025?",
+    "options": [
+      "IIT Bombay",
+      "IISc Bengaluru",
+      "IIT Delhi",
+      "Delhi University"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 23,
+    "question": "In 2024, which country became the newest member of the United Nations?",
+    "options": ["Palestine", "Kosovo", "Somaliland", "Taiwan"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 24,
+    "question": "Who won the 2025 TIME Person of the Year award?",
+    "options": [
+      "Elon Musk",
+      "Volodymyr Zelensky",
+      "Greta Thunberg",
+      "Sam Altman"
+    ],
+    "correctAnswer": 3,
+    "points": 10
+  },
+  {
+    "id": 25,
+    "question": "Which Indian startup became a unicorn in 2025 for its AI-driven education technology platform?",
+    "options": ["Byju’s", "PhysicsWallah", "UpGrad", "iNeuron AI"],
+    "correctAnswer": 3,
+    "points": 10
+  },
+  {
+    "id": 26,
+    "question": "Which Indian city hosted the 2025 Aero India Show?",
+    "options": ["Bengaluru", "Hyderabad", "Lucknow", "Chennai"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 27,
+    "question": "Which global organization declared 2025 as the ‘International Year of Quantum Technologies’?",
+    "options": ["UNESCO", "United Nations", "OECD", "ITU"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 28,
+    "question": "Who became the new Chief Justice of India in 2025?",
+    "options": [
+      "Justice D.Y. Chandrachud",
+      "Justice Sanjiv Khanna",
+      "Justice B.R. Gavai",
+      "Justice Hima Kohli"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 29,
+    "question": "Which company launched the world’s first AI chip based entirely on 3nm architecture in 2025?",
+    "options": ["Intel", "Apple", "NVIDIA", "Samsung"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 30,
+    "question": "Which Indian state recorded the highest solar energy capacity in 2025?",
+    "options": ["Rajasthan", "Gujarat", "Karnataka", "Madhya Pradesh"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 31,
+    "question": "Who won the Bharat Ratna award in 2025 for contributions to public service?",
+    "options": [
+      "E. Sreedharan",
+      "MS Dhoni",
+      "Lata Mangeshkar",
+      "Manmohan Singh"
+    ],
+    "correctAnswer": 3,
+    "points": 10
+  },
+  {
+    "id": 32,
+    "question": "Which company launched India’s first hydrogen fuel cell car in 2024?",
+    "options": ["Tata Motors", "Hyundai", "Mahindra", "Maruti Suzuki"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 33,
+    "question": "Which space agency announced a manned Mars mission plan for 2030 in 2025?",
+    "options": ["NASA", "ISRO", "CNSA", "ESA"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 34,
+    "question": "Who won the 2025 IPL title?",
+    "options": [
+      "Mumbai Indians",
+      "Chennai Super Kings",
+      "Kolkata Knight Riders",
+      "Rajasthan Royals"
+    ],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 35,
+    "question": "Which Indian airport became carbon-neutral in 2024?",
+    "options": ["Delhi", "Kochi", "Mumbai", "Bengaluru"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 36,
+    "question": "Which country became the first to implement a nationwide AI ethics law in 2025?",
+    "options": ["USA", "Japan", "EU", "India"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 37,
+    "question": "Who was elected as the new President of the United States in 2024?",
+    "options": ["Donald Trump", "Joe Biden", "Kamala Harris", "Ron DeSantis"],
+    "correctAnswer": 3,
+    "points": 10
+  },
+  {
+    "id": 38,
+    "question": "Which Indian river was recently declared as a ‘Living Entity’ by the Supreme Court?",
+    "options": ["Ganga", "Yamuna", "Brahmaputra", "Godavari"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 39,
+    "question": "Which Indian tech giant acquired a majority stake in Zomato in 2025?",
+    "options": ["Reliance", "Tata Digital", "Adani Group", "Paytm"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 40,
+    "question": "Which nation won the 2025 FIFA Club World Cup?",
+    "options": ["Manchester City", "Real Madrid", "Al Hilal", "Flamengo"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 41,
+    "question": "Which Indian city will host the 2030 Commonwealth Games as announced in 2025?",
+    "options": ["Ahmedabad", "New Delhi", "Hyderabad", "Bhubaneswar"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 42,
+    "question": "Which Indian scientist was appointed as the new head of ISRO in 2025?",
+    "options": [
+      "S. Somanath",
+      "Dr. Ritu Karidhal",
+      "K. Sivan",
+      "Dr. M. Vanitha"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 43,
+    "question": "Which country recently launched the world’s first quantum internet satellite?",
+    "options": ["China", "USA", "Japan", "India"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 44,
+    "question": "Which Indian city ranked highest in the Global Smart City Index 2025?",
+    "options": ["Bengaluru", "Hyderabad", "Pune", "Mumbai"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 45,
+    "question": "Who won the 2024 Miss Universe title?",
+    "options": [
+      "R'Bonney Gabriel",
+      "Suman Rao",
+      "Antonia Porsild",
+      "Shweta Sharda"
+    ],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 46,
+    "question": "Which Indian city hosted the World Economic Forum’s India Summit in 2025?",
+    "options": ["Mumbai", "New Delhi", "Hyderabad", "Bengaluru"],
+    "correctAnswer": 3,
+    "points": 10
+  },
+  {
+    "id": 47,
+    "question": "Who was appointed as the new Governor of the Reserve Bank of India in 2025?",
+    "options": [
+      "Shaktikanta Das",
+      "Urjit Patel",
+      "Ajay Banga",
+      "Viral Acharya"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 48,
+    "question": "Which Indian state launched the ‘AI for Agriculture’ initiative in 2025?",
+    "options": ["Punjab", "Andhra Pradesh", "Maharashtra", "Telangana"],
+    "correctAnswer": 3,
+    "points": 10
+  },
+  {
+    "id": 49,
+    "question": "Which Indian athlete broke the world record in javelin throw in 2025?",
+    "options": [
+      "Neeraj Chopra",
+      "Arshad Nadeem",
+      "Anderson Peters",
+      "Johannes Vetter"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 50,
+    "question": "Which Indian naval vessel was commissioned as INS Veer in 2025?",
+    "options": ["Destroyer", "Submarine", "Frigate", "Corvette"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 51,
+    "question": "Which Indian state launched the ‘Chief Minister’s Urban Employment Guarantee Scheme’ in 2025?",
+    "options": ["Rajasthan", "Madhya Pradesh", "Odisha", "Kerala"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 52,
+    "question": "Which Indian company launched the country’s first 6G testbed in 2025?",
+    "options": ["Reliance Jio", "Bharti Airtel", "BSNL", "Tata Communications"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 53,
+    "question": "Which Indian airport became the busiest in terms of passenger traffic in 2025?",
+    "options": [
+      "Indira Gandhi International Airport",
+      "Chhatrapati Shivaji Airport",
+      "Kempegowda Airport",
+      "Rajiv Gandhi Airport"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 54,
+    "question": "Which Indian city hosted the 2025 National Games?",
+    "options": ["Ahmedabad", "Bhopal", "Pune", "Bhubaneswar"],
+    "correctAnswer": 3,
+    "points": 10
+  },
+  {
+    "id": 55,
+    "question": "Who became the Speaker of the Lok Sabha after the 2024 General Elections?",
+    "options": ["Om Birla", "Nitin Gadkari", "Rajnath Singh", "Piyush Goyal"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 56,
+    "question": "Which Indian city inaugurated the country's first driverless metro extension in 2025?",
+    "options": ["Delhi", "Mumbai", "Hyderabad", "Bengaluru"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 57,
+    "question": "Which Indian state launched the ‘Mission Swasth Bharat’ health initiative in 2024?",
+    "options": ["Uttar Pradesh", "Gujarat", "Tamil Nadu", "Maharashtra"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 58,
+    "question": "Who was appointed as the new Chief Election Commissioner of India in 2025?",
+    "options": ["Rajiv Kumar", "Arun Goel", "Sushil Chandra", "Sunil Arora"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 59,
+    "question": "Which Indian PSU launched the country’s first Green Hydrogen Plant in 2025?",
+    "options": ["ONGC", "NTPC", "Indian Oil", "GAIL"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 60,
+    "question": "Which Indian state topped the Ease of Doing Business rankings in 2025?",
+    "options": ["Andhra Pradesh", "Gujarat", "Tamil Nadu", "Karnataka"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 61,
+    "question": "Which Indian startup launched the first Made-in-India AI humanoid robot in 2025?",
+    "options": ["H-Bot", "ASIMOV Robotics", "Kryzen", "Invento Robotics"],
+    "correctAnswer": 3,
+    "points": 10
+  },
+  {
+    "id": 62,
+    "question": "Who became the first Indian woman to command an ISRO space mission?",
+    "options": [
+      "Ritu Karidhal",
+      "Anuradha T.K.",
+      "Muthayya Vanitha",
+      "Kalpana Chawla"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 63,
+    "question": "Which Indian state has the highest installed wind energy capacity as of 2025?",
+    "options": ["Tamil Nadu", "Gujarat", "Maharashtra", "Rajasthan"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 64,
+    "question": "Who was awarded the Padma Vibhushan for Literature in 2025?",
+    "options": [
+      "Amitav Ghosh",
+      "Arundhati Roy",
+      "Ruskin Bond",
+      "Girish Karnad"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 65,
+    "question": "Which Indian sports personality won the Rajiv Gandhi Khel Ratna Award in 2025?",
+    "options": ["Neeraj Chopra", "PV Sindhu", "Rohit Sharma", "Mirabai Chanu"],
+    "correctAnswer": 3,
+    "points": 10
+  },
+  {
+    "id": 66,
+    "question": "Which Indian ministry launched the 'Digital Governance 2.0' initiative in 2025?",
+    "options": [
+      "Ministry of IT",
+      "Ministry of Electronics & IT",
+      "Ministry of Home Affairs",
+      "NITI Aayog"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 67,
+    "question": "Which Indian railway station became the first to run entirely on solar power?",
+    "options": ["Guwahati", "Bhopal", "Indore", "Jaipur"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 68,
+    "question": "Which Indian city was declared as the ‘Cleanest City’ in Swachh Survekshan 2024?",
+    "options": ["Indore", "Surat", "Bhopal", "Pune"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 69,
+    "question": "Who is the current Defence Minister of India in 2025?",
+    "options": [
+      "Rajnath Singh",
+      "Amit Shah",
+      "Nirmala Sitharaman",
+      "S. Jaishankar"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 70,
+    "question": "Which Indian company launched the country’s first private satellite in 2024?",
+    "options": [
+      "Skyroot Aerospace",
+      "Bellatrix Aerospace",
+      "Pixxel",
+      "Agnikul Cosmos"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 71,
+    "question": "Which Indian state became the first to implement a Universal Health Card system in 2025?",
+    "options": ["Kerala", "Delhi", "Tamil Nadu", "Goa"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 72,
+    "question": "Which Indian film won the National Film Award for Best Picture in 2025?",
+    "options": ["12th Fail", "Animal", "Jawan", "Kantara"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 73,
+    "question": "Who was appointed as the new Chairman of SEBI in 2025?",
+    "options": [
+      "Madhabi Puri Buch",
+      "Ajay Tyagi",
+      "Rakesh Joshi",
+      "Arundhati Bhattacharya"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 74,
+    "question": "Which Indian city hosted the International Film Festival of India (IFFI) in 2025?",
+    "options": ["Goa", "Hyderabad", "Mumbai", "Pune"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 75,
+    "question": "Which Indian tech company unveiled ‘BharatGPT’, an indigenous AI model, in 2025?",
+    "options": ["Infosys", "TCS", "Reliance Jio", "Zoho"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 76,
+    "question": "Which Indian defence system successfully completed its first test in 2025?",
+    "options": [
+      "Pralay Missile",
+      "Agni-V ICBM",
+      "Astra Mk-2",
+      "Nirbhay Cruise Missile"
+    ],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 77,
+    "question": "Which Indian metro became the first to introduce AI-driven crowd management in 2025?",
+    "options": [
+      "Delhi Metro",
+      "Mumbai Metro",
+      "Hyderabad Metro",
+      "Chennai Metro"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 78,
+    "question": "Which Indian cricketer was inducted into the ICC Hall of Fame in 2025?",
+    "options": ["Rahul Dravid", "MS Dhoni", "Virat Kohli", "Sourav Ganguly"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 79,
+    "question": "Which Indian mountain range was declared an eco-sensitive zone in 2025?",
+    "options": ["Aravalli", "Vindhya", "Western Ghats", "Satpura"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 80,
+    "question": "Which Indian airport received the 'Best Airport in South Asia' award in 2025?",
+    "options": ["Delhi", "Bengaluru", "Hyderabad", "Mumbai"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 81,
+    "question": "Which Indian city launched the country’s first Hyperloop corridor proposal in 2025?",
+    "options": ["Mumbai", "Pune", "Bengaluru", "Hyderabad"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 82,
+    "question": "Which Indian athlete became the first to win gold in the 400m event at the Asian Games 2024?",
+    "options": ["Hima Das", "Muhammed Anas", "Priya Mohan", "Arokia Rajiv"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 83,
+    "question": "Which Indian state launched the 'Harit Pradesh' reforestation initiative in 2025?",
+    "options": ["Uttar Pradesh", "Madhya Pradesh", "Jharkhand", "Chhattisgarh"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 84,
+    "question": "Which Indian airline became the world’s largest domestic carrier by fleet size in 2025?",
+    "options": ["IndiGo", "Air India", "SpiceJet", "Vistara"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 85,
+    "question": "Which Indian university established the country’s first School of Quantum Computing in 2025?",
+    "options": ["IISc Bengaluru", "IIT Bombay", "IIT Madras", "IIT Delhi"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 86,
+    "question": "Which Indian river was declared as a national waterway in 2025?",
+    "options": ["Yamuna", "Brahmaputra", "Godavari", "Narmada"],
+    "correctAnswer": 3,
+    "points": 10
+  },
+  {
+    "id": 87,
+    "question": "Who was appointed as India’s new Ambassador to the United States in 2025?",
+    "options": [
+      "Taranjit Singh Sandhu",
+      "S. Jaishankar",
+      "Ruchira Kamboj",
+      "Vinay Kwatra"
+    ],
+    "correctAnswer": 3,
+    "points": 10
+  },
+  {
+    "id": 88,
+    "question": "Which Indian defence shipyard delivered the INS Vikrant-II in 2025?",
+    "options": [
+      "Cochin Shipyard",
+      "Mazagon Dock",
+      "Hindustan Shipyard",
+      "GRSE"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 89,
+    "question": "Which Indian state launched the 'Digital Krishi Mission' to integrate AI into farming in 2025?",
+    "options": ["Karnataka", "Telangana", "Punjab", "Haryana"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 90,
+    "question": "Which Indian environmentalist received the UNEP Global Earth Hero Award in 2025?",
+    "options": [
+      "Vandana Shiva",
+      "Medha Patkar",
+      "Sunita Narain",
+      "Ravi Chopra"
+    ],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 91,
+    "question": "Which Indian organization launched the National Cybersecurity Mission in 2025?",
+    "options": [
+      "NITI Aayog",
+      "CERT-In",
+      "DRDO",
+      "Ministry of Electronics & IT"
+    ],
+    "correctAnswer": 3,
+    "points": 10
+  },
+  {
+    "id": 92,
+    "question": "Which Indian port became the largest container handling port in 2025?",
+    "options": ["JNPT", "Mundra", "Visakhapatnam", "Chennai"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 93,
+    "question": "Which Indian insurance company launched AI claim settlement in 2025?",
+    "options": ["LIC", "HDFC Life", "ICICI Lombard", "SBI Life"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 94,
+    "question": "Which Indian naval exercise was conducted with Japan in 2025?",
+    "options": ["Malabar", "Garuda Shakti", "Shakti", "Indo-Japan Sea Link"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 95,
+    "question": "Which Indian city became the AI Innovation Capital in 2025?",
+    "options": ["Hyderabad", "Bengaluru", "Pune", "Chennai"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 96,
+    "question": "Which Indian state hosted the Khelo India Youth Games 2025?",
+    "options": ["Assam", "Haryana", "Tamil Nadu", "Goa"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 97,
+    "question": "Who became the first Indian woman Chief Minister to serve five consecutive terms?",
+    "options": [
+      "Mamata Banerjee",
+      "Sheila Dikshit",
+      "Jayalalithaa",
+      "Vasundhara Raje"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 98,
+    "question": "Which Indian metro launched the first water-based metro transport service in 2025?",
+    "options": ["Kochi", "Mumbai", "Chennai", "Goa"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 99,
+    "question": "Which Indian scientist received the Shanti Swarup Bhatnagar Award 2025 for physics?",
+    "options": [
+      "Dr. Chetan Singh Solanki",
+      "Dr. Rohini Godbole",
+      "Dr. Rajesh Gopakumar",
+      "Dr. Tanmoy Chakraborty"
+    ],
+    "correctAnswer": 3,
+    "points": 10
+  },
+  {
+    "id": 100,
+    "question": "Which Indian organization celebrated its 75th foundation year in 2025?",
+    "options": ["DRDO", "ISRO", "CSIR", "BHEL"],
+    "correctAnswer": 2,
+    "points": 10
+  }
+]

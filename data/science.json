@@ -1,0 +1,857 @@
+[
+  {
+    "id": 1,
+    "question": "What is the speed of light in vacuum?",
+    "options": [
+      "3 x 10^6 m/s",
+      "3 x 10^8 m/s",
+      "3 x 10^10 m/s",
+      "3 x 10^5 m/s"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 2,
+    "question": "Who proposed the three laws of motion?",
+    "options": [
+      "Albert Einstein",
+      "Isaac Newton",
+      "Galileo Galilei",
+      "James Watt"
+    ],
+    "correctAnswer": 1,
+    "points": 5
+  },
+  {
+    "id": 3,
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Mars", "Jupiter", "Venus", "Saturn"],
+    "correctAnswer": 0,
+    "points": 5
+  },
+  {
+    "id": 4,
+    "question": "Which element has the atomic number 79?",
+    "options": ["Silver", "Gold", "Platinum", "Copper"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 5,
+    "question": "Who is known as the father of modern chemistry?",
+    "options": [
+      "Robert Boyle",
+      "Dmitri Mendeleev",
+      "Antoine Lavoisier",
+      "John Dalton"
+    ],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 6,
+    "question": "What is the main gas found in the Earth's atmosphere?",
+    "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+    "correctAnswer": 1,
+    "points": 5
+  },
+  {
+    "id": 7,
+    "question": "What is the powerhouse of the cell?",
+    "options": ["Nucleus", "Ribosome", "Mitochondria", "Chloroplast"],
+    "correctAnswer": 2,
+    "points": 5
+  },
+  {
+    "id": 8,
+    "question": "What does CPU stand for in computing?",
+    "options": [
+      "Central Processing Unit",
+      "Control Power Unit",
+      "Central Programming Unit",
+      "Command Process Utility"
+    ],
+    "correctAnswer": 0,
+    "points": 5
+  },
+  {
+    "id": 9,
+    "question": "Who invented the telephone?",
+    "options": [
+      "Alexander Graham Bell",
+      "Thomas Edison",
+      "Nikola Tesla",
+      "James Watt"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 10,
+    "question": "Which law explains the relationship between voltage, current, and resistance?",
+    "options": ["Faraday's Law", "Newton’s Law", "Ohm’s Law", "Hooke’s Law"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 11,
+    "question": "What does DNA stand for?",
+    "options": [
+      "Deoxyribonucleic Acid",
+      "Dinucleic Acid",
+      "Deoxy Nitric Acid",
+      "Diorganic Nucleic Acid"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 12,
+    "question": "Who developed the theory of evolution by natural selection?",
+    "options": [
+      "Charles Darwin",
+      "Gregor Mendel",
+      "Louis Pasteur",
+      "James Watson"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 13,
+    "question": "Which scientist discovered penicillin?",
+    "options": [
+      "Alexander Fleming",
+      "Marie Curie",
+      "Louis Pasteur",
+      "Robert Koch"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 14,
+    "question": "What is the most abundant element in the universe?",
+    "options": ["Oxygen", "Hydrogen", "Helium", "Carbon"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 15,
+    "question": "Which planet has the most moons?",
+    "options": ["Jupiter", "Saturn", "Mars", "Neptune"],
+    "correctAnswer": 1,
+    "points": 15
+  },
+  {
+    "id": 16,
+    "question": "Who is known as the father of the computer?",
+    "options": [
+      "Charles Babbage",
+      "Alan Turing",
+      "John von Neumann",
+      "Bill Gates"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 17,
+    "question": "What is the chemical formula for table salt?",
+    "options": ["KCl", "NaCl", "Na2CO3", "CaCO3"],
+    "correctAnswer": 1,
+    "points": 5
+  },
+  {
+    "id": 18,
+    "question": "Which organ in the human body purifies blood?",
+    "options": ["Heart", "Liver", "Kidney", "Lungs"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 19,
+    "question": "What type of bond involves the sharing of electron pairs between atoms?",
+    "options": [
+      "Ionic bond",
+      "Covalent bond",
+      "Hydrogen bond",
+      "Metallic bond"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 20,
+    "question": "Which of the following particles has no electric charge?",
+    "options": ["Electron", "Proton", "Neutron", "Positron"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 21,
+    "question": "Which programming language is primarily used for AI and machine learning?",
+    "options": ["Python", "C++", "Java", "PHP"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 22,
+    "question": "Which planet is known for its rings?",
+    "options": ["Mars", "Jupiter", "Saturn", "Uranus"],
+    "correctAnswer": 2,
+    "points": 5
+  },
+  {
+    "id": 23,
+    "question": "Which scientist discovered radioactivity?",
+    "options": [
+      "Marie Curie",
+      "Henri Becquerel",
+      "Ernest Rutherford",
+      "J.J. Thomson"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 24,
+    "question": "What is the function of white blood cells?",
+    "options": [
+      "Transport oxygen",
+      "Fight infections",
+      "Clot blood",
+      "Carry nutrients"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 25,
+    "question": "Which part of the human brain controls balance and coordination?",
+    "options": ["Cerebrum", "Cerebellum", "Medulla", "Hypothalamus"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 26,
+    "question": "Which is the largest internal organ in the human body?",
+    "options": ["Heart", "Liver", "Lung", "Kidney"],
+    "correctAnswer": 1,
+    "points": 5
+  },
+  {
+    "id": 27,
+    "question": "What does 'HTTP' stand for in web technology?",
+    "options": [
+      "Hyper Text Transmission Protocol",
+      "Hyper Text Transfer Protocol",
+      "Hyper Transfer Text Program",
+      "High Tech Transfer Protocol"
+    ],
+    "correctAnswer": 1,
+    "points": 5
+  },
+  {
+    "id": 28,
+    "question": "Which of the following is not a renewable energy source?",
+    "options": ["Solar", "Wind", "Coal", "Hydropower"],
+    "correctAnswer": 2,
+    "points": 5
+  },
+  {
+    "id": 29,
+    "question": "Who invented the World Wide Web?",
+    "options": [
+      "Bill Gates",
+      "Tim Berners-Lee",
+      "Steve Jobs",
+      "Linus Torvalds"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 30,
+    "question": "Which process is responsible for the formation of clouds?",
+    "options": ["Evaporation", "Condensation", "Precipitation", "Sublimation"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 31,
+    "question": "What is the main function of chlorophyll in plants?",
+    "options": [
+      "Absorb water",
+      "Absorb sunlight",
+      "Transport minerals",
+      "Convert oxygen"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 32,
+    "question": "Which scientist formulated the laws of planetary motion?",
+    "options": ["Kepler", "Copernicus", "Galileo", "Newton"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 33,
+    "question": "Which metal is liquid at room temperature?",
+    "options": ["Mercury", "Lead", "Silver", "Aluminum"],
+    "correctAnswer": 0,
+    "points": 5
+  },
+  {
+    "id": 34,
+    "question": "Which is the hardest natural substance on Earth?",
+    "options": ["Diamond", "Quartz", "Iron", "Corundum"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 35,
+    "question": "Who developed the first successful polio vaccine?",
+    "options": [
+      "Jonas Salk",
+      "Alexander Fleming",
+      "Edward Jenner",
+      "Louis Pasteur"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 36,
+    "question": "Which is the largest planet in the solar system?",
+    "options": ["Earth", "Saturn", "Jupiter", "Neptune"],
+    "correctAnswer": 2,
+    "points": 5
+  },
+  {
+    "id": 37,
+    "question": "What is the full form of 'Wi-Fi'?",
+    "options": [
+      "Wireless Fidelity",
+      "Wide Fiber",
+      "Wired Frequency",
+      "Wireless Finder"
+    ],
+    "correctAnswer": 0,
+    "points": 5
+  },
+  {
+    "id": 38,
+    "question": "Which element is used in thermometers?",
+    "options": ["Silver", "Mercury", "Lead", "Copper"],
+    "correctAnswer": 1,
+    "points": 5
+  },
+  {
+    "id": 39,
+    "question": "What is the study of heredity called?",
+    "options": ["Cytology", "Genetics", "Evolution", "Ecology"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 40,
+    "question": "Who was the first person to propose the heliocentric model of the solar system?",
+    "options": ["Kepler", "Newton", "Copernicus", "Galileo"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 41,
+    "question": "Which type of electromagnetic radiation is used in night vision devices?",
+    "options": ["Infrared", "Ultraviolet", "Microwave", "Gamma rays"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 42,
+    "question": "Which process converts sugar into alcohol?",
+    "options": ["Fermentation", "Oxidation", "Condensation", "Reduction"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 43,
+    "question": "What is the chemical symbol for potassium?",
+    "options": ["P", "K", "Pt", "Po"],
+    "correctAnswer": 1,
+    "points": 5
+  },
+  {
+    "id": 44,
+    "question": "Who discovered the neutron?",
+    "options": [
+      "J.J. Thomson",
+      "James Chadwick",
+      "Ernest Rutherford",
+      "Niels Bohr"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 45,
+    "question": "Which layer of Earth's atmosphere contains the ozone layer?",
+    "options": ["Troposphere", "Stratosphere", "Mesosphere", "Thermosphere"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 46,
+    "question": "What is the main component of the Sun?",
+    "options": ["Oxygen", "Hydrogen", "Helium", "Carbon"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 47,
+    "question": "Which device is used to measure atmospheric pressure?",
+    "options": ["Thermometer", "Barometer", "Hygrometer", "Altimeter"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 48,
+    "question": "Who discovered the circulation of blood in the human body?",
+    "options": ["Harvey", "Vesalius", "Pasteur", "Hooke"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 49,
+    "question": "Which is the most common element in the Earth's crust?",
+    "options": ["Silicon", "Iron", "Oxygen", "Aluminum"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 50,
+    "question": "What is the approximate age of the Earth?",
+    "options": [
+      "2.5 billion years",
+      "4.5 billion years",
+      "6 billion years",
+      "3 billion years"
+    ],
+    "correctAnswer": 1,
+    "points": 15
+  },
+  {
+    "id": 51,
+    "question": "Which instrument is used to measure electric current?",
+    "options": ["Voltmeter", "Ammeter", "Ohmmeter", "Barometer"],
+    "correctAnswer": 1,
+    "points": 5
+  },
+  {
+    "id": 52,
+    "question": "Which country launched the first artificial satellite, Sputnik 1?",
+    "options": ["USA", "Russia (USSR)", "China", "Germany"],
+    "correctAnswer": 1,
+    "points": 15
+  },
+  {
+    "id": 53,
+    "question": "Which part of the eye is responsible for controlling the amount of light entering it?",
+    "options": ["Retina", "Iris", "Lens", "Cornea"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 54,
+    "question": "Which programming paradigm focuses on objects containing data and methods?",
+    "options": ["Functional", "Procedural", "Object-Oriented", "Declarative"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 55,
+    "question": "Who formulated the laws of electromagnetism?",
+    "options": ["Faraday", "Ampere", "Maxwell", "Tesla"],
+    "correctAnswer": 2,
+    "points": 15
+  },
+  {
+    "id": 56,
+    "question": "Which part of the plant is responsible for transpiration?",
+    "options": ["Roots", "Stomata", "Stem", "Flower"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 57,
+    "question": "What is the unit of frequency?",
+    "options": ["Hertz", "Pascal", "Newton", "Joule"],
+    "correctAnswer": 0,
+    "points": 5
+  },
+  {
+    "id": 58,
+    "question": "Who was the first person to walk on the Moon?",
+    "options": [
+      "Buzz Aldrin",
+      "Neil Armstrong",
+      "Yuri Gagarin",
+      "Michael Collins"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 59,
+    "question": "Which device converts solar energy into electrical energy?",
+    "options": ["Solar cell", "Generator", "Transformer", "Dynamo"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 60,
+    "question": "Which branch of physics deals with the behavior of matter at atomic and subatomic levels?",
+    "options": [
+      "Classical mechanics",
+      "Thermodynamics",
+      "Quantum mechanics",
+      "Relativity"
+    ],
+    "correctAnswer": 2,
+    "points": 15
+  },
+  {
+    "id": 61,
+    "question": "Which is the most reactive metal?",
+    "options": ["Sodium", "Potassium", "Calcium", "Magnesium"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 62,
+    "question": "Which gas is responsible for the greenhouse effect?",
+    "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Argon"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 63,
+    "question": "What is the name of the largest known living structure on Earth?",
+    "options": [
+      "Amazon Rainforest",
+      "Great Barrier Reef",
+      "Sahara Desert",
+      "Andes Mountains"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 64,
+    "question": "Which technology is the basis of cryptocurrencies like Bitcoin?",
+    "options": [
+      "Artificial Intelligence",
+      "Blockchain",
+      "Cloud Computing",
+      "Quantum Computing"
+    ],
+    "correctAnswer": 1,
+    "points": 15
+  },
+  {
+    "id": 65,
+    "question": "Which metal is used in making aircraft due to its light weight?",
+    "options": ["Iron", "Aluminium", "Copper", "Lead"],
+    "correctAnswer": 1,
+    "points": 5
+  },
+  {
+    "id": 66,
+    "question": "What is the SI unit of force?",
+    "options": ["Newton", "Joule", "Pascal", "Watt"],
+    "correctAnswer": 0,
+    "points": 5
+  },
+  {
+    "id": 67,
+    "question": "Who discovered the electron?",
+    "options": [
+      "Ernest Rutherford",
+      "J.J. Thomson",
+      "Niels Bohr",
+      "James Chadwick"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 68,
+    "question": "Which blood group is known as the universal donor?",
+    "options": ["A", "B", "AB", "O"],
+    "correctAnswer": 3,
+    "points": 10
+  },
+  {
+    "id": 69,
+    "question": "Which planet has the longest day?",
+    "options": ["Venus", "Mars", "Mercury", "Jupiter"],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 70,
+    "question": "Which scientist discovered the law of universal gravitation?",
+    "options": ["Galileo", "Newton", "Einstein", "Kepler"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 71,
+    "question": "What is the unit of electric resistance?",
+    "options": ["Watt", "Volt", "Ohm", "Ampere"],
+    "correctAnswer": 2,
+    "points": 5
+  },
+  {
+    "id": 72,
+    "question": "Which element is used in nuclear fission reactions?",
+    "options": ["Uranium", "Carbon", "Sodium", "Sulfur"],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 73,
+    "question": "Which instrument measures humidity in the air?",
+    "options": ["Hygrometer", "Barometer", "Anemometer", "Thermometer"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 74,
+    "question": "What is the full form of LASER?",
+    "options": [
+      "Light Amplification by Stimulated Emission of Radiation",
+      "Light Absorption by Sequential Energy Radiation",
+      "Low Amplification by Sound Energy Radiation",
+      "Laser Amplifier by Solar Energy Reaction"
+    ],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 75,
+    "question": "Which branch of biology deals with classification of organisms?",
+    "options": ["Taxonomy", "Ecology", "Anatomy", "Physiology"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 76,
+    "question": "Who discovered the structure of DNA?",
+    "options": [
+      "Watson and Crick",
+      "Mendel and Darwin",
+      "Pasteur and Koch",
+      "Einstein and Bohr"
+    ],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 77,
+    "question": "Which vitamin is produced in the skin when exposed to sunlight?",
+    "options": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin E"],
+    "correctAnswer": 2,
+    "points": 5
+  },
+  {
+    "id": 78,
+    "question": "Which is the first artificial Earth satellite?",
+    "options": ["Apollo 11", "Sputnik 1", "Explorer 1", "Voyager 1"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 79,
+    "question": "Which chemical element is a liquid metal at room temperature?",
+    "options": ["Gallium", "Mercury", "Cesium", "Bromine"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 80,
+    "question": "What does CPU stand for in a computer?",
+    "options": [
+      "Central Processing Unit",
+      "Control Power Unit",
+      "Computer Programming Unit",
+      "Core Process Utility"
+    ],
+    "correctAnswer": 0,
+    "points": 5
+  },
+  {
+    "id": 81,
+    "question": "Which of the following planets is closest to the Sun?",
+    "options": ["Mercury", "Venus", "Earth", "Mars"],
+    "correctAnswer": 0,
+    "points": 5
+  },
+  {
+    "id": 82,
+    "question": "Who invented the light bulb?",
+    "options": ["Edison", "Tesla", "Volta", "Franklin"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 83,
+    "question": "Which phenomenon explains the bending of light when it passes from one medium to another?",
+    "options": ["Reflection", "Refraction", "Diffraction", "Interference"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 84,
+    "question": "Which planet has the Great Red Spot?",
+    "options": ["Jupiter", "Mars", "Neptune", "Saturn"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 85,
+    "question": "Who developed the periodic table?",
+    "options": ["Dalton", "Mendeleev", "Lavoisier", "Bohr"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 86,
+    "question": "What is the process by which plants lose water through their leaves?",
+    "options": [
+      "Evaporation",
+      "Transpiration",
+      "Photosynthesis",
+      "Condensation"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 87,
+    "question": "What is the full form of RAM?",
+    "options": [
+      "Random Access Memory",
+      "Rapid Action Module",
+      "Read-Only Memory",
+      "Remote Access Management"
+    ],
+    "correctAnswer": 0,
+    "points": 5
+  },
+  {
+    "id": 88,
+    "question": "What type of lens is used to correct myopia?",
+    "options": ["Convex", "Concave", "Cylindrical", "Plano"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 89,
+    "question": "Which law explains the buoyant force on a body immersed in a fluid?",
+    "options": [
+      "Pascal’s Law",
+      "Archimedes’ Principle",
+      "Boyle’s Law",
+      "Bernoulli’s Theorem"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 90,
+    "question": "Which planet rotates on its side?",
+    "options": ["Uranus", "Venus", "Neptune", "Saturn"],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 91,
+    "question": "Who invented the first mechanical computer?",
+    "options": [
+      "Charles Babbage",
+      "Alan Turing",
+      "Blaise Pascal",
+      "John Napier"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 92,
+    "question": "Which element’s symbol is 'Fe'?",
+    "options": ["Fluorine", "Iron", "Francium", "Fermium"],
+    "correctAnswer": 1,
+    "points": 5
+  },
+  {
+    "id": 93,
+    "question": "Which gas is used in balloons to make them float?",
+    "options": ["Hydrogen", "Helium", "Nitrogen", "Oxygen"],
+    "correctAnswer": 1,
+    "points": 5
+  },
+  {
+    "id": 94,
+    "question": "Which scientist is known for the uncertainty principle?",
+    "options": ["Heisenberg", "Bohr", "Einstein", "Planck"],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 95,
+    "question": "Which vitamin deficiency causes rickets?",
+    "options": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin B12"],
+    "correctAnswer": 2,
+    "points": 5
+  },
+  {
+    "id": 96,
+    "question": "Which part of the cell contains genetic material?",
+    "options": ["Cytoplasm", "Nucleus", "Mitochondria", "Ribosome"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 97,
+    "question": "Which physicist developed the theory of quantum mechanics?",
+    "options": ["Max Planck", "Einstein", "Bohr", "Schrödinger"],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 98,
+    "question": "Which is the lightest element in the periodic table?",
+    "options": ["Hydrogen", "Helium", "Lithium", "Oxygen"],
+    "correctAnswer": 0,
+    "points": 5
+  },
+  {
+    "id": 99,
+    "question": "Which invention is associated with Johannes Gutenberg?",
+    "options": ["Printing Press", "Microscope", "Telescope", "Steam Engine"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 100,
+    "question": "What is the study of earthquakes called?",
+    "options": ["Seismology", "Geology", "Volcanology", "Meteorology"],
+    "correctAnswer": 0,
+    "points": 10
+  }
+]

@@ -1,0 +1,1047 @@
+[
+  {
+    "id": 1,
+    "question": "In which year did the Battle of Plassey take place, marking the beginning of British political dominance in India?",
+    "options": ["1757", "1764", "1748", "1776"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 2,
+    "question": "Who was the last Mughal emperor exiled by the British after the Revolt of 1857?",
+    "options": ["Bahadur Shah II", "Akbar II", "Shah Alam II", "Aurangzeb"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 3,
+    "question": "The Permanent Settlement system of land revenue was introduced by which British Governor-General?",
+    "options": [
+      "Lord Cornwallis",
+      "Warren Hastings",
+      "Lord Wellesley",
+      "Lord Dalhousie"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 4,
+    "question": "Which reformer is known as the founder of the Brahmo Samaj?",
+    "options": [
+      "Raja Ram Mohan Roy",
+      "Swami Vivekananda",
+      "Dayanand Saraswati",
+      "Ishwar Chandra Vidyasagar"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 5,
+    "question": "Who was the Viceroy of India during the Partition of Bengal in 1905?",
+    "options": ["Lord Curzon", "Lord Ripon", "Lord Hardinge", "Lord Lansdowne"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 6,
+    "question": "The Indian National Congress was founded in which year?",
+    "options": ["1885", "1890", "1875", "1900"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 7,
+    "question": "Who presided over the first session of the Indian National Congress?",
+    "options": [
+      "W.C. Bonnerjee",
+      "Dadabhai Naoroji",
+      "Gopal Krishna Gokhale",
+      "Surendranath Banerjee"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 8,
+    "question": "Which event is considered the immediate cause of the Revolt of 1857?",
+    "options": [
+      "Introduction of the Enfield rifle cartridges",
+      "Doctrine of Lapse",
+      "Annexation of Awadh",
+      "Mughal emperor’s pension withdrawal"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 9,
+    "question": "Who was the leader of the Revolt of 1857 in Lucknow?",
+    "options": [
+      "Begum Hazrat Mahal",
+      "Tantia Tope",
+      "Rani Lakshmibai",
+      "Kunwar Singh"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 10,
+    "question": "Who among the following was not associated with the formation of the Indian National Congress?",
+    "options": [
+      "A.O. Hume",
+      "Dadabhai Naoroji",
+      "W.C. Bonnerjee",
+      "Lord Dufferin"
+    ],
+    "correctAnswer": 3,
+    "points": 10
+  },
+  {
+    "id": 11,
+    "question": "Who was known as the ‘Grand Old Man of India’?",
+    "options": [
+      "Dadabhai Naoroji",
+      "Bal Gangadhar Tilak",
+      "Gopal Krishna Gokhale",
+      "Mahatma Gandhi"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 12,
+    "question": "The slogan ‘Swaraj is my birthright and I shall have it’ was given by whom?",
+    "options": [
+      "Bal Gangadhar Tilak",
+      "Lala Lajpat Rai",
+      "Bipin Chandra Pal",
+      "Aurobindo Ghosh"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 13,
+    "question": "Who started the Home Rule Movement in India?",
+    "options": [
+      "Annie Besant and Bal Gangadhar Tilak",
+      "Gopal Krishna Gokhale",
+      "Subhas Chandra Bose",
+      "Dadabhai Naoroji"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 14,
+    "question": "The Jallianwala Bagh massacre occurred in which year?",
+    "options": ["1919", "1918", "1920", "1921"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 15,
+    "question": "Who was the British General responsible for the Jallianwala Bagh massacre?",
+    "options": [
+      "General Dyer",
+      "Lord Irwin",
+      "Lord Reading",
+      "Lord Mountbatten"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 16,
+    "question": "In which year did Mahatma Gandhi return to India from South Africa?",
+    "options": ["1915", "1914", "1916", "1917"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 17,
+    "question": "Which movement did Gandhi launch after the Jallianwala Bagh tragedy?",
+    "options": [
+      "Non-Cooperation Movement",
+      "Civil Disobedience Movement",
+      "Quit India Movement",
+      "Champaran Satyagraha"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 18,
+    "question": "Who authored the book ‘Poverty and Un-British Rule in India’?",
+    "options": [
+      "Dadabhai Naoroji",
+      "R.C. Dutt",
+      "Gopal Krishna Gokhale",
+      "Jawaharlal Nehru"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 19,
+    "question": "Which act introduced the system of dyarchy in India?",
+    "options": [
+      "Government of India Act, 1919",
+      "Indian Councils Act, 1909",
+      "Government of India Act, 1935",
+      "Regulating Act, 1773"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 20,
+    "question": "The Simon Commission was appointed in which year?",
+    "options": ["1927", "1928", "1930", "1932"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 21,
+    "question": "Who gave the call ‘Do or Die’ during the Quit India Movement?",
+    "options": [
+      "Mahatma Gandhi",
+      "Jawaharlal Nehru",
+      "Sardar Patel",
+      "Subhas Chandra Bose"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 22,
+    "question": "Which newspaper was started by Bal Gangadhar Tilak?",
+    "options": ["Kesari", "The Hindu", "Amrita Bazar Patrika", "Young India"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 23,
+    "question": "Who established the ‘Servants of India Society’?",
+    "options": [
+      "Gopal Krishna Gokhale",
+      "Dadabhai Naoroji",
+      "M.G. Ranade",
+      "Tilak"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 24,
+    "question": "The Rowlatt Act was passed in which year?",
+    "options": ["1919", "1920", "1918", "1921"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 25,
+    "question": "Who was the founder of the Indian National Army (INA)?",
+    "options": [
+      "Rash Behari Bose",
+      "Subhas Chandra Bose",
+      "Sardar Patel",
+      "Jawaharlal Nehru"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 26,
+    "question": "Which Congress session saw the adoption of the 'Purna Swaraj' resolution?",
+    "options": [
+      "Lahore, 1929",
+      "Lucknow, 1916",
+      "Bombay, 1942",
+      "Karachi, 1931"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 27,
+    "question": "Who founded the Arya Samaj?",
+    "options": [
+      "Swami Dayanand Saraswati",
+      "Swami Vivekananda",
+      "Raja Ram Mohan Roy",
+      "Ishwar Chandra Vidyasagar"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 28,
+    "question": "Which British Viceroy announced the partition of Bengal?",
+    "options": ["Lord Curzon", "Lord Ripon", "Lord Minto", "Lord Hardinge"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 29,
+    "question": "The slogan ‘Inquilab Zindabad’ was popularized by whom?",
+    "options": [
+      "Bhagat Singh",
+      "Subhas Chandra Bose",
+      "Mahatma Gandhi",
+      "Chandra Shekhar Azad"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 30,
+    "question": "Who established the Forward Bloc party?",
+    "options": [
+      "Subhas Chandra Bose",
+      "Jawaharlal Nehru",
+      "Sardar Patel",
+      "C. Rajagopalachari"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 31,
+    "question": "Which Act is known as the 'Black Act' in Indian history?",
+    "options": [
+      "Rowlatt Act",
+      "Pitt’s India Act",
+      "Regulating Act",
+      "Vernacular Press Act"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 32,
+    "question": "The Cabinet Mission arrived in India in which year?",
+    "options": ["1946", "1945", "1947", "1944"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 33,
+    "question": "Who wrote the book 'India Wins Freedom'?",
+    "options": [
+      "Abul Kalam Azad",
+      "Jawaharlal Nehru",
+      "Gandhi",
+      "Rajendra Prasad"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 34,
+    "question": "The Poona Pact was signed between whom?",
+    "options": [
+      "Gandhi and B.R. Ambedkar",
+      "Gandhi and Jinnah",
+      "Gandhi and Nehru",
+      "Gandhi and Subhas Bose"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 35,
+    "question": "Who was the first Indian to become a member of the British Parliament?",
+    "options": [
+      "Dadabhai Naoroji",
+      "Mahatma Gandhi",
+      "Bipin Chandra Pal",
+      "Gokhale"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 36,
+    "question": "Who gave the slogan 'Jai Hind'?",
+    "options": [
+      "Subhas Chandra Bose",
+      "Jawaharlal Nehru",
+      "Sardar Patel",
+      "Bhagat Singh"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 37,
+    "question": "Who was the founder of the Prarthana Samaj?",
+    "options": [
+      "Atmaram Pandurang",
+      "Raja Ram Mohan Roy",
+      "M.G. Ranade",
+      "Dayanand Saraswati"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 38,
+    "question": "Which event led to the resignation of the Congress ministries in 1939?",
+    "options": [
+      "Outbreak of World War II",
+      "Quit India Movement",
+      "Simon Commission Report",
+      "Cripps Mission"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 39,
+    "question": "Who authored 'Hind Swaraj'?",
+    "options": ["Mahatma Gandhi", "Tilak", "Nehru", "Bose"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 40,
+    "question": "Who was the first Governor-General of independent India?",
+    "options": [
+      "Lord Mountbatten",
+      "C. Rajagopalachari",
+      "Jawaharlal Nehru",
+      "Dr. Rajendra Prasad"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 41,
+    "question": "Who presided over the Lahore Session of the Indian National Congress where 'Purna Swaraj' was declared?",
+    "options": ["Jawaharlal Nehru", "Gandhi", "Sardar Patel", "Subhas Bose"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 42,
+    "question": "The first Round Table Conference was held in which year?",
+    "options": ["1930", "1931", "1932", "1929"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 43,
+    "question": "Who was the first President of the Indian National Congress?",
+    "options": ["W.C. Bonnerjee", "Dadabhai Naoroji", "Tilak", "Gokhale"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 44,
+    "question": "In which year was the Indian Councils Act passed allowing indirect elections?",
+    "options": ["1892", "1909", "1919", "1935"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 45,
+    "question": "Who among the following started the Aligarh Movement?",
+    "options": [
+      "Sir Syed Ahmed Khan",
+      "Maulana Azad",
+      "Lala Lajpat Rai",
+      "Iqbal"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 46,
+    "question": "The slogan 'Quit India' was first given during which movement?",
+    "options": [
+      "1942 Movement",
+      "Civil Disobedience Movement",
+      "Non-Cooperation Movement",
+      "Salt Satyagraha"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 47,
+    "question": "Who drafted the Indian Independence Act of 1947?",
+    "options": [
+      "Lord Mountbatten",
+      "Clement Attlee",
+      "Sir Stafford Cripps",
+      "Lord Pethick-Lawrence"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 48,
+    "question": "The term 'Drain of Wealth' was popularized by whom?",
+    "options": ["Dadabhai Naoroji", "R.C. Dutt", "Gokhale", "Tilak"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 49,
+    "question": "The Vernacular Press Act was passed during the tenure of which Viceroy?",
+    "options": ["Lord Lytton", "Lord Ripon", "Lord Curzon", "Lord Mayo"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 50,
+    "question": "Which reformer worked extensively for widow remarriage?",
+    "options": [
+      "Ishwar Chandra Vidyasagar",
+      "Raja Ram Mohan Roy",
+      "Dayanand Saraswati",
+      "Gokhale"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 51,
+    "question": "Who founded the Indian Association in 1876?",
+    "options": [
+      "Surendranath Banerjee",
+      "Raja Ram Mohan Roy",
+      "Gopal Krishna Gokhale",
+      "M.G. Ranade"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 52,
+    "question": "Which act is also known as the 'Mont-Ford Reforms'?",
+    "options": [
+      "Government of India Act, 1919",
+      "Government of India Act, 1935",
+      "Indian Councils Act, 1909",
+      "Charter Act, 1833"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 53,
+    "question": "Who started the newspaper 'Young India'?",
+    "options": [
+      "Mahatma Gandhi",
+      "Bal Gangadhar Tilak",
+      "Gopal Krishna Gokhale",
+      "Bipin Chandra Pal"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 54,
+    "question": "In which year was the Indian National Army (INA) formed?",
+    "options": ["1942", "1940", "1941", "1943"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 55,
+    "question": "Who was the founder of the Ramakrishna Mission?",
+    "options": [
+      "Swami Vivekananda",
+      "Raja Ram Mohan Roy",
+      "Dayanand Saraswati",
+      "Ishwar Chandra Vidyasagar"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 56,
+    "question": "Which movement was launched by Gandhi in 1930 to protest the salt tax?",
+    "options": [
+      "Civil Disobedience Movement",
+      "Non-Cooperation Movement",
+      "Quit India Movement",
+      "Swadeshi Movement"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 57,
+    "question": "The capital of British India was shifted from Calcutta to Delhi in which year?",
+    "options": ["1911", "1905", "1912", "1910"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 58,
+    "question": "Who started the newspaper 'The Hindustan Times'?",
+    "options": [
+      "Sardar K.M. Panikkar",
+      "S. Sadanand",
+      "Madan Mohan Malaviya",
+      "Mahatma Gandhi"
+    ],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 59,
+    "question": "Who led the Santhal Rebellion (1855–56)?",
+    "options": [
+      "Sidhu and Kanhu Murmu",
+      "Birsa Munda",
+      "Tantia Bhil",
+      "Kunwar Singh"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 60,
+    "question": "Who was the first Indian woman to preside over the Indian National Congress?",
+    "options": [
+      "Annie Besant",
+      "Sarojini Naidu",
+      "Vijaya Lakshmi Pandit",
+      "Sucheta Kriplani"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 61,
+    "question": "The Poona Pact of 1932 dealt with which issue?",
+    "options": [
+      "Representation of Depressed Classes",
+      "Partition of Bengal",
+      "Communal representation",
+      "Press freedom"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 62,
+    "question": "Which revolutionary established the Hindustan Socialist Republican Association (HSRA)?",
+    "options": [
+      "Bhagat Singh",
+      "Ram Prasad Bismil",
+      "Chandra Shekhar Azad",
+      "Sukhdev"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 63,
+    "question": "Who was known as the 'Iron Man of India'?",
+    "options": [
+      "Sardar Vallabhbhai Patel",
+      "Jawaharlal Nehru",
+      "B.R. Ambedkar",
+      "Bal Gangadhar Tilak"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 64,
+    "question": "In which year did the British Crown assume direct control over India?",
+    "options": ["1858", "1857", "1860", "1862"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 65,
+    "question": "Who established the Banaras Hindu University (BHU)?",
+    "options": [
+      "Madan Mohan Malaviya",
+      "Rabindranath Tagore",
+      "Gandhi",
+      "Nehru"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 66,
+    "question": "Who designed the Indian tricolour flag?",
+    "options": [
+      "Pingali Venkayya",
+      "Bankim Chandra Chatterjee",
+      "Annie Besant",
+      "Bipin Chandra Pal"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 67,
+    "question": "The Hunter Commission was appointed to investigate which event?",
+    "options": [
+      "Jallianwala Bagh Massacre",
+      "Partition of Bengal",
+      "Revolt of 1857",
+      "Rowlatt Act agitation"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 68,
+    "question": "Who was the first Muslim President of the Indian National Congress?",
+    "options": [
+      "Badruddin Tyabji",
+      "Abul Kalam Azad",
+      "Rafi Ahmed Kidwai",
+      "Maulana Hasrat Mohani"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 69,
+    "question": "The Swadeshi Movement was started as a reaction to which event?",
+    "options": [
+      "Partition of Bengal",
+      "Rowlatt Act",
+      "Salt Tax",
+      "Arrest of Gandhi"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 70,
+    "question": "Who was the first Indian woman to become the President of the Indian National Congress?",
+    "options": [
+      "Sarojini Naidu",
+      "Annie Besant",
+      "Vijaya Lakshmi Pandit",
+      "Indira Gandhi"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 71,
+    "question": "Which commission recommended constitutional reforms in 1928?",
+    "options": [
+      "Nehru Report",
+      "Simon Commission",
+      "Cripps Mission",
+      "Cabinet Mission"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 72,
+    "question": "Who was the author of ‘The Discovery of India’?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Mahatma Gandhi",
+      "Rabindranath Tagore",
+      "B.R. Ambedkar"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 73,
+    "question": "Who established the All India Muslim League?",
+    "options": [
+      "Nawab Salimullah of Dacca",
+      "Syed Ahmed Khan",
+      "Aga Khan",
+      "Muhammad Ali Jinnah"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 74,
+    "question": "Who was the first Indian Governor-General of independent India?",
+    "options": [
+      "C. Rajagopalachari",
+      "Jawaharlal Nehru",
+      "Dr. Rajendra Prasad",
+      "Lord Mountbatten"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 75,
+    "question": "Which British Viceroy introduced the ‘Doctrine of Lapse’?",
+    "options": [
+      "Lord Dalhousie",
+      "Lord Wellesley",
+      "Lord Ripon",
+      "Lord Curzon"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 76,
+    "question": "Who founded the 'East India Association'?",
+    "options": [
+      "Dadabhai Naoroji",
+      "W.C. Bonnerjee",
+      "Gokhale",
+      "Surendranath Banerjee"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 77,
+    "question": "The Indian Councils Act of 1909 is also known as the?",
+    "options": [
+      "Morley-Minto Reforms",
+      "Mont-Ford Reforms",
+      "Regulating Act",
+      "Charter Act"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 78,
+    "question": "Who presided over the historic Karachi Session of 1931?",
+    "options": [
+      "Sardar Vallabhbhai Patel",
+      "Subhas Chandra Bose",
+      "Gandhi",
+      "Nehru"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 79,
+    "question": "Who was known as ‘Lokmanya’?",
+    "options": [
+      "Bal Gangadhar Tilak",
+      "Gopal Krishna Gokhale",
+      "Dadabhai Naoroji",
+      "Lala Lajpat Rai"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 80,
+    "question": "The Indian National Army trials took place in which city?",
+    "options": ["Red Fort, Delhi", "Bombay", "Calcutta", "Madras"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 81,
+    "question": "Who led the revolt of 1857 in Kanpur?",
+    "options": [
+      "Nana Sahib",
+      "Rani Lakshmibai",
+      "Begum Hazrat Mahal",
+      "Kunwar Singh"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 82,
+    "question": "Who was the founder of the Indian reform movement ‘Theosophical Society’ in India?",
+    "options": [
+      "Annie Besant",
+      "Madame Blavatsky",
+      "Henry Olcott",
+      "Dayanand Saraswati"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 83,
+    "question": "The 'Ilbert Bill Controversy' occurred during whose tenure as Viceroy?",
+    "options": ["Lord Ripon", "Lord Curzon", "Lord Lytton", "Lord Lansdowne"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 84,
+    "question": "Who composed the song 'Vande Mataram'?",
+    "options": [
+      "Bankim Chandra Chatterjee",
+      "Rabindranath Tagore",
+      "Aurobindo Ghosh",
+      "Sarojini Naidu"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 85,
+    "question": "Who was the founder of the Indian reform movement ‘Satyashodhak Samaj’?",
+    "options": [
+      "Jyotiba Phule",
+      "Raja Ram Mohan Roy",
+      "Dayanand Saraswati",
+      "M.G. Ranade"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 86,
+    "question": "Who was the last British Governor-General of India?",
+    "options": [
+      "C. Rajagopalachari",
+      "Lord Mountbatten",
+      "Lord Wavell",
+      "Lord Linlithgow"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 87,
+    "question": "Who wrote the book 'Anand Math'?",
+    "options": [
+      "Bankim Chandra Chatterjee",
+      "Rabindranath Tagore",
+      "Aurobindo Ghosh",
+      "Premchand"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 88,
+    "question": "Who was the founder of the Indian reformist movement 'Ramakrishna Mission'?",
+    "options": [
+      "Swami Vivekananda",
+      "Dayanand Saraswati",
+      "Raja Ram Mohan Roy",
+      "Ishwar Chandra Vidyasagar"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 89,
+    "question": "Which Indian nationalist leader was popularly known as 'Deshbandhu'?",
+    "options": ["Chittaranjan Das", "Tilak", "Gokhale", "Bose"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 90,
+    "question": "Who founded the All India Trade Union Congress (AITUC)?",
+    "options": ["Lala Lajpat Rai", "Gandhi", "Tilak", "Sardar Patel"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 91,
+    "question": "Who was the President of the Constituent Assembly of India?",
+    "options": [
+      "Dr. Rajendra Prasad",
+      "B.R. Ambedkar",
+      "Jawaharlal Nehru",
+      "Sardar Patel"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 92,
+    "question": "Who was the last Indian Governor-General before India became a Republic?",
+    "options": [
+      "C. Rajagopalachari",
+      "Lord Mountbatten",
+      "Rajendra Prasad",
+      "Patel"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 93,
+    "question": "Which Indian leader attended all three Round Table Conferences?",
+    "options": ["B.R. Ambedkar", "Gandhi", "Nehru", "Patel"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 94,
+    "question": "Who was the editor of the paper 'Indian Opinion'?",
+    "options": ["Mahatma Gandhi", "Tilak", "Gokhale", "Nehru"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 95,
+    "question": "Who coined the term 'Drain Theory'?",
+    "options": ["Dadabhai Naoroji", "R.C. Dutt", "Tilak", "Gokhale"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 96,
+    "question": "Who among the following founded the Indian National Congress?",
+    "options": ["A.O. Hume", "Tilak", "Naoroji", "Gokhale"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 97,
+    "question": "Who was the first Indian to clear the Indian Civil Services Examination?",
+    "options": [
+      "Satyendranath Tagore",
+      "Surendranath Banerjee",
+      "Dadabhai Naoroji",
+      "R.C. Dutt"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 98,
+    "question": "Who introduced the Subsidiary Alliance System in India?",
+    "options": ["Lord Wellesley", "Lord Cornwallis", "Clive", "Dalhousie"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 99,
+    "question": "Who gave the slogan 'Satyameva Jayate'?",
+    "options": ["Mundaka Upanishad", "Gandhi", "Tilak", "Bose"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 100,
+    "question": "When did India achieve independence?",
+    "options": [
+      "15 August 1947",
+      "26 January 1950",
+      "2 October 1947",
+      "14 August 1947"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  }
+]

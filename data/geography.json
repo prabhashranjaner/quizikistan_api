@@ -1,0 +1,797 @@
+[
+  {
+    "id": 1,
+    "question": "Which is the longest river in India?",
+    "options": ["Ganga", "Godavari", "Brahmaputra", "Yamuna"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 2,
+    "question": "Which is the highest mountain peak located entirely within India?",
+    "options": ["K2", "Kangchenjunga", "Nanda Devi", "Kamet"],
+    "correctAnswer": 1,
+    "points": 15
+  },
+  {
+    "id": 3,
+    "question": "Which Indian state has the longest coastline?",
+    "options": ["Tamil Nadu", "Maharashtra", "Gujarat", "Andhra Pradesh"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 4,
+    "question": "Which plateau is known as the 'Roof of India'?",
+    "options": [
+      "Deccan Plateau",
+      "Ladakh Plateau",
+      "Chotanagpur Plateau",
+      "Malwa Plateau"
+    ],
+    "correctAnswer": 1,
+    "points": 15
+  },
+  {
+    "id": 5,
+    "question": "The Tropic of Cancer passes through how many Indian states?",
+    "options": ["6", "7", "8", "9"],
+    "correctAnswer": 2,
+    "points": 15
+  },
+  {
+    "id": 6,
+    "question": "Which river forms the Dhuandhar Waterfall?",
+    "options": ["Narmada", "Tapi", "Mahanadi", "Chambal"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 7,
+    "question": "Which is the largest freshwater lake in India?",
+    "options": ["Wular Lake", "Chilika Lake", "Loktak Lake", "Dal Lake"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 8,
+    "question": "Which Indian state shares the longest border with Bangladesh?",
+    "options": ["Assam", "Meghalaya", "Tripura", "West Bengal"],
+    "correctAnswer": 3,
+    "points": 15
+  },
+  {
+    "id": 9,
+    "question": "Which desert covers most of western Rajasthan?",
+    "options": [
+      "Thar Desert",
+      "Karakum Desert",
+      "Gobi Desert",
+      "Kalahari Desert"
+    ],
+    "correctAnswer": 0,
+    "points": 5
+  },
+  {
+    "id": 10,
+    "question": "Which river is called 'Dakshin Ganga' or 'Ganga of the South'?",
+    "options": ["Krishna", "Cauvery", "Godavari", "Mahanadi"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 11,
+    "question": "Which mountain range forms the eastern boundary of the Deccan Plateau?",
+    "options": ["Aravalli", "Vindhya", "Eastern Ghats", "Western Ghats"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 12,
+    "question": "Which Indian state is known as the 'Land of Five Rivers'?",
+    "options": ["Punjab", "Haryana", "Uttar Pradesh", "Bihar"],
+    "correctAnswer": 0,
+    "points": 5
+  },
+  {
+    "id": 13,
+    "question": "Which river originates from Mansarovar Lake?",
+    "options": ["Ganga", "Brahmaputra", "Indus", "Sutlej"],
+    "correctAnswer": 3,
+    "points": 15
+  },
+  {
+    "id": 14,
+    "question": "Which Indian state has the largest area under forest cover?",
+    "options": [
+      "Madhya Pradesh",
+      "Arunachal Pradesh",
+      "Chhattisgarh",
+      "Odisha"
+    ],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 15,
+    "question": "Which state has the highest population density in India?",
+    "options": ["Bihar", "West Bengal", "Kerala", "Uttar Pradesh"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 16,
+    "question": "Which plateau is rich in minerals like coal and iron?",
+    "options": [
+      "Chotanagpur Plateau",
+      "Deccan Plateau",
+      "Malwa Plateau",
+      "Meghalaya Plateau"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 17,
+    "question": "Which city is located on the banks of the Mula-Mutha River?",
+    "options": ["Nagpur", "Pune", "Aurangabad", "Nashik"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 18,
+    "question": "Which Indian state has the largest number of islands?",
+    "options": ["Lakshadweep", "Andaman and Nicobar Islands", "Kerala", "Goa"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 19,
+    "question": "Which river is the main source of water for the Indira Gandhi Canal?",
+    "options": ["Sutlej", "Beas", "Ravi", "Chambal"],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 20,
+    "question": "Which Indian state does not share a border with any other country?",
+    "options": ["Assam", "Madhya Pradesh", "Sikkim", "West Bengal"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 21,
+    "question": "Which is the deepest river valley in India?",
+    "options": [
+      "Indus Gorge",
+      "Brahmaputra Gorge",
+      "Narmada Valley",
+      "Spiti Valley"
+    ],
+    "correctAnswer": 1,
+    "points": 15
+  },
+  {
+    "id": 22,
+    "question": "Which region of India receives the highest annual rainfall?",
+    "options": ["Mawsynram", "Cherrapunji", "Kohima", "Tawang"],
+    "correctAnswer": 0,
+    "points": 5
+  },
+  {
+    "id": 23,
+    "question": "Which is the largest saltwater lake in India?",
+    "options": [
+      "Sambhar Lake",
+      "Chilika Lake",
+      "Pulicat Lake",
+      "Vembanad Lake"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 24,
+    "question": "Which is the southernmost point of the Indian mainland?",
+    "options": ["Indira Point", "Kanyakumari", "Rameswaram", "Cape Comorin"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 25,
+    "question": "Which river flows through the 'Marble Rocks' near Jabalpur?",
+    "options": ["Tapi", "Narmada", "Son", "Godavari"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 26,
+    "question": "Which Indian river is known for its shifting course?",
+    "options": ["Brahmaputra", "Kosi", "Ganga", "Mahanadi"],
+    "correctAnswer": 1,
+    "points": 15
+  },
+  {
+    "id": 27,
+    "question": "Which mountain range separates the Northern Plains from the Deccan Plateau?",
+    "options": ["Aravalli", "Vindhya", "Satpura", "Eastern Ghats"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 28,
+    "question": "Which Indian river flows westward and drains into the Arabian Sea?",
+    "options": ["Mahanadi", "Krishna", "Narmada", "Godavari"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 29,
+    "question": "Which Indian state is the largest producer of tea?",
+    "options": ["Assam", "West Bengal", "Kerala", "Tamil Nadu"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 30,
+    "question": "Which of the following is not a tributary of the Ganga?",
+    "options": ["Yamuna", "Ghaghara", "Son", "Mahanadi"],
+    "correctAnswer": 3,
+    "points": 10
+  },
+  {
+    "id": 31,
+    "question": "Which river forms the border between India and Pakistan in Punjab?",
+    "options": ["Ravi", "Beas", "Jhelum", "Chenab"],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 32,
+    "question": "Which mountain pass connects Himachal Pradesh and Ladakh?",
+    "options": ["Rohtang Pass", "Nathula Pass", "Zoji La", "Banihal Pass"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 33,
+    "question": "In which state is the Silent Valley National Park located?",
+    "options": ["Karnataka", "Kerala", "Tamil Nadu", "Andhra Pradesh"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 34,
+    "question": "Which river flows between the Satpura and Vindhya ranges?",
+    "options": ["Godavari", "Narmada", "Tapti", "Chambal"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 35,
+    "question": "Which city is known as the 'Gateway of North-East India'?",
+    "options": ["Shillong", "Guwahati", "Imphal", "Agartala"],
+    "correctAnswer": 1,
+    "points": 5
+  },
+  {
+    "id": 36,
+    "question": "Which Indian state has the maximum number of national parks?",
+    "options": ["Madhya Pradesh", "Assam", "Uttarakhand", "Maharashtra"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 37,
+    "question": "The Siachen Glacier lies in which mountain range?",
+    "options": ["Himalayas", "Karakoram", "Pir Panjal", "Zanskar"],
+    "correctAnswer": 1,
+    "points": 15
+  },
+  {
+    "id": 38,
+    "question": "Which city lies on the banks of the Ganga and Gomti rivers?",
+    "options": ["Varanasi", "Lucknow", "Allahabad", "Kanpur"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 39,
+    "question": "Which is the smallest state in India by area?",
+    "options": ["Sikkim", "Goa", "Tripura", "Nagaland"],
+    "correctAnswer": 1,
+    "points": 5
+  },
+  {
+    "id": 40,
+    "question": "Which is the highest dam in India?",
+    "options": [
+      "Hirakud Dam",
+      "Tehri Dam",
+      "Bhakra Nangal Dam",
+      "Sardar Sarovar Dam"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 41,
+    "question": "Which state has the largest coal reserves in India?",
+    "options": ["Jharkhand", "Chhattisgarh", "Odisha", "West Bengal"],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 42,
+    "question": "Which mountain pass connects Manali to Leh?",
+    "options": ["Rohtang Pass", "Zoji La", "Shipki La", "Nathu La"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 43,
+    "question": "Which is the northernmost latitude of India?",
+    "options": ["37°6′ N", "35°7′ N", "36°8′ N", "37°5′ N"],
+    "correctAnswer": 3,
+    "points": 15
+  },
+  {
+    "id": 44,
+    "question": "Which river’s tributaries include Ken and Betwa?",
+    "options": ["Ganga", "Yamuna", "Godavari", "Mahanadi"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 45,
+    "question": "Which coastal plain lies between the Mahanadi and Krishna rivers?",
+    "options": [
+      "Konkan Coast",
+      "Coromandel Coast",
+      "Northern Circars",
+      "Malabar Coast"
+    ],
+    "correctAnswer": 2,
+    "points": 15
+  },
+  {
+    "id": 46,
+    "question": "Which Indian city is known as the 'City of Lakes'?",
+    "options": ["Udaipur", "Bhopal", "Nainital", "Srinagar"],
+    "correctAnswer": 0,
+    "points": 5
+  },
+  {
+    "id": 47,
+    "question": "Which is the easternmost state of India?",
+    "options": ["Assam", "Nagaland", "Arunachal Pradesh", "Manipur"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 48,
+    "question": "Which is the largest delta in India?",
+    "options": [
+      "Godavari Delta",
+      "Mahanadi Delta",
+      "Sundarbans Delta",
+      "Krishna Delta"
+    ],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 49,
+    "question": "Which river is known as the lifeline of Madhya Pradesh?",
+    "options": ["Chambal", "Narmada", "Betwa", "Son"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 50,
+    "question": "Which Indian island is of volcanic origin?",
+    "options": [
+      "Little Andaman",
+      "Barren Island",
+      "Neil Island",
+      "Car Nicobar"
+    ],
+    "correctAnswer": 1,
+    "points": 15
+  },
+  {
+    "id": 51,
+    "question": "Which is the southernmost point of mainland India?",
+    "options": ["Kanyakumari", "Indira Point", "Rameswaram", "Dhanushkodi"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 52,
+    "question": "Which is the smallest national park in India?",
+    "options": [
+      "South Button Island NP",
+      "Keibul Lamjao NP",
+      "Valley of Flowers NP",
+      "Silent Valley NP"
+    ],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 53,
+    "question": "In which Indian state is the Lonar Lake located?",
+    "options": ["Madhya Pradesh", "Maharashtra", "Karnataka", "Odisha"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 54,
+    "question": "Which river flows through the state of Goa?",
+    "options": ["Mandovi", "Periyar", "Bharathapuzha", "Godavari"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 55,
+    "question": "Which Indian city is known as the 'Gateway of North East'?",
+    "options": ["Shillong", "Imphal", "Guwahati", "Aizawl"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 56,
+    "question": "Which mountain pass connects Ladakh to the Kashmir Valley?",
+    "options": ["Rohtang Pass", "Zoji La", "Shipki La", "Baralacha La"],
+    "correctAnswer": 1,
+    "points": 15
+  },
+  {
+    "id": 57,
+    "question": "Which is the largest saltwater lake in India?",
+    "options": [
+      "Chilika Lake",
+      "Sambhar Lake",
+      "Pulicat Lake",
+      "Vembanad Lake"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 58,
+    "question": "Which Indian river is known as the 'Sorrow of Bihar'?",
+    "options": ["Kosi", "Gandak", "Son", "Ghaghara"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 59,
+    "question": "The Western Ghats are also known as?",
+    "options": [
+      "Sahyadri Hills",
+      "Nilgiri Hills",
+      "Anamalai Hills",
+      "Cardamom Hills"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 60,
+    "question": "Which plateau is known as the 'Mineral Belt of India'?",
+    "options": [
+      "Deccan Plateau",
+      "Chotanagpur Plateau",
+      "Malwa Plateau",
+      "Baghelkhand Plateau"
+    ],
+    "correctAnswer": 1,
+    "points": 15
+  },
+  {
+    "id": 61,
+    "question": "Which Indian desert is also called the Great Indian Desert?",
+    "options": ["Rann of Kutch", "Thar Desert", "Cold Desert", "Deccan Desert"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 62,
+    "question": "Which state has the longest coastline in India?",
+    "options": ["Kerala", "Tamil Nadu", "Gujarat", "Maharashtra"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 63,
+    "question": "Which river is called 'Dakshin Ganga' or 'Ganga of the South'?",
+    "options": ["Krishna", "Cauvery", "Godavari", "Mahanadi"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 64,
+    "question": "Which Indian state is known as the 'Land of Five Rivers'?",
+    "options": ["Haryana", "Punjab", "Rajasthan", "Himachal Pradesh"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 65,
+    "question": "Which is the highest dam in India?",
+    "options": [
+      "Hirakud Dam",
+      "Bhakra Nangal Dam",
+      "Tehri Dam",
+      "Sardar Sarovar Dam"
+    ],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 66,
+    "question": "Where is the Silent Valley National Park located?",
+    "options": ["Kerala", "Tamil Nadu", "Karnataka", "Assam"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 67,
+    "question": "Which Indian island group is of coral origin?",
+    "options": [
+      "Andaman Islands",
+      "Nicobar Islands",
+      "Lakshadweep Islands",
+      "Sriharikota"
+    ],
+    "correctAnswer": 2,
+    "points": 15
+  },
+  {
+    "id": 68,
+    "question": "Which is the easternmost state of India?",
+    "options": ["Manipur", "Mizoram", "Nagaland", "Arunachal Pradesh"],
+    "correctAnswer": 3,
+    "points": 10
+  },
+  {
+    "id": 69,
+    "question": "Which river forms the Dhuandhar Falls?",
+    "options": ["Chambal", "Narmada", "Tapi", "Betwa"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 70,
+    "question": "Which Indian state has the maximum number of national parks?",
+    "options": ["Assam", "Madhya Pradesh", "Maharashtra", "Uttarakhand"],
+    "correctAnswer": 1,
+    "points": 15
+  },
+  {
+    "id": 71,
+    "question": "Which river’s delta is the largest in the world?",
+    "options": ["Mahanadi", "Godavari", "Ganga-Brahmaputra", "Krishna"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 72,
+    "question": "In which state is the Guru Shikhar peak located?",
+    "options": ["Himachal Pradesh", "Rajasthan", "Madhya Pradesh", "Gujarat"],
+    "correctAnswer": 1,
+    "points": 15
+  },
+  {
+    "id": 73,
+    "question": "Which Indian river flows through a rift valley?",
+    "options": ["Godavari", "Krishna", "Narmada", "Yamuna"],
+    "correctAnswer": 2,
+    "points": 15
+  },
+  {
+    "id": 74,
+    "question": "Which Indian port is the deepest natural harbor?",
+    "options": ["Mumbai", "Visakhapatnam", "Kochi", "Paradip"],
+    "correctAnswer": 1,
+    "points": 15
+  },
+  {
+    "id": 75,
+    "question": "What is the capital of the Union Territory of Ladakh?",
+    "options": ["Kargil", "Leh", "Srinagar", "Itanagar"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 76,
+    "question": "Which river is known as the 'Vridha Ganga'?",
+    "options": ["Godavari", "Krishna", "Mahanadi", "Cauvery"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 77,
+    "question": "Which Indian city lies closest to the Tropic of Cancer?",
+    "options": ["Ranchi", "Ahmedabad", "Bhopal", "Kolkata"],
+    "correctAnswer": 1,
+    "points": 15
+  },
+  {
+    "id": 78,
+    "question": "The 'Seven Sisters' refer to which region of India?",
+    "options": [
+      "Eastern coastal states",
+      "Western Himalayan states",
+      "North-Eastern states",
+      "Union Territories"
+    ],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 79,
+    "question": "Which Indian state shares the longest international border?",
+    "options": ["Rajasthan", "West Bengal", "Uttar Pradesh", "Sikkim"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 80,
+    "question": "Which Indian river has the largest basin?",
+    "options": ["Ganga", "Godavari", "Brahmaputra", "Mahanadi"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 81,
+    "question": "In which state is the Kolleru Lake located?",
+    "options": ["Andhra Pradesh", "Kerala", "Tamil Nadu", "Odisha"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 82,
+    "question": "Which hill range separates the Ganges Plain from the Deccan Plateau?",
+    "options": [
+      "Aravalli Hills",
+      "Vindhya Range",
+      "Satpura Range",
+      "Eastern Ghats"
+    ],
+    "correctAnswer": 1,
+    "points": 15
+  },
+  {
+    "id": 83,
+    "question": "In which state is the Valley of Flowers located?",
+    "options": ["Sikkim", "Himachal Pradesh", "Uttarakhand", "Jammu & Kashmir"],
+    "correctAnswer": 2,
+    "points": 15
+  },
+  {
+    "id": 84,
+    "question": "Which Indian city is called the 'Manchester of South India'?",
+    "options": ["Tirupur", "Coimbatore", "Salem", "Madurai"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 85,
+    "question": "Which is the largest freshwater lake in India?",
+    "options": ["Dal Lake", "Wular Lake", "Loktak Lake", "Chilika Lake"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 86,
+    "question": "Which river originates from the Amarkantak Plateau?",
+    "options": ["Narmada", "Godavari", "Mahanadi", "Tapti"],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 87,
+    "question": "Which pass connects Sikkim with Tibet?",
+    "options": ["Jelep La", "Zoji La", "Rohtang Pass", "Shipki La"],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 88,
+    "question": "Which state has the highest population density in India?",
+    "options": ["Kerala", "Bihar", "Uttar Pradesh", "West Bengal"],
+    "correctAnswer": 1,
+    "points": 15
+  },
+  {
+    "id": 89,
+    "question": "Which Indian river flows through the Thar Desert?",
+    "options": ["Luni", "Sabarmati", "Ghaggar", "Mahi"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 90,
+    "question": "Which island group lies to the south of the equator?",
+    "options": [
+      "Andaman Islands",
+      "Nicobar Islands",
+      "Lakshadweep Islands",
+      "Sri Lanka"
+    ],
+    "correctAnswer": 1,
+    "points": 15
+  },
+  {
+    "id": 91,
+    "question": "Which Indian state has the highest literacy rate?",
+    "options": ["Kerala", "Tamil Nadu", "Goa", "Mizoram"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 92,
+    "question": "Which Indian state is known as the 'Spice Garden of India'?",
+    "options": ["Kerala", "Goa", "Tamil Nadu", "Karnataka"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 93,
+    "question": "Which city is known as the 'Pink City' of India?",
+    "options": ["Udaipur", "Jodhpur", "Jaipur", "Bikaner"],
+    "correctAnswer": 2,
+    "points": 5
+  },
+  {
+    "id": 94,
+    "question": "Which river is the main water source of Delhi?",
+    "options": ["Ganga", "Yamuna", "Ghaggar", "Betwa"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 95,
+    "question": "Which is the largest district in India by area?",
+    "options": ["Jaisalmer", "Kutch", "Leh", "Barmer"],
+    "correctAnswer": 1,
+    "points": 15
+  },
+  {
+    "id": 96,
+    "question": "In which Indian state is the city of Kohima located?",
+    "options": ["Manipur", "Nagaland", "Mizoram", "Tripura"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 97,
+    "question": "Which mountain pass connects Manali to Leh?",
+    "options": ["Rohtang Pass", "Nathu La", "Zoji La", "Khardung La"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 98,
+    "question": "Which Indian city is located on the banks of the Mula-Mutha River?",
+    "options": ["Pune", "Nagpur", "Aurangabad", "Nashik"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 99,
+    "question": "Which is the highest mountain peak in South India?",
+    "options": ["Anamudi", "Dodabetta", "Vagamon", "Kudremukh"],
+    "correctAnswer": 0,
+    "points": 15
+  },
+  {
+    "id": 100,
+    "question": "Which Indian city is called the 'Tea Capital of India'?",
+    "options": ["Darjeeling", "Dibrugarh", "Guwahati", "Siliguri"],
+    "correctAnswer": 1,
+    "points": 10
+  }
+]

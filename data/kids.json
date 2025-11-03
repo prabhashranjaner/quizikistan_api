@@ -1,0 +1,742 @@
+[
+  {
+    "id": 1,
+    "question": "What planet is known as the Red Planet?",
+    "options": ["Venus", "Mars", "Jupiter", "Earth"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 2,
+    "question": "Which animal is known as the King of the Jungle?",
+    "options": ["Elephant", "Lion", "Tiger", "Bear"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 3,
+    "question": "How many colors are there in a rainbow?",
+    "options": ["5", "6", "7", "8"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 4,
+    "question": "What is the name of Mickey Mouse’s pet dog?",
+    "options": ["Goofy", "Pluto", "Donald", "Max"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 5,
+    "question": "Which is the largest planet in our solar system?",
+    "options": ["Earth", "Saturn", "Jupiter", "Neptune"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 6,
+    "question": "What is the national animal of India?",
+    "options": ["Elephant", "Lion", "Tiger", "Peacock"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 7,
+    "question": "What is H2O commonly known as?",
+    "options": ["Salt", "Sugar", "Water", "Oxygen"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 8,
+    "question": "How many legs does a spider have?",
+    "options": ["6", "8", "10", "12"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 9,
+    "question": "What is the capital of India?",
+    "options": ["Mumbai", "Kolkata", "New Delhi", "Chennai"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 10,
+    "question": "Which bird is known for its beautiful tail and dance?",
+    "options": ["Parrot", "Crow", "Peacock", "Eagle"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 11,
+    "question": "Which shape has three sides?",
+    "options": ["Square", "Circle", "Triangle", "Rectangle"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 12,
+    "question": "Which ocean is the largest?",
+    "options": [
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Atlantic Ocean",
+      "Arctic Ocean"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 13,
+    "question": "Who invented the light bulb?",
+    "options": [
+      "Albert Einstein",
+      "Isaac Newton",
+      "Thomas Edison",
+      "Nikola Tesla"
+    ],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 14,
+    "question": "What is the color of chlorophyll?",
+    "options": ["Red", "Blue", "Green", "Yellow"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 15,
+    "question": "What is the tallest animal on Earth?",
+    "options": ["Elephant", "Giraffe", "Kangaroo", "Camel"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 16,
+    "question": "Which month has 28 or 29 days?",
+    "options": ["January", "February", "March", "April"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 17,
+    "question": "What is the color of an emerald?",
+    "options": ["Red", "Blue", "Green", "Purple"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 18,
+    "question": "How many continents are there in the world?",
+    "options": ["5", "6", "7", "8"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 19,
+    "question": "Which is the smallest bird in the world?",
+    "options": ["Sparrow", "Hummingbird", "Parrot", "Robin"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 20,
+    "question": "What do bees make?",
+    "options": ["Milk", "Wax", "Honey", "Silk"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 21,
+    "question": "What gas do humans need to breathe to live?",
+    "options": ["Carbon dioxide", "Oxygen", "Nitrogen", "Helium"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 22,
+    "question": "Which festival is known as the Festival of Lights in India?",
+    "options": ["Holi", "Diwali", "Eid", "Christmas"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 23,
+    "question": "How many players are there in a cricket team?",
+    "options": ["9", "10", "11", "12"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 24,
+    "question": "Which planet is closest to the Sun?",
+    "options": ["Venus", "Mercury", "Earth", "Mars"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 25,
+    "question": "How many days are there in a leap year?",
+    "options": ["364", "365", "366", "367"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 26,
+    "question": "Which animal gives us wool?",
+    "options": ["Cow", "Goat", "Sheep", "Camel"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 27,
+    "question": "What do plants need to make their food?",
+    "options": [
+      "Sunlight, water, and air",
+      "Sand and stones",
+      "Only water",
+      "None"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 28,
+    "question": "Which fruit keeps the doctor away if eaten every day?",
+    "options": ["Banana", "Apple", "Mango", "Orange"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 29,
+    "question": "Who is the Prime Minister of India (as of 2025)?",
+    "options": ["Narendra Modi", "Rahul Gandhi", "Amit Shah", "Manmohan Singh"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 30,
+    "question": "Which planet has rings around it?",
+    "options": ["Earth", "Saturn", "Mars", "Jupiter"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 31,
+    "question": "What is the largest mammal in the world?",
+    "options": ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 32,
+    "question": "Which bird can mimic human speech?",
+    "options": ["Crow", "Owl", "Parrot", "Pigeon"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 33,
+    "question": "How many hours are there in a day?",
+    "options": ["12", "24", "48", "60"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 34,
+    "question": "What is the fastest land animal?",
+    "options": ["Lion", "Cheetah", "Horse", "Leopard"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 35,
+    "question": "What shape is a stop sign?",
+    "options": ["Triangle", "Octagon", "Circle", "Square"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 36,
+    "question": "What is the name of Harry Potter’s pet owl?",
+    "options": ["Hedwig", "Crookshanks", "Scabbers", "Errol"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 37,
+    "question": "What is the name of the biggest ocean on Earth?",
+    "options": ["Indian", "Pacific", "Atlantic", "Arctic"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 38,
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "options": ["China", "Japan", "Korea", "Thailand"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 39,
+    "question": "How many bones are there in the adult human body?",
+    "options": ["206", "205", "208", "210"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 40,
+    "question": "Which is the smallest planet in our solar system?",
+    "options": ["Mercury", "Venus", "Mars", "Pluto"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 41,
+    "question": "What is the name of the fairy in Peter Pan?",
+    "options": ["Cinderella", "Tinker Bell", "Ariel", "Belle"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 42,
+    "question": "Which organ pumps blood in the human body?",
+    "options": ["Brain", "Lungs", "Heart", "Liver"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 43,
+    "question": "What is the capital of France?",
+    "options": ["Berlin", "Madrid", "Paris", "Rome"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 44,
+    "question": "Which fruit is known as the king of fruits?",
+    "options": ["Banana", "Apple", "Mango", "Pineapple"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 45,
+    "question": "Which animal has a long trunk?",
+    "options": ["Elephant", "Camel", "Horse", "Tiger"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 46,
+    "question": "Which continent is also a country?",
+    "options": ["Asia", "Australia", "Europe", "Africa"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 47,
+    "question": "Which famous scientist developed the theory of relativity?",
+    "options": ["Newton", "Einstein", "Edison", "Tesla"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 48,
+    "question": "How many planets are there in our solar system?",
+    "options": ["7", "8", "9", "10"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 49,
+    "question": "What is the national flower of India?",
+    "options": ["Lotus", "Rose", "Sunflower", "Lily"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 50,
+    "question": "What do you call a baby cat?",
+    "options": ["Calf", "Puppy", "Kitten", "Cub"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 51,
+    "question": "What do caterpillars turn into?",
+    "options": ["Bees", "Butterflies", "Flies", "Worms"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 52,
+    "question": "Which festival marks the harvest season in Punjab?",
+    "options": ["Bihu", "Onam", "Lohri", "Pongal"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 53,
+    "question": "Which is the hardest natural substance on Earth?",
+    "options": ["Gold", "Iron", "Diamond", "Silver"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 54,
+    "question": "What is the name of the fairy tale girl who had very long hair?",
+    "options": ["Cinderella", "Rapunzel", "Snow White", "Ariel"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 55,
+    "question": "Which instrument has black and white keys?",
+    "options": ["Guitar", "Piano", "Violin", "Drum"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 56,
+    "question": "Which is the largest desert in the world?",
+    "options": ["Sahara", "Gobi", "Arctic", "Kalahari"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 57,
+    "question": "What part of the plant conducts photosynthesis?",
+    "options": ["Root", "Leaf", "Stem", "Flower"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 58,
+    "question": "How many players are there in a football team?",
+    "options": ["9", "10", "11", "12"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 59,
+    "question": "Which country gifted the Statue of Liberty to the USA?",
+    "options": ["England", "France", "Italy", "Germany"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 60,
+    "question": "Which is the largest internal organ in the human body?",
+    "options": ["Liver", "Heart", "Lungs", "Kidneys"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 61,
+    "question": "What is the main source of energy for the Earth?",
+    "options": ["Wind", "Water", "Sun", "Electricity"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 62,
+    "question": "Which animal is known to have a pouch for carrying babies?",
+    "options": ["Kangaroo", "Elephant", "Monkey", "Cat"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 63,
+    "question": "What is 15 + 25?",
+    "options": ["30", "35", "40", "45"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 64,
+    "question": "Which famous Indian scientist is known as the Missile Man of India?",
+    "options": [
+      "C.V. Raman",
+      "Homi Bhabha",
+      "A.P.J. Abdul Kalam",
+      "Vikram Sarabhai"
+    ],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 65,
+    "question": "Which day is celebrated as Children's Day in India?",
+    "options": ["January 26", "November 14", "October 2", "August 15"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 66,
+    "question": "How many sides does a hexagon have?",
+    "options": ["5", "6", "7", "8"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 67,
+    "question": "What is the name of the largest river in India?",
+    "options": ["Ganga", "Yamuna", "Brahmaputra", "Godavari"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 68,
+    "question": "Which game is known as the 'Gentleman's Game'?",
+    "options": ["Football", "Hockey", "Cricket", "Golf"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 69,
+    "question": "Who was the first Prime Minister of India?",
+    "options": [
+      "Mahatma Gandhi",
+      "Jawaharlal Nehru",
+      "Sardar Patel",
+      "Rajendra Prasad"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 70,
+    "question": "Which animal is known as the 'Ship of the Desert'?",
+    "options": ["Horse", "Camel", "Elephant", "Donkey"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 71,
+    "question": "Which fruit is used to make wine?",
+    "options": ["Apple", "Grapes", "Mango", "Banana"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 72,
+    "question": "What is the national currency of India?",
+    "options": ["Rupee", "Dollar", "Yen", "Pound"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 73,
+    "question": "What is the color of the sky on a clear day?",
+    "options": ["Red", "Blue", "Green", "Gray"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 74,
+    "question": "Which city is known as the 'Pink City' of India?",
+    "options": ["Delhi", "Jaipur", "Agra", "Varanasi"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 75,
+    "question": "Who wrote the national anthem of India?",
+    "options": [
+      "Rabindranath Tagore",
+      "Bankim Chandra Chatterjee",
+      "Mahatma Gandhi",
+      "Sarojini Naidu"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 76,
+    "question": "Which sense organ helps us to smell?",
+    "options": ["Eyes", "Ears", "Nose", "Tongue"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 77,
+    "question": "Which planet is known for its beautiful rings?",
+    "options": ["Mars", "Jupiter", "Saturn", "Neptune"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 78,
+    "question": "Who is known as the Father of the Nation in India?",
+    "options": [
+      "Bhagat Singh",
+      "Jawaharlal Nehru",
+      "Mahatma Gandhi",
+      "Subhas Chandra Bose"
+    ],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 79,
+    "question": "What is the largest bone in the human body?",
+    "options": ["Skull", "Spine", "Femur", "Rib"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 80,
+    "question": "Which fairy tale character slept for 100 years?",
+    "options": ["Snow White", "Cinderella", "Sleeping Beauty", "Rapunzel"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 81,
+    "question": "Which is the hottest planet in the solar system?",
+    "options": ["Mercury", "Venus", "Mars", "Earth"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 82,
+    "question": "Which festival is known as the Festival of Colors?",
+    "options": ["Eid", "Holi", "Diwali", "Christmas"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 83,
+    "question": "What is the chemical symbol of gold?",
+    "options": ["Ag", "Gd", "Au", "Go"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 84,
+    "question": "Which Indian city is famous for film production?",
+    "options": ["Delhi", "Bengaluru", "Mumbai", "Kolkata"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 85,
+    "question": "Which organ helps us to hear?",
+    "options": ["Eyes", "Ears", "Nose", "Skin"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 86,
+    "question": "How many letters are there in the English alphabet?",
+    "options": ["24", "25", "26", "27"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 87,
+    "question": "Which Indian cricketer is known as the 'God of Cricket'?",
+    "options": ["Virat Kohli", "MS Dhoni", "Sachin Tendulkar", "Kapil Dev"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 88,
+    "question": "What do you call a group of lions?",
+    "options": ["Pack", "Herd", "Pride", "Troop"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 89,
+    "question": "Which is the coldest place on Earth?",
+    "options": ["Greenland", "Antarctica", "Alaska", "Iceland"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 90,
+    "question": "Who was the first man to step on the Moon?",
+    "options": [
+      "Yuri Gagarin",
+      "Neil Armstrong",
+      "Buzz Aldrin",
+      "Kalpana Chawla"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 91,
+    "question": "Which part of the body helps us to see?",
+    "options": ["Eyes", "Nose", "Ears", "Skin"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 92,
+    "question": "How many players are there in a basketball team?",
+    "options": ["5", "7", "9", "11"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 93,
+    "question": "Which gas is used by plants during photosynthesis?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Helium"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 94,
+    "question": "Which Indian festival celebrates the victory of good over evil?",
+    "options": ["Diwali", "Holi", "Eid", "Baisakhi"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 95,
+    "question": "What is the color of milk?",
+    "options": ["White", "Blue", "Yellow", "Gray"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 96,
+    "question": "Which organ helps in digestion by producing bile?",
+    "options": ["Heart", "Liver", "Stomach", "Pancreas"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 97,
+    "question": "What is the name of the largest continent?",
+    "options": ["Africa", "Europe", "Asia", "North America"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 98,
+    "question": "Which Indian monument is one of the Seven Wonders of the World?",
+    "options": ["Qutub Minar", "Taj Mahal", "Red Fort", "Charminar"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 99,
+    "question": "Which cartoon character lives in a pineapple under the sea?",
+    "options": ["Doraemon", "Mickey Mouse", "SpongeBob SquarePants", "Tom"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 100,
+    "question": "What color are bananas when they are ripe?",
+    "options": ["Green", "Yellow", "Red", "Brown"],
+    "correctAnswer": 1,
+    "points": 10
+  }
+]
