@@ -10,6 +10,7 @@ const currentAffairsQuestions = require("./data/current_affairs.json");
 const historyQuestions = require("./data/history.json");
 const politiesQuestions = require("./data/politics.json");
 const kidsQuestions = require("./data/kids.json");
+const famousPersonalityQuestions = require("./data/famous.json");
 
 const app = express();
 
@@ -89,8 +90,13 @@ app.get("/api/v1/politics", (req, res) => {
   sendJson(req, res, politiesQuestions);
 });
 
-// ! Politics questions
+// ! kids questions
 app.get("/api/v1/kids", (req, res) => {
+  sendJson(req, res, kidsQuestions);
+});
+
+// ! Famous personality questions
+app.get("/api/v1/famous", (req, res) => {
   sendJson(req, res, kidsQuestions);
 });
 

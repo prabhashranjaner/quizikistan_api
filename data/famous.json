@@ -1,0 +1,1087 @@
+[
+  {
+    "id": 1,
+    "question": "Who was the first President of India?",
+    "options": [
+      "Dr. Rajendra Prasad",
+      "Dr. S. Radhakrishnan",
+      "Jawaharlal Nehru",
+      "Lal Bahadur Shastri"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 2,
+    "question": "Who is known as the Father of the Nation in India?",
+    "options": [
+      "Subhas Chandra Bose",
+      "Mahatma Gandhi",
+      "Bhagat Singh",
+      "Sardar Patel"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 3,
+    "question": "Who discovered the theory of relativity?",
+    "options": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Galileo Galilei",
+      "Stephen Hawking"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 4,
+    "question": "Who wrote the play 'Romeo and Juliet'?",
+    "options": [
+      "William Shakespeare",
+      "Charles Dickens",
+      "George Bernard Shaw",
+      "Jane Austen"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 5,
+    "question": "Who was the first woman Prime Minister of India?",
+    "options": [
+      "Sonia Gandhi",
+      "Indira Gandhi",
+      "Sarojini Naidu",
+      "Pratibha Patil"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 6,
+    "question": "Who painted the Mona Lisa?",
+    "options": [
+      "Leonardo da Vinci",
+      "Vincent van Gogh",
+      "Michelangelo",
+      "Pablo Picasso"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 7,
+    "question": "Who was the founder of Microsoft?",
+    "options": ["Steve Jobs", "Bill Gates", "Elon Musk", "Jeff Bezos"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 8,
+    "question": "Who led the Salt March in India’s freedom movement?",
+    "options": [
+      "Mahatma Gandhi",
+      "Bal Gangadhar Tilak",
+      "Lala Lajpat Rai",
+      "Sardar Patel"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 9,
+    "question": "Who was the first man to step on the Moon?",
+    "options": [
+      "Buzz Aldrin",
+      "Neil Armstrong",
+      "Yuri Gagarin",
+      "Michael Collins"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 10,
+    "question": "Who is known as the 'Iron Man of India'?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Bhagat Singh",
+      "Subhas Chandra Bose"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 11,
+    "question": "Who is the founder of SpaceX and Tesla?",
+    "options": ["Jeff Bezos", "Larry Page", "Elon Musk", "Mark Zuckerberg"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 12,
+    "question": "Who wrote the Indian national anthem?",
+    "options": [
+      "Bankim Chandra Chatterjee",
+      "Rabindranath Tagore",
+      "Sarojini Naidu",
+      "Mahatma Gandhi"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 13,
+    "question": "Who discovered gravity?",
+    "options": ["Isaac Newton", "Albert Einstein", "Galileo", "Copernicus"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 14,
+    "question": "Who is known as the 'Missile Man of India'?",
+    "options": [
+      "Homi Bhabha",
+      "C.V. Raman",
+      "A.P.J. Abdul Kalam",
+      "Vikram Sarabhai"
+    ],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 15,
+    "question": "Who is the author of 'Harry Potter'?",
+    "options": [
+      "J.K. Rowling",
+      "Suzanne Collins",
+      "Stephen King",
+      "Roald Dahl"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 16,
+    "question": "Who is known as the 'Father of the Indian Constitution'?",
+    "options": [
+      "Mahatma Gandhi",
+      "B.R. Ambedkar",
+      "Rajendra Prasad",
+      "Jawaharlal Nehru"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 17,
+    "question": "Who was the first Indian woman to go to space?",
+    "options": [
+      "Kalpana Chawla",
+      "Sunita Williams",
+      "Ritu Karidhal",
+      "Tessy Thomas"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 18,
+    "question": "Who was known as 'Netaji'?",
+    "options": [
+      "Bhagat Singh",
+      "Subhas Chandra Bose",
+      "Chandra Shekhar Azad",
+      "Sardar Patel"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 19,
+    "question": "Who is the current CEO of Google (as of 2025)?",
+    "options": [
+      "Satya Nadella",
+      "Sundar Pichai",
+      "Arvind Krishna",
+      "Parag Agrawal"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 20,
+    "question": "Who discovered penicillin?",
+    "options": [
+      "Alexander Fleming",
+      "Louis Pasteur",
+      "Marie Curie",
+      "Robert Koch"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 21,
+    "question": "Who is known as the 'Nightingale of India'?",
+    "options": [
+      "Lata Mangeshkar",
+      "Sarojini Naidu",
+      "Mother Teresa",
+      "Indira Gandhi"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 22,
+    "question": "Who founded Facebook?",
+    "options": ["Larry Page", "Mark Zuckerberg", "Elon Musk", "Jack Dorsey"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 23,
+    "question": "Who was the first Indian to win a Nobel Prize?",
+    "options": [
+      "C.V. Raman",
+      "Rabindranath Tagore",
+      "Mother Teresa",
+      "Amartya Sen"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 24,
+    "question": "Who is known as the 'Father of Computers'?",
+    "options": ["Alan Turing", "Charles Babbage", "Bill Gates", "Steve Jobs"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 25,
+    "question": "Who discovered India’s sea route from Europe?",
+    "options": [
+      "Christopher Columbus",
+      "Vasco da Gama",
+      "Ferdinand Magellan",
+      "Marco Polo"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 26,
+    "question": "Who was the first woman to win a Nobel Prize?",
+    "options": [
+      "Marie Curie",
+      "Mother Teresa",
+      "Indira Gandhi",
+      "Jane Goodall"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 27,
+    "question": "Who is the founder of Amazon?",
+    "options": ["Bill Gates", "Elon Musk", "Jeff Bezos", "Larry Page"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 28,
+    "question": "Who wrote the book 'The Discovery of India'?",
+    "options": [
+      "Mahatma Gandhi",
+      "B.R. Ambedkar",
+      "Jawaharlal Nehru",
+      "Subhas Chandra Bose"
+    ],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 29,
+    "question": "Who is known as the 'Flying Sikh' of India?",
+    "options": [
+      "Milkha Singh",
+      "P.T. Usha",
+      "Abhinav Bindra",
+      "Bhaichung Bhutia"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 30,
+    "question": "Who was the first woman President of India?",
+    "options": [
+      "Indira Gandhi",
+      "Pratibha Patil",
+      "Sonia Gandhi",
+      "Sarojini Naidu"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 31,
+    "question": "Who invented the telephone?",
+    "options": [
+      "Alexander Graham Bell",
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Marconi"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 32,
+    "question": "Who was the 16th President of the United States known for abolishing slavery?",
+    "options": [
+      "George Washington",
+      "Abraham Lincoln",
+      "John F. Kennedy",
+      "Franklin D. Roosevelt"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 33,
+    "question": "Who wrote the book 'Wings of Fire'?",
+    "options": [
+      "Chetan Bhagat",
+      "A.P.J. Abdul Kalam",
+      "R.K. Narayan",
+      "Arundhati Roy"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 34,
+    "question": "Who invented the World Wide Web?",
+    "options": [
+      "Tim Berners-Lee",
+      "Steve Jobs",
+      "Bill Gates",
+      "Mark Zuckerberg"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 35,
+    "question": "Who was the first Indian woman to climb Mount Everest?",
+    "options": [
+      "Kalpana Chawla",
+      "Bachendri Pal",
+      "Premlata Agarwal",
+      "Arunima Sinha"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 36,
+    "question": "Who discovered electricity?",
+    "options": [
+      "Benjamin Franklin",
+      "Thomas Edison",
+      "Nikola Tesla",
+      "James Watt"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 37,
+    "question": "Who is known as the 'Father of Indian Space Program'?",
+    "options": [
+      "A.P.J. Abdul Kalam",
+      "Homi Bhabha",
+      "Vikram Sarabhai",
+      "C.V. Raman"
+    ],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 38,
+    "question": "Who composed the Indian national song 'Vande Mataram'?",
+    "options": [
+      "Rabindranath Tagore",
+      "Bankim Chandra Chatterjee",
+      "Lala Lajpat Rai",
+      "Bal Gangadhar Tilak"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 39,
+    "question": "Who is known as the 'Father of Modern Physics'?",
+    "options": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Niels Bohr",
+      "Galileo Galilei"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 40,
+    "question": "Who was the founder of Buddhism?",
+    "options": ["Lord Mahavira", "Gautama Buddha", "Ashoka", "Adi Shankara"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 41,
+    "question": "Who is known as the 'Father of Economics'?",
+    "options": [
+      "John Maynard Keynes",
+      "Adam Smith",
+      "Karl Marx",
+      "David Ricardo"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 42,
+    "question": "Who invented the airplane?",
+    "options": [
+      "Wright Brothers",
+      "Alexander Bell",
+      "Thomas Edison",
+      "Henry Ford"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 43,
+    "question": "Who was the first woman to win the Bharat Ratna?",
+    "options": [
+      "Mother Teresa",
+      "Indira Gandhi",
+      "Lata Mangeshkar",
+      "Sarojini Naidu"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 44,
+    "question": "Who is known as the 'Father of the Nation' in South Africa?",
+    "options": [
+      "Nelson Mandela",
+      "Desmond Tutu",
+      "Jacob Zuma",
+      "Cyril Ramaphosa"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 45,
+    "question": "Who was the famous nurse known as the 'Lady with the Lamp'?",
+    "options": [
+      "Florence Nightingale",
+      "Mother Teresa",
+      "Clara Barton",
+      "Marie Curie"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 46,
+    "question": "Who is the founder of Reliance Industries?",
+    "options": [
+      "Mukesh Ambani",
+      "Dhirubhai Ambani",
+      "Anil Ambani",
+      "Ratan Tata"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 47,
+    "question": "Who is known as the 'Father of Indian Renaissance'?",
+    "options": [
+      "Raja Ram Mohan Roy",
+      "Ishwar Chandra Vidyasagar",
+      "Swami Vivekananda",
+      "Dayananda Saraswati"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 48,
+    "question": "Who is the captain of the Indian men's cricket team (as of 2025)?",
+    "options": ["Rohit Sharma", "Virat Kohli", "Hardik Pandya", "Shubman Gill"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 49,
+    "question": "Who is the founder of Tata Group?",
+    "options": ["J.R.D. Tata", "Jamsetji Tata", "Ratan Tata", "Nusli Wadia"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 50,
+    "question": "Who wrote 'The God of Small Things'?",
+    "options": ["Jhumpa Lahiri", "Arundhati Roy", "Anita Desai", "Kiran Desai"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 51,
+    "question": "Who was the first Indian to win an individual Olympic gold medal?",
+    "options": [
+      "Leander Paes",
+      "Abhinav Bindra",
+      "Rajyavardhan Singh Rathore",
+      "Neeraj Chopra"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 52,
+    "question": "Who was the first woman to win a Nobel Prize in two different sciences?",
+    "options": [
+      "Rosalind Franklin",
+      "Marie Curie",
+      "Ada Lovelace",
+      "Dorothy Hodgkin"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 53,
+    "question": "Who led the Indian Rebellion of 1857 in Jhansi?",
+    "options": [
+      "Begum Hazrat Mahal",
+      "Rani Laxmi Bai",
+      "Chand Bibi",
+      "Ahilyabai Holkar"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 54,
+    "question": "Who is known as the ‘Father of Indian Green Revolution’?",
+    "options": [
+      "Verghese Kurien",
+      "M.S. Swaminathan",
+      "C. Subramaniam",
+      "Norman Borlaug"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 55,
+    "question": "Who was the first Indian to travel to space?",
+    "options": [
+      "Rakesh Sharma",
+      "Kalpana Chawla",
+      "Sunita Williams",
+      "Vikram Ambalal"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 56,
+    "question": "Who wrote 'The Interpretation of Dreams'?",
+    "options": ["Carl Jung", "Sigmund Freud", "Alfred Adler", "Jean Piaget"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 57,
+    "question": "Who is known as the 'Wizard of Menlo Park'?",
+    "options": [
+      "Nikola Tesla",
+      "Thomas Edison",
+      "Alexander Bell",
+      "James Watt"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 58,
+    "question": "Who was the founder of Paytm?",
+    "options": [
+      "Bhavish Aggarwal",
+      "Vijay Shekhar Sharma",
+      "Kunal Bahl",
+      "Byju Raveendran"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 59,
+    "question": "Who was the first Indian to receive the Bharat Ratna?",
+    "options": [
+      "C. Rajagopalachari",
+      "Jawaharlal Nehru",
+      "Dr. S. Radhakrishnan",
+      "Rajendra Prasad"
+    ],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 60,
+    "question": "Who is the Nobel Prize-winning economist known for welfare economics?",
+    "options": [
+      "Amartya Sen",
+      "Raghuram Rajan",
+      "Manmohan Singh",
+      "Abhijit Banerjee"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 61,
+    "question": "Who was the first Indian woman to win an Olympic medal?",
+    "options": ["Mary Kom", "P.T. Usha", "Karnam Malleswari", "Saina Nehwal"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 62,
+    "question": "Who is known as the 'Father of the Indian Navy'?",
+    "options": [
+      "Chhatrapati Shivaji Maharaj",
+      "Tipu Sultan",
+      "Sam Manekshaw",
+      "Raja Raja Chola"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 63,
+    "question": "Who invented the light bulb?",
+    "options": [
+      "Nikola Tesla",
+      "Thomas Edison",
+      "Michael Faraday",
+      "Benjamin Franklin"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 64,
+    "question": "Who composed 'Sare Jahan Se Achha'?",
+    "options": [
+      "Rabindranath Tagore",
+      "Muhammad Iqbal",
+      "Bankim Chandra Chatterjee",
+      "Allama Iqbal"
+    ],
+    "correctAnswer": 3,
+    "points": 10
+  },
+  {
+    "id": 65,
+    "question": "Who founded Infosys?",
+    "options": [
+      "Azim Premji",
+      "Narayana Murthy",
+      "Shiv Nadar",
+      "Nandan Nilekani"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 66,
+    "question": "Who was the first Indian Miss World?",
+    "options": [
+      "Aishwarya Rai",
+      "Sushmita Sen",
+      "Reita Faria",
+      "Priyanka Chopra"
+    ],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 67,
+    "question": "Who is known as the 'Father of Indian Cinema'?",
+    "options": ["Satyajit Ray", "Dadasaheb Phalke", "Raj Kapoor", "Bimal Roy"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 68,
+    "question": "Who is the author of 'The Diary of a Young Girl'?",
+    "options": ["Helen Keller", "Anne Frank", "Jane Austen", "Emily Brontë"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 69,
+    "question": "Who discovered the electron?",
+    "options": ["J.J. Thomson", "Rutherford", "Bohr", "Dalton"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 70,
+    "question": "Who was the first woman Chief Minister of an Indian state?",
+    "options": [
+      "Annie Besant",
+      "Sucheta Kriplani",
+      "Indira Gandhi",
+      "Vijaya Lakshmi Pandit"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 71,
+    "question": "Who won the first Nobel Prize in Physics?",
+    "options": [
+      "Albert Einstein",
+      "Wilhelm Röntgen",
+      "Max Planck",
+      "Marie Curie"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 72,
+    "question": "Who was the first Indian to receive the Nobel Peace Prize?",
+    "options": [
+      "Mother Teresa",
+      "Rabindranath Tagore",
+      "Kailash Satyarthi",
+      "C.V. Raman"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 73,
+    "question": "Who is known as the 'Father of Indian Railways'?",
+    "options": [
+      "Lord Dalhousie",
+      "Raja Ram Mohan Roy",
+      "C. Rajagopalachari",
+      "Lord Curzon"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 74,
+    "question": "Who is the famous physicist known for black hole theory?",
+    "options": [
+      "Albert Einstein",
+      "Stephen Hawking",
+      "Max Planck",
+      "Niels Bohr"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 75,
+    "question": "Who invented the printing press?",
+    "options": [
+      "Johannes Gutenberg",
+      "Alexander Bell",
+      "Galileo Galilei",
+      "Thomas Edison"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 76,
+    "question": "Who is the first Indian woman IPS officer?",
+    "options": [
+      "Kiran Bedi",
+      "Ranjana Kumari",
+      "Smita Sabharwal",
+      "Rekha Sharma"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 77,
+    "question": "Who founded Apple Inc.?",
+    "options": ["Steve Jobs", "Steve Wozniak", "Bill Gates", "Larry Page"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 78,
+    "question": "Who was the first Indian to receive the Nobel Prize in Literature?",
+    "options": [
+      "Arundhati Roy",
+      "V.S. Naipaul",
+      "Rabindranath Tagore",
+      "R.K. Narayan"
+    ],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 79,
+    "question": "Who was the founder of the Mughal Empire?",
+    "options": ["Akbar", "Babur", "Humayun", "Aurangzeb"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 80,
+    "question": "Who was the founder of the Maurya Empire?",
+    "options": ["Ashoka", "Bindusara", "Chandragupta Maurya", "Chanakya"],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 81,
+    "question": "Who is the founder of Google?",
+    "options": [
+      "Bill Gates and Paul Allen",
+      "Larry Page and Sergey Brin",
+      "Mark Zuckerberg and Dustin Moskovitz",
+      "Jeff Bezos and Andy Jassy"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 82,
+    "question": "Who is known as the 'Father of the Indian IT Industry'?",
+    "options": [
+      "Narayana Murthy",
+      "Azim Premji",
+      "F.C. Kohli",
+      "Vijay Shekhar Sharma"
+    ],
+    "correctAnswer": 2,
+    "points": 10
+  },
+  {
+    "id": 83,
+    "question": "Who was known as the 'Frontier Gandhi'?",
+    "options": [
+      "Mahatma Gandhi",
+      "Khan Abdul Ghaffar Khan",
+      "Maulana Azad",
+      "Sardar Patel"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 84,
+    "question": "Who invented dynamite?",
+    "options": ["Alfred Nobel", "Marie Curie", "Nikola Tesla", "Robert Boyle"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 85,
+    "question": "Who discovered radioactivity?",
+    "options": [
+      "Marie Curie",
+      "Henri Becquerel",
+      "Ernest Rutherford",
+      "J.J. Thomson"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 86,
+    "question": "Who wrote 'Geetanjali'?",
+    "options": [
+      "Sarojini Naidu",
+      "Rabindranath Tagore",
+      "Bankim Chandra Chatterjee",
+      "Munshi Premchand"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 87,
+    "question": "Who was the founder of Jainism?",
+    "options": ["Mahavira", "Buddha", "Ashoka", "Chandragupta"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 88,
+    "question": "Who was known as the ‘Grand Old Man of India’?",
+    "options": [
+      "Gopal Krishna Gokhale",
+      "Dadabhai Naoroji",
+      "Bal Gangadhar Tilak",
+      "Motilal Nehru"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 89,
+    "question": "Who was the founder of the Indian National Congress?",
+    "options": [
+      "Allan Octavian Hume",
+      "Dadabhai Naoroji",
+      "Motilal Nehru",
+      "S.N. Banerjee"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 90,
+    "question": "Who is known as the 'Missile Woman of India'?",
+    "options": [
+      "Tessy Thomas",
+      "Ritu Karidhal",
+      "Kalpana Chawla",
+      "Sunita Williams"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 91,
+    "question": "Who is the youngest Nobel laureate in history?",
+    "options": [
+      "Albert Einstein",
+      "Malala Yousafzai",
+      "Greta Thunberg",
+      "Kailash Satyarthi"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 92,
+    "question": "Who was the founder of the Sikh religion?",
+    "options": [
+      "Guru Nanak Dev Ji",
+      "Guru Gobind Singh Ji",
+      "Guru Arjan Dev Ji",
+      "Guru Angad Dev Ji"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 93,
+    "question": "Who is the first Indian-origin Prime Minister of the United Kingdom?",
+    "options": ["Rishi Sunak", "Priti Patel", "Sadiq Khan", "Alok Sharma"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 94,
+    "question": "Who was the first Indian Governor-General of independent India?",
+    "options": [
+      "C. Rajagopalachari",
+      "Rajendra Prasad",
+      "Lord Mountbatten",
+      "Jawaharlal Nehru"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 95,
+    "question": "Who is the founder of BYJU’S?",
+    "options": [
+      "Byju Raveendran",
+      "Vineet Nayar",
+      "Kunal Bahl",
+      "Ritesh Agarwal"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 96,
+    "question": "Who won the first Nobel Prize for India in Physics?",
+    "options": ["C.V. Raman", "Homi Bhabha", "S.N. Bose", "Vikram Sarabhai"],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 97,
+    "question": "Who discovered the vaccine for smallpox?",
+    "options": [
+      "Louis Pasteur",
+      "Edward Jenner",
+      "Robert Koch",
+      "Alexander Fleming"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 98,
+    "question": "Who was the first Indian woman to receive the Nobel Peace Prize?",
+    "options": [
+      "Mother Teresa",
+      "Indira Gandhi",
+      "Sarojini Naidu",
+      "Medha Patkar"
+    ],
+    "correctAnswer": 0,
+    "points": 10
+  },
+  {
+    "id": 99,
+    "question": "Who is known as the 'Father of Indian Cinema'?",
+    "options": ["Raj Kapoor", "Dadasaheb Phalke", "Satyajit Ray", "Bimal Roy"],
+    "correctAnswer": 1,
+    "points": 10
+  },
+  {
+    "id": 100,
+    "question": "Who is the first Indian woman to become President of the country?",
+    "options": [
+      "Pratibha Patil",
+      "Droupadi Murmu",
+      "Indira Gandhi",
+      "Sarojini Naidu"
+    ],
+    "correctAnswer": 1,
+    "points": 10
+  }
+]
