@@ -97,7 +97,7 @@ app.get("/api/v1/kids", (req, res) => {
 
 // ! Famous personality questions
 app.get("/api/v1/famous", (req, res) => {
-  sendJson(req, res, kidsQuestions);
+  sendJson(req, res, famousPersonalityQuestions);
 });
 
 const server = app.listen(PORT, function () {
